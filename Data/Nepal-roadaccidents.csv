@@ -1,0 +1,551 @@
+Accident_ID,Year,Month,Province,District,City / Place,Latitude,Longitude,Road_Type,Vehicle_Type,Accident_Cause,Time_of_Day,Number_of_Vehicles_Involved,Injuries,Fatalities,Emergency_Response_Time_Minutes,Weather_Condition,SDG_Indicator,Victim_Gender,Victim_Age_Group,Road_User_Type,Total_People_Killed
+ACC-00001,2022,12,Karnali,Surkhet,Birendranagar,28.616393,81.618594,Highway,Motorcycle,Human Error,Morning,4,2,0,10,Clear,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-00002,2025,7,Lumbini,Rupandehi,Gaidahawa,27.56193,83.398993,Urban Road,Motorcycle,Flood,Morning,2,5,3,26,Rainy,SDG 3.6,Female,45–64,Motorcyclist,3
+ACC-00003,2023,10,Madhesh,Dhanusha,Dhanushadham,26.758865,85.925803,Urban Road,Motorcycle,Weather,Morning,4,0,0,58,Foggy,SDG 11.2,Female,25–44,Motorcyclist,0
+ACC-00004,2023,2,Lumbini,Rupandehi,Omsatiya,27.564173,83.449676,Hill Road,Motorcycle,Weather,Evening,4,5,2,28,Rainy,SDG 11.2,Male,25–44,Motorcyclist,2
+ACC-00005,2025,11,Madhesh,Dhanusha,Aurahi,26.806199,85.898882,Highway,Motorcycle,Drunk Driving,Night,4,4,3,49,Foggy,SDG 3.6,Male,45–64,Motorcyclist,3
+ACC-00006,2023,7,Karnali,Surkhet,Birendranagar,28.585643,81.605826,Urban Road,Motorcycle,Human Error,Evening,2,5,3,30,Foggy,SDG 11.2,Male,25–44,Motorcyclist,3
+ACC-00007,2023,12,Madhesh,Dhanusha,Mithila,26.684798,85.903682,Rural Road,Motorcycle,Weather,Evening,2,1,1,23,Clear,SDG 3.6,Male,15–24,Motorcyclist,1
+ACC-00008,2024,10,Madhesh,Dhanusha,Mukhiyapatti,26.72533,85.923812,Hill Road,Car,Human Error,Morning,1,5,2,67,Foggy,SDG 11.2,Female,0–14,Driver,2
+ACC-00009,2023,9,Koshi,Morang,Sundarharaicha,26.621189,87.370195,Hill Road,Motorcycle,Overspeeding,Evening,2,1,1,66,Clear,SDG 3.6,Male,45–64,Motorcyclist,1
+ACC-00010,2023,4,Lumbini,Rupandehi,Kanchan,27.531169,83.445746,Highway,Tempo,Overspeeding,Morning,4,7,0,53,Foggy,SDG 3.6,Male,25–44,Passenger,0
+ACC-00011,2025,7,Madhesh,Dhanusha,Lakshminiya,26.689908,85.97166,Hill Road,Motorcycle,Flood,Afternoon,3,3,2,46,Rainy,SDG 11.2,Male,25–44,Motorcyclist,2
+ACC-00012,2025,4,Koshi,Morang,Letang,26.715542,87.567062,Rural Road,Motorcycle,Landslide,Morning,2,0,0,73,Rainy,SDG 3.6,Female,15–24,Motorcyclist,0
+ACC-00013,2022,12,Lumbini,Rupandehi,Lumbini,27.480139,83.262854,Hill Road,Motorcycle,Weather,Afternoon,4,6,3,30,Clear,SDG 3.6,Female,15–24,Motorcyclist,3
+ACC-00014,2021,11,Karnali,Surkhet,Barahatal,28.615415,81.578021,Rural Road,Motorcycle,Overspeeding,Night,3,6,1,33,Clear,SDG 3.6,Male,0–14,Motorcyclist,1
+ACC-00015,2022,2,Lumbini,Rupandehi,Siddharthanagar,27.505313,83.446713,Urban Road,Motorcycle,Human Error,Morning,1,5,0,10,Clear,SDG 3.6,Male,15–24,Motorcyclist,0
+ACC-00016,2021,3,Gandaki,Kaski,Birauta,28.177825,83.967062,Urban Road,Bicycle,Road Condition,Night,3,3,3,14,Clear,SDG 11.2,Male,25–44,Cyclist,3
+ACC-00017,2023,1,Madhesh,Dhanusha,Shahidnagar,26.784144,85.893657,Highway,Motorcycle,Flood,Afternoon,1,6,0,59,Rainy,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-00018,2025,4,Lumbini,Rupandehi,Rohini,27.621709,83.404227,Rural Road,Motorcycle,Overspeeding,Night,3,2,0,60,Foggy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00019,2024,6,Madhesh,Dhanusha,Hansapur,26.697853,85.88873,Hill Road,Motorcycle,Overspeeding,Night,1,0,0,50,Rainy,SDG 3.6,Male,45–64,Motorcyclist,0
+ACC-00020,2024,9,Bagmati,Kathmandu,Sankhu,27.723657,85.451099,Rural Road,Bus,Flood,Morning,3,5,0,26,Rainy,SDG 3.6,Male,15–24,Passenger,0
+ACC-00021,2023,4,Koshi,Morang,Belbari,26.657205,87.410438,Rural Road,Motorcycle,Human Error,Night,3,6,0,23,Foggy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00022,2023,3,Sudurpashchim,Kailali,Dhangadhi,28.665213,80.581267,Hill Road,Car,Weather,Morning,1,0,0,52,Clear,SDG 11.2,Male,45–64,Passenger,0
+ACC-00023,2021,6,Lumbini,Rupandehi,Sainamaina,27.657647,83.418496,Urban Road,Motorcycle,Overspeeding,Evening,4,4,1,20,Clear,SDG 3.6,Male,25–44,Motorcyclist,1
+ACC-00024,2024,11,Gandaki,Kaski,Bagar,28.237194,83.985931,Hill Road,Truck,Road Condition,Afternoon,1,3,0,72,Rainy,SDG 3.6,Male,25–44,Passenger,0
+ACC-00025,2022,4,Madhesh,Dhanusha,Kamala,26.678311,85.957721,Highway,Motorcycle,Road Condition,Evening,1,8,2,27,Foggy,SDG 11.2,Male,45–64,Motorcyclist,2
+ACC-00026,2022,10,Karnali,Surkhet,Birendranagar,28.578821,81.662124,Hill Road,Motorcycle,Overspeeding,Night,3,5,2,45,Foggy,SDG 3.6,Female,65+,Motorcyclist,2
+ACC-00027,2025,9,Gandaki,Kaski,Hemja,28.257663,83.976163,Rural Road,Bicycle,Landslide,Afternoon,3,3,0,60,Rainy,SDG 11.2,Male,15–24,Cyclist,0
+ACC-00028,2024,6,Karnali,Surkhet,Raniyapur,28.594003,81.660427,Urban Road,Motorcycle,Drunk Driving,Afternoon,4,5,3,48,Foggy,SDG 3.6,Male,65+,Motorcyclist,3
+ACC-00029,2023,4,Lumbini,Rupandehi,Sainamaina,27.682876,83.400024,Urban Road,Motorcycle,Landslide,Evening,4,3,3,48,Rainy,SDG 11.2,Male,25–44,Motorcyclist,3
+ACC-00030,2025,6,Sudurpashchim,Kailali,Pathariya,28.645088,80.610927,Highway,Bicycle,Drunk Driving,Evening,2,7,1,14,Clear,SDG 3.6,Male,15–24,Cyclist,1
+ACC-00031,2024,11,Madhesh,Dhanusha,Shahidnagar,26.790984,85.89437,Rural Road,Truck,Weather,Night,4,1,0,59,Foggy,SDG 3.6,Male,25–44,Driver,0
+ACC-00032,2025,8,Sudurpashchim,Kailali,Joshipur,28.59313,80.668247,Highway,Motorcycle,Flood,Morning,4,3,1,47,Rainy,SDG 11.2,Male,65+,Motorcyclist,1
+ACC-00033,2024,9,Sudurpashchim,Kailali,Hasuliya,28.5789,80.823521,Urban Road,Motorcycle,Flood,Night,4,2,0,58,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00034,2023,4,Sudurpashchim,Kailali,Pathariya,28.654355,80.606392,Urban Road,Motorcycle,Human Error,Morning,2,1,0,29,Foggy,SDG 3.6,Female,15–24,Motorcyclist,0
+ACC-00035,2024,7,Karnali,Surkhet,Chhinchu,28.514892,81.679853,Highway,Motorcycle,Weather,Morning,4,5,0,27,Rainy,SDG 11.2,Female,25–44,Motorcyclist,0
+ACC-00036,2025,4,Sudurpashchim,Kailali,Mohanyal,28.764851,80.702768,Urban Road,Motorcycle,Weather,Morning,4,2,2,48,Rainy,SDG 3.6,Female,15–24,Motorcyclist,2
+ACC-00037,2024,10,Sudurpashchim,Kailali,Lamki,28.658843,80.682047,Rural Road,Motorcycle,Landslide,Night,2,6,3,29,Rainy,SDG 11.2,Male,0–14,Motorcyclist,3
+ACC-00038,2024,5,Gandaki,Kaski,Batulechaur,28.257282,83.96025,Hill Road,Tempo,Road Condition,Morning,4,0,0,40,Clear,SDG 3.6,Male,15–24,Driver,0
+ACC-00039,2021,10,Sudurpashchim,Kailali,Dhangadhi,28.721977,80.546962,Highway,Motorcycle,Landslide,Morning,2,5,2,54,Rainy,SDG 3.6,Male,15–24,Motorcyclist,2
+ACC-00040,2021,5,Lumbini,Rupandehi,Siddharthanagar,27.537883,83.436486,Rural Road,Tempo,Weather,Night,2,0,0,24,Foggy,SDG 11.2,Male,15–24,Passenger,0
+ACC-00041,2024,11,Sudurpashchim,Kailali,Hasuliya,28.576958,80.790832,Urban Road,Motorcycle,Road Condition,Morning,4,6,3,11,Rainy,SDG 11.2,Male,15–24,Motorcyclist,3
+ACC-00042,2025,11,Karnali,Surkhet,Raniyapur,28.549179,81.640568,Urban Road,Motorcycle,Human Error,Night,4,3,3,25,Clear,SDG 3.6,Male,25–44,Motorcyclist,3
+ACC-00043,2024,6,Bagmati,Kathmandu,Balaju,27.749029,85.308191,Highway,Tempo,Drunk Driving,Night,2,4,1,26,Rainy,SDG 11.2,Male,15–24,Passenger,1
+ACC-00044,2024,8,Lumbini,Rupandehi,Gaidahawa,27.606884,83.365137,Rural Road,Motorcycle,Weather,Night,4,6,0,23,Rainy,SDG 3.6,Female,15–24,Motorcyclist,0
+ACC-00045,2025,9,Gandaki,Kaski,Hemja,28.294838,83.972141,Urban Road,Motorcycle,Human Error,Evening,3,5,3,22,Rainy,SDG 11.2,Male,45–64,Motorcyclist,3
+ACC-00046,2025,12,Madhesh,Dhanusha,Aurahi,26.761555,85.867173,Highway,Motorcycle,Weather,Evening,3,2,0,23,Clear,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00047,2021,1,Madhesh,Dhanusha,Janakpur,26.741281,85.901595,Rural Road,Motorcycle,Drunk Driving,Night,1,6,0,54,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00048,2024,2,Gandaki,Kaski,Sarangkot,28.226062,83.917083,Hill Road,Car,Overspeeding,Morning,2,1,1,23,Clear,SDG 3.6,Male,15–24,Driver,1
+ACC-00049,2025,7,Lumbini,Rupandehi,Marchawari,27.545768,83.357105,Urban Road,Car,Flood,Night,3,4,0,44,Rainy,SDG 3.6,Male,15–24,Passenger,0
+ACC-00050,2022,4,Sudurpashchim,Kailali,Pathariya,28.652662,80.619626,Highway,Motorcycle,Overspeeding,Night,4,7,3,23,Clear,SDG 3.6,Male,0–14,Motorcyclist,3
+ACC-00051,2022,5,Bagmati,Kathmandu,Tokha,27.771576,85.294271,Hill Road,Bus,Landslide,Afternoon,4,0,0,59,Rainy,SDG 11.2,Female,15–24,Driver,0
+ACC-00052,2025,12,Sudurpashchim,Kailali,Attariya,28.613578,80.612558,Hill Road,Tempo,Weather,Morning,4,5,2,62,Rainy,SDG 11.2,Female,15–24,Driver,2
+ACC-00053,2024,12,Lumbini,Rupandehi,Kanchan,27.534827,83.392392,Urban Road,Motorcycle,Overspeeding,Afternoon,1,6,2,41,Clear,SDG 3.6,Female,15–24,Motorcyclist,2
+ACC-00054,2024,2,Gandaki,Kaski,Hemja,28.265889,83.98512,Urban Road,Car,Road Condition,Morning,2,2,1,49,Rainy,SDG 11.2,Female,15–24,Driver,1
+ACC-00055,2023,6,Karnali,Surkhet,Uttarganga,28.522202,81.645284,Highway,Motorcycle,Flood,Morning,4,5,0,17,Rainy,SDG 11.2,Male,15–24,Motorcyclist,0
+ACC-00056,2023,9,Lumbini,Rupandehi,Rohini,27.596522,83.383097,Highway,Motorcycle,Landslide,Night,1,2,0,50,Rainy,SDG 11.2,Female,25–44,Motorcyclist,0
+ACC-00057,2021,8,Lumbini,Rupandehi,Gaidahawa,27.574479,83.373482,Hill Road,Motorcycle,Drunk Driving,Night,3,4,2,44,Rainy,SDG 11.2,Male,15–24,Motorcyclist,2
+ACC-00058,2025,9,Madhesh,Dhanusha,Lakshminiya,26.688679,85.951437,Hill Road,Motorcycle,Overspeeding,Evening,4,2,2,35,Clear,SDG 11.2,Male,15–24,Motorcyclist,2
+ACC-00059,2022,8,Karnali,Surkhet,Jabre,28.584795,81.629596,Rural Road,Motorcycle,Human Error,Night,4,2,1,62,Clear,SDG 11.2,Male,25–44,Motorcyclist,1
+ACC-00060,2024,7,Madhesh,Dhanusha,Janakpur,26.717891,85.922379,Hill Road,Truck,Landslide,Afternoon,4,0,0,50,Rainy,SDG 11.2,Male,25–44,Driver,0
+ACC-00061,2021,12,Sudurpashchim,Kailali,Janaki,28.575983,80.644627,Highway,Motorcycle,Drunk Driving,Morning,4,7,2,26,Foggy,SDG 11.2,Male,0–14,Motorcyclist,2
+ACC-00062,2024,6,Karnali,Surkhet,Barahatal,28.64114,81.601561,Rural Road,Motorcycle,Weather,Morning,1,1,1,32,Foggy,SDG 3.6,Male,45–64,Motorcyclist,1
+ACC-00063,2022,12,Gandaki,Kaski,Malepatan,28.247233,83.96103,Urban Road,Motorcycle,Road Condition,Morning,3,2,1,32,Clear,SDG 3.6,Female,25–44,Motorcyclist,1
+ACC-00064,2022,2,Lumbini,Rupandehi,Marchawari,27.550908,83.330803,Rural Road,Car,Landslide,Afternoon,4,4,1,32,Rainy,SDG 11.2,Male,15–24,Driver,1
+ACC-00065,2023,11,Gandaki,Kaski,Malepatan,28.205564,84.003278,Rural Road,Motorcycle,Road Condition,Evening,4,5,2,47,Rainy,SDG 3.6,Male,45–64,Motorcyclist,2
+ACC-00066,2025,5,Gandaki,Kaski,Lakeside,28.197232,83.961315,Hill Road,Motorcycle,Flood,Night,3,0,0,56,Rainy,SDG 11.2,Male,65+,Motorcyclist,0
+ACC-00067,2022,10,Sudurpashchim,Kailali,Tikapur,28.536424,81.111139,Urban Road,Motorcycle,Flood,Afternoon,1,5,0,24,Rainy,SDG 3.6,Male,0–14,Motorcyclist,0
+ACC-00068,2023,12,Lumbini,Rupandehi,Omsatiya,27.567885,83.464578,Urban Road,Motorcycle,Flood,Evening,3,6,1,21,Rainy,SDG 11.2,Female,15–24,Motorcyclist,1
+ACC-00069,2022,11,Karnali,Surkhet,Chhinchu,28.5181,81.664518,Rural Road,Bicycle,Flood,Evening,1,6,3,18,Rainy,SDG 3.6,Male,45–64,Cyclist,3
+ACC-00070,2024,11,Gandaki,Kaski,Malepatan,28.249941,83.97073,Hill Road,Motorcycle,Drunk Driving,Night,1,4,2,57,Clear,SDG 3.6,Other,45–64,Motorcyclist,2
+ACC-00071,2022,1,Karnali,Surkhet,Raniyapur,28.558131,81.654498,Hill Road,Motorcycle,Weather,Morning,1,1,0,42,Rainy,SDG 11.2,Female,15–24,Motorcyclist,0
+ACC-00072,2024,11,Karnali,Surkhet,Jabre,28.594536,81.599271,Highway,Car,Weather,Evening,1,7,2,18,Rainy,SDG 11.2,Male,15–24,Driver,2
+ACC-00073,2023,1,Madhesh,Dhanusha,Dhanushadham,26.812156,85.94204,Urban Road,Motorcycle,Overspeeding,Night,1,5,2,46,Foggy,SDG 3.6,Male,25–44,Motorcyclist,2
+ACC-00074,2022,2,Koshi,Morang,Letang,26.771029,87.613019,Hill Road,Motorcycle,Human Error,Afternoon,2,2,0,68,Foggy,SDG 3.6,Female,25–44,Motorcyclist,0
+ACC-00075,2021,11,Bagmati,Kathmandu,Baneshwor,27.691313,85.353911,Hill Road,Motorcycle,Road Condition,Afternoon,3,0,0,34,Clear,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-00076,2024,6,Karnali,Surkhet,Uttarganga,28.526819,81.643813,Urban Road,Motorcycle,Human Error,Afternoon,1,5,2,34,Foggy,SDG 3.6,Female,15–24,Motorcyclist,2
+ACC-00077,2024,2,Koshi,Morang,Sundarharaicha,26.637276,87.376478,Hill Road,Motorcycle,Drunk Driving,Morning,2,2,2,58,Foggy,SDG 11.2,Female,25–44,Motorcyclist,2
+ACC-00078,2021,11,Gandaki,Kaski,Birauta,28.195333,83.968812,Rural Road,Truck,Landslide,Afternoon,4,3,1,44,Rainy,SDG 11.2,Male,45–64,Passenger,1
+ACC-00079,2023,6,Gandaki,Kaski,Rambazar,28.190705,83.975606,Hill Road,Motorcycle,Weather,Morning,1,6,0,23,Rainy,SDG 3.6,Male,0–14,Motorcyclist,0
+ACC-00080,2025,9,Karnali,Surkhet,Gurbhakot,28.493382,81.765188,Urban Road,Motorcycle,Road Condition,Night,1,2,2,24,Rainy,SDG 3.6,Male,15–24,Motorcyclist,2
+ACC-00081,2021,6,Lumbini,Rupandehi,Siddharthanagar,27.519404,83.443455,Hill Road,Motorcycle,Flood,Evening,2,6,3,72,Rainy,SDG 3.6,Female,45–64,Motorcyclist,3
+ACC-00082,2023,6,Lumbini,Rupandehi,Bhairahawa,27.485825,83.462162,Urban Road,Motorcycle,Drunk Driving,Night,1,1,0,10,Foggy,SDG 3.6,Male,45–64,Motorcyclist,0
+ACC-00083,2023,10,Gandaki,Kaski,Birauta,28.185454,83.965203,Rural Road,Motorcycle,Drunk Driving,Afternoon,1,5,0,35,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00084,2021,6,Gandaki,Kaski,Lamachaur,28.22639,84.013297,Urban Road,Motorcycle,Landslide,Night,3,0,0,30,Rainy,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-00085,2023,5,Koshi,Morang,Belbari,26.697019,87.443841,Urban Road,Motorcycle,Landslide,Night,2,1,1,39,Rainy,SDG 3.6,Male,15–24,Motorcyclist,1
+ACC-00086,2024,1,Lumbini,Rupandehi,Butwal,27.693824,83.464522,Urban Road,Motorcycle,Road Condition,Night,4,5,3,23,Clear,SDG 11.2,Male,25–44,Motorcyclist,3
+ACC-00087,2023,2,Koshi,Morang,Urlabari,26.684779,87.690388,Urban Road,Motorcycle,Weather,Night,1,3,2,52,Rainy,SDG 3.6,Female,25–44,Motorcyclist,2
+ACC-00088,2025,4,Bagmati,Kathmandu,Koteshwor,27.678629,85.325842,Hill Road,Motorcycle,Landslide,Afternoon,2,0,0,34,Rainy,SDG 3.6,Male,15–24,Motorcyclist,0
+ACC-00089,2024,8,Lumbini,Rupandehi,Rohini,27.574521,83.437078,Hill Road,Motorcycle,Weather,Evening,3,1,1,22,Rainy,SDG 11.2,Female,15–24,Motorcyclist,1
+ACC-00090,2021,5,Karnali,Surkhet,Bheriganga,28.535485,81.631117,Urban Road,Motorcycle,Road Condition,Evening,1,5,0,44,Foggy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00091,2022,6,Gandaki,Kaski,Birauta,28.219543,83.977299,Rural Road,Car,Overspeeding,Night,1,6,2,63,Clear,SDG 3.6,Male,0–14,Driver,2
+ACC-00092,2025,10,Koshi,Morang,Kanepokhari,26.596265,87.176365,Highway,Motorcycle,Road Condition,Night,4,8,2,48,Foggy,SDG 3.6,Male,15–24,Motorcyclist,2
+ACC-00093,2024,5,Sudurpashchim,Kailali,Attariya,28.629781,80.598478,Urban Road,Motorcycle,Human Error,Afternoon,3,0,0,27,Rainy,SDG 11.2,Female,15–24,Motorcyclist,0
+ACC-00094,2023,3,Madhesh,Dhanusha,Ganeshman Charnath,26.743535,85.91861,Rural Road,Tempo,Landslide,Morning,4,4,2,19,Rainy,SDG 11.2,Male,15–24,Driver,2
+ACC-00095,2022,3,Madhesh,Dhanusha,Kamala,26.71686,85.939176,Highway,Motorcycle,Flood,Morning,1,7,2,54,Rainy,SDG 3.6,Female,15–24,Motorcyclist,2
+ACC-00096,2025,3,Lumbini,Rupandehi,Siddharthanagar,27.489735,83.479881,Rural Road,Motorcycle,Road Condition,Afternoon,4,4,2,66,Foggy,SDG 11.2,Male,45–64,Motorcyclist,2
+ACC-00097,2022,6,Madhesh,Dhanusha,Ganeshman Charnath,26.767936,85.927062,Rural Road,Motorcycle,Weather,Night,3,6,3,50,Foggy,SDG 11.2,Male,25–44,Motorcyclist,3
+ACC-00098,2024,6,Madhesh,Dhanusha,Shahidnagar,26.748304,85.905,Rural Road,Motorcycle,Flood,Morning,3,0,0,35,Rainy,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-00099,2024,6,Sudurpashchim,Kailali,Attariya,28.666785,80.578322,Hill Road,Car,Weather,Evening,2,3,0,41,Clear,SDG 3.6,Male,45–64,Passenger,0
+ACC-00100,2022,3,Bagmati,Kathmandu,Jorpati,27.749882,85.370117,Highway,Tempo,Weather,Afternoon,4,5,0,10,Clear,SDG 11.2,Male,25–44,Passenger,0
+ACC-00101,2024,2,Madhesh,Dhanusha,Lakshminiya,26.736414,85.976533,Hill Road,Motorcycle,Overspeeding,Morning,2,3,3,22,Clear,SDG 11.2,Male,15–24,Motorcyclist,3
+ACC-00102,2022,5,Lumbini,Rupandehi,Rohini,27.600923,83.394516,Urban Road,Bus,Drunk Driving,Night,2,5,1,38,Rainy,SDG 3.6,Male,25–44,Passenger,1
+ACC-00103,2024,6,Lumbini,Rupandehi,Sainamaina,27.7024,83.402612,Urban Road,Motorcycle,Flood,Morning,3,1,0,54,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00104,2022,11,Madhesh,Dhanusha,Kamala,26.692761,85.958811,Urban Road,Motorcycle,Landslide,Afternoon,2,0,0,7,Rainy,SDG 3.6,Male,45–64,Motorcyclist,0
+ACC-00105,2024,9,Koshi,Morang,Biratnagar,26.441436,87.260405,Urban Road,Motorcycle,Landslide,Afternoon,3,2,0,60,Rainy,SDG 11.2,Female,25–44,Motorcyclist,0
+ACC-00106,2024,7,Bagmati,Kathmandu,Budhanilkantha,27.770081,85.383369,Urban Road,Motorcycle,Landslide,Night,3,6,3,56,Rainy,SDG 11.2,Male,15–24,Motorcyclist,3
+ACC-00107,2023,6,Koshi,Morang,Katahari,26.499706,87.230827,Highway,Motorcycle,Road Condition,Evening,4,5,3,15,Foggy,SDG 11.2,Male,15–24,Motorcyclist,3
+ACC-00108,2025,7,Bagmati,Kathmandu,Kalanki,27.707509,85.305696,Urban Road,Motorcycle,Overspeeding,Morning,4,2,2,56,Foggy,SDG 3.6,Female,15–24,Motorcyclist,2
+ACC-00109,2022,2,Koshi,Morang,Katahari,26.480685,87.24629,Urban Road,Bus,Road Condition,Night,1,4,1,48,Rainy,SDG 11.2,Male,25–44,Passenger,1
+ACC-00110,2023,7,Bagmati,Kathmandu,Budhanilkantha,27.752613,85.338262,Urban Road,Motorcycle,Overspeeding,Morning,2,3,3,40,Clear,SDG 11.2,Male,25–44,Motorcyclist,3
+ACC-00111,2023,12,Sudurpashchim,Kailali,Khailad,28.696776,80.609782,Hill Road,Car,Overspeeding,Afternoon,1,3,1,63,Rainy,SDG 3.6,Male,15–24,Passenger,1
+ACC-00112,2025,5,Sudurpashchim,Kailali,Pathariya,28.660846,80.583896,Hill Road,Tempo,Landslide,Afternoon,3,4,1,25,Rainy,SDG 3.6,Male,65+,Driver,1
+ACC-00113,2024,9,Madhesh,Dhanusha,Janakpur,26.720454,85.928337,Highway,Tempo,Overspeeding,Evening,4,7,3,38,Rainy,SDG 11.2,Female,25–44,Driver,3
+ACC-00114,2024,8,Sudurpashchim,Kailali,Lamki,28.658343,80.68854,Rural Road,Motorcycle,Flood,Afternoon,2,3,0,71,Rainy,SDG 3.6,Female,15–24,Motorcyclist,0
+ACC-00115,2023,9,Bagmati,Kathmandu,Baneshwor,27.67826,85.34856,Hill Road,Motorcycle,Road Condition,Afternoon,3,1,1,57,Foggy,SDG 3.6,Male,15–24,Motorcyclist,1
+ACC-00116,2025,12,Lumbini,Rupandehi,Marchawari,27.566496,83.329252,Hill Road,Motorcycle,Human Error,Morning,1,0,0,59,Foggy,SDG 11.2,Female,15–24,Motorcyclist,0
+ACC-00117,2024,11,Karnali,Surkhet,Jabre,28.574995,81.628339,Rural Road,Bus,Road Condition,Night,2,6,3,37,Rainy,SDG 3.6,Female,15–24,Driver,3
+ACC-00118,2022,6,Karnali,Surkhet,Gurbhakot,28.486376,81.759055,Rural Road,Motorcycle,Landslide,Evening,3,3,1,66,Rainy,SDG 3.6,Male,15–24,Motorcyclist,1
+ACC-00119,2022,2,Bagmati,Kathmandu,Kirtipur,27.655351,85.273976,Highway,Motorcycle,Flood,Night,2,8,1,57,Rainy,SDG 11.2,Female,15–24,Motorcyclist,1
+ACC-00120,2023,8,Madhesh,Dhanusha,Sabaila,26.779758,85.858009,Highway,Bicycle,Human Error,Night,2,2,1,8,Clear,SDG 11.2,Male,15–24,Cyclist,1
+ACC-00121,2024,3,Gandaki,Kaski,Hemja,28.287201,84.00083,Hill Road,Truck,Flood,Night,3,0,0,21,Rainy,SDG 3.6,Female,15–24,Driver,0
+ACC-00122,2025,5,Bagmati,Kathmandu,Koteshwor,27.671181,85.346021,Hill Road,Motorcycle,Human Error,Morning,2,0,0,41,Rainy,SDG 11.2,Female,45–64,Motorcyclist,0
+ACC-00123,2021,1,Sudurpashchim,Kailali,Tikapur,28.536148,81.114083,Highway,Truck,Flood,Night,4,2,0,25,Rainy,SDG 11.2,Male,15–24,Driver,0
+ACC-00124,2023,9,Madhesh,Dhanusha,Shahidnagar,26.784359,85.907954,Hill Road,Motorcycle,Landslide,Evening,4,6,0,41,Rainy,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-00125,2025,8,Gandaki,Kaski,Rambazar,28.237326,83.987756,Urban Road,Motorcycle,Flood,Afternoon,1,4,3,15,Rainy,SDG 11.2,Male,25–44,Motorcyclist,3
+ACC-00126,2022,1,Madhesh,Dhanusha,Janakpur,26.733154,85.936031,Urban Road,Motorcycle,Weather,Afternoon,4,4,3,60,Foggy,SDG 3.6,Male,65+,Motorcyclist,3
+ACC-00127,2024,9,Karnali,Surkhet,Uttarganga,28.532441,81.659503,Urban Road,Bicycle,Weather,Evening,3,5,2,44,Rainy,SDG 3.6,Female,15–24,Cyclist,2
+ACC-00128,2023,5,Madhesh,Dhanusha,Lakshminiya,26.69791,85.996489,Rural Road,Motorcycle,Weather,Evening,4,2,2,68,Foggy,SDG 11.2,Female,25–44,Motorcyclist,2
+ACC-00129,2024,6,Bagmati,Kathmandu,Swayambhu,27.724597,85.282782,Hill Road,Motorcycle,Road Condition,Morning,3,5,0,40,Rainy,SDG 11.2,Male,65+,Motorcyclist,0
+ACC-00130,2025,12,Karnali,Surkhet,Lekbeshi,28.542124,81.602315,Urban Road,Motorcycle,Landslide,Afternoon,2,0,0,45,Rainy,SDG 3.6,Male,45–64,Motorcyclist,0
+ACC-00131,2022,1,Koshi,Morang,Pathari,26.679041,87.535033,Hill Road,Bicycle,Drunk Driving,Night,4,3,2,66,Rainy,SDG 11.2,Male,45–64,Cyclist,2
+ACC-00132,2022,9,Bagmati,Kathmandu,Sankhu,27.755123,85.473138,Hill Road,Tempo,Overspeeding,Afternoon,4,6,1,20,Rainy,SDG 11.2,Male,15–24,Passenger,1
+ACC-00133,2021,6,Madhesh,Dhanusha,Janakpur,26.699356,85.928078,Urban Road,Motorcycle,Human Error,Night,2,6,3,22,Clear,SDG 3.6,Male,15–24,Motorcyclist,3
+ACC-00134,2022,1,Bagmati,Kathmandu,Tokha,27.747535,85.305436,Hill Road,Truck,Human Error,Afternoon,2,4,3,70,Rainy,SDG 11.2,Male,25–44,Driver,3
+ACC-00135,2024,6,Koshi,Morang,Gramthan,26.495723,87.228901,Hill Road,Motorcycle,Weather,Afternoon,4,6,2,39,Rainy,SDG 3.6,Female,65+,Motorcyclist,2
+ACC-00136,2024,5,Bagmati,Kathmandu,Tokha,27.734178,85.330067,Highway,Motorcycle,Landslide,Evening,1,6,2,28,Rainy,SDG 3.6,Male,25–44,Motorcyclist,2
+ACC-00137,2025,6,Madhesh,Dhanusha,Sabaila,26.729191,85.874864,Urban Road,Motorcycle,Weather,Afternoon,2,5,0,38,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00138,2022,10,Koshi,Morang,Biratnagar,26.472226,87.295973,Rural Road,Motorcycle,Flood,Night,1,5,2,63,Rainy,SDG 11.2,Male,15–24,Motorcyclist,2
+ACC-00139,2024,10,Koshi,Morang,Biratnagar,26.449706,87.272595,Highway,Motorcycle,Flood,Evening,1,4,2,57,Rainy,SDG 3.6,Male,45–64,Motorcyclist,2
+ACC-00140,2025,1,Lumbini,Rupandehi,Bhairahawa,27.500422,83.462023,Hill Road,Motorcycle,Weather,Morning,3,3,1,67,Clear,SDG 11.2,Female,15–24,Motorcyclist,1
+ACC-00141,2024,2,Bagmati,Kathmandu,Kirtipur,27.700177,85.301406,Rural Road,Motorcycle,Human Error,Afternoon,3,0,0,52,Rainy,SDG 3.6,Female,15–24,Motorcyclist,0
+ACC-00142,2024,11,Karnali,Surkhet,Birendranagar,28.617271,81.662609,Rural Road,Car,Weather,Afternoon,2,3,2,27,Rainy,SDG 3.6,Male,25–44,Driver,2
+ACC-00143,2021,4,Karnali,Surkhet,Birendranagar,28.620469,81.629054,Urban Road,Motorcycle,Overspeeding,Night,1,1,0,30,Rainy,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-00144,2022,12,Lumbini,Rupandehi,Bhairahawa,27.483408,83.479609,Rural Road,Bus,Flood,Evening,2,2,0,60,Rainy,SDG 3.6,Male,15–24,Driver,0
+ACC-00145,2022,11,Gandaki,Kaski,Hemja,28.258657,84.006911,Rural Road,Motorcycle,Overspeeding,Evening,4,6,2,62,Rainy,SDG 11.2,Male,15–24,Motorcyclist,2
+ACC-00146,2022,4,Madhesh,Dhanusha,Hansapur,26.701033,85.882276,Urban Road,Motorcycle,Flood,Night,1,4,4,31,Rainy,SDG 3.6,Male,25–44,Motorcyclist,4
+ACC-00147,2024,6,Gandaki,Kaski,Hemja,28.2672,83.988802,Highway,Truck,Drunk Driving,Morning,3,4,0,60,Clear,SDG 3.6,Male,15–24,Passenger,0
+ACC-00148,2023,1,Sudurpashchim,Kailali,Janaki,28.582533,80.644422,Urban Road,Motorcycle,Landslide,Morning,4,1,0,30,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00149,2023,5,Sudurpashchim,Kailali,Joshipur,28.607975,80.658923,Urban Road,Motorcycle,Weather,Morning,4,6,2,18,Rainy,SDG 11.2,Male,15–24,Motorcyclist,2
+ACC-00150,2021,5,Gandaki,Kaski,Mahendrapul,28.231845,84.004475,Rural Road,Motorcycle,Landslide,Night,3,1,0,39,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00151,2023,5,Lumbini,Rupandehi,Kanchan,27.563039,83.446608,Hill Road,Motorcycle,Landslide,Night,4,1,1,28,Rainy,SDG 11.2,Female,25–44,Motorcyclist,1
+ACC-00152,2021,1,Madhesh,Dhanusha,Lakshminiya,26.682029,85.990802,Urban Road,Tempo,Drunk Driving,Morning,2,0,0,37,Rainy,SDG 11.2,Male,0–14,Driver,0
+ACC-00153,2025,7,Koshi,Morang,Gramthan,26.519271,87.170397,Highway,Car,Road Condition,Evening,1,5,3,56,Clear,SDG 3.6,Male,15–24,Passenger,3
+ACC-00154,2023,5,Koshi,Morang,Letang,26.723216,87.597387,Hill Road,Motorcycle,Weather,Night,2,5,1,37,Foggy,SDG 3.6,Male,15–24,Motorcyclist,1
+ACC-00155,2024,1,Karnali,Surkhet,Chhinchu,28.514317,81.68263,Rural Road,Motorcycle,Overspeeding,Night,4,5,3,54,Clear,SDG 3.6,Other,0–14,Motorcyclist,3
+ACC-00156,2021,2,Madhesh,Dhanusha,Aurahi,26.803253,85.88853,Rural Road,Motorcycle,Human Error,Morning,2,6,2,19,Clear,SDG 3.6,Male,65+,Motorcyclist,2
+ACC-00157,2025,7,Sudurpashchim,Kailali,Attariya,28.627957,80.598837,Rural Road,Motorcycle,Weather,Afternoon,1,4,2,21,Clear,SDG 11.2,Male,15–24,Motorcyclist,2
+ACC-00158,2025,7,Madhesh,Dhanusha,Kamala,26.69631,85.946832,Hill Road,Motorcycle,Landslide,Evening,4,3,1,40,Rainy,SDG 11.2,Female,45–64,Motorcyclist,1
+ACC-00159,2025,5,Gandaki,Kaski,Malepatan,28.240153,83.977804,Hill Road,Truck,Overspeeding,Evening,2,3,1,65,Rainy,SDG 11.2,Male,15–24,Driver,1
+ACC-00160,2023,5,Bagmati,Kathmandu,Koteshwor,27.648312,85.337496,Highway,Motorcycle,Weather,Night,4,2,0,10,Rainy,SDG 3.6,Female,25–44,Motorcyclist,0
+ACC-00161,2021,12,Lumbini,Rupandehi,Sainamaina,27.65074,83.424829,Hill Road,Motorcycle,Drunk Driving,Afternoon,4,1,0,35,Rainy,SDG 11.2,Male,45–64,Motorcyclist,0
+ACC-00162,2023,8,Gandaki,Kaski,Lakeside,28.193032,83.943558,Hill Road,Motorcycle,Drunk Driving,Night,2,3,1,26,Rainy,SDG 3.6,Male,25–44,Motorcyclist,1
+ACC-00163,2024,6,Gandaki,Kaski,Mahendrapul,28.202793,84.011732,Urban Road,Motorcycle,Landslide,Afternoon,3,2,2,49,Rainy,SDG 11.2,Male,25–44,Motorcyclist,2
+ACC-00164,2024,10,Bagmati,Kathmandu,Thamel,27.743124,85.299487,Hill Road,Motorcycle,Road Condition,Night,3,0,0,55,Foggy,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-00165,2024,5,Karnali,Surkhet,Raniyapur,28.567697,81.672502,Hill Road,Motorcycle,Flood,Night,4,1,1,33,Rainy,SDG 3.6,Male,15–24,Motorcyclist,1
+ACC-00166,2024,10,Karnali,Surkhet,Panchapuri,28.584438,81.749442,Urban Road,Motorcycle,Flood,Night,1,6,2,49,Rainy,SDG 3.6,Female,65+,Motorcyclist,2
+ACC-00167,2025,1,Koshi,Morang,Gramthan,26.529882,87.17998,Rural Road,Bus,Landslide,Night,3,6,4,24,Rainy,SDG 3.6,Male,45–64,Driver,4
+ACC-00168,2025,4,Bagmati,Kathmandu,Thankot,27.704811,85.21148,Urban Road,Car,Flood,Afternoon,3,0,0,11,Rainy,SDG 11.2,Male,65+,Driver,0
+ACC-00169,2024,4,Koshi,Morang,Kanepokhari,26.578501,87.168713,Urban Road,Motorcycle,Overspeeding,Night,4,2,0,24,Clear,SDG 3.6,Male,15–24,Motorcyclist,0
+ACC-00170,2022,9,Koshi,Morang,Gramthan,26.496562,87.218003,Highway,Motorcycle,Human Error,Night,4,3,1,45,Clear,SDG 3.6,Male,45–64,Motorcyclist,1
+ACC-00171,2022,8,Karnali,Surkhet,Panchapuri,28.581752,81.726846,Rural Road,Car,Landslide,Afternoon,2,2,2,69,Rainy,SDG 3.6,Male,65+,Passenger,2
+ACC-00172,2023,11,Sudurpashchim,Kailali,Bhajani,28.509559,80.757453,Hill Road,Motorcycle,Landslide,Evening,4,4,3,55,Rainy,SDG 11.2,Male,15–24,Motorcyclist,3
+ACC-00173,2023,10,Bagmati,Kathmandu,Swayambhu,27.694352,85.300415,Rural Road,Motorcycle,Road Condition,Morning,2,2,0,29,Rainy,SDG 3.6,Male,0–14,Motorcyclist,0
+ACC-00174,2024,3,Lumbini,Rupandehi,Sainamaina,27.685786,83.434488,Urban Road,Car,Landslide,Afternoon,2,3,2,13,Rainy,SDG 11.2,Male,45–64,Driver,2
+ACC-00175,2021,8,Sudurpashchim,Kailali,Hasuliya,28.533217,80.791542,Highway,Motorcycle,Human Error,Night,4,6,4,31,Foggy,SDG 11.2,Male,25–44,Motorcyclist,4
+ACC-00176,2022,5,Gandaki,Kaski,Lakeside,28.216924,83.974753,Highway,Motorcycle,Road Condition,Afternoon,4,5,3,40,Foggy,SDG 3.6,Male,45–64,Motorcyclist,3
+ACC-00177,2023,9,Lumbini,Rupandehi,Lumbini,27.486507,83.299397,Hill Road,Motorcycle,Landslide,Night,2,3,0,65,Rainy,SDG 3.6,Male,15–24,Motorcyclist,0
+ACC-00178,2021,8,Bagmati,Kathmandu,Kirtipur,27.663769,85.298732,Hill Road,Motorcycle,Flood,Afternoon,2,6,2,73,Rainy,SDG 11.2,Male,45–64,Motorcyclist,2
+ACC-00179,2025,6,Madhesh,Dhanusha,Bateshwor,26.778812,85.898326,Urban Road,Bus,Drunk Driving,Evening,3,2,2,22,Foggy,SDG 3.6,Female,15–24,Passenger,2
+ACC-00180,2022,12,Madhesh,Dhanusha,Janakpur,26.758349,85.946023,Hill Road,Motorcycle,Landslide,Evening,2,6,3,49,Rainy,SDG 11.2,Male,15–24,Motorcyclist,3
+ACC-00181,2021,7,Karnali,Surkhet,Panchapuri,28.60712,81.728018,Urban Road,Motorcycle,Road Condition,Night,4,2,2,5,Foggy,SDG 3.6,Male,15–24,Motorcyclist,2
+ACC-00182,2021,9,Karnali,Surkhet,Chandannath,28.609849,81.691493,Urban Road,Motorcycle,Flood,Afternoon,4,2,1,58,Rainy,SDG 11.2,Male,45–64,Motorcyclist,1
+ACC-00183,2021,1,Lumbini,Rupandehi,Marchawari,27.561145,83.367298,Highway,Motorcycle,Weather,Morning,1,8,1,33,Rainy,SDG 3.6,Female,25–44,Motorcyclist,1
+ACC-00184,2023,3,Gandaki,Kaski,Rambazar,28.239564,84.002929,Hill Road,Tempo,Overspeeding,Evening,3,0,0,60,Foggy,SDG 3.6,Female,25–44,Driver,0
+ACC-00185,2022,7,Koshi,Morang,Gramthan,26.508331,87.211966,Rural Road,Truck,Overspeeding,Afternoon,4,0,0,55,Clear,SDG 11.2,Male,15–24,Driver,0
+ACC-00186,2024,12,Koshi,Morang,Kanepokhari,26.590614,87.157236,Highway,Motorcycle,Weather,Morning,1,2,0,28,Rainy,SDG 3.6,Male,45–64,Motorcyclist,0
+ACC-00187,2025,10,Gandaki,Kaski,Malepatan,28.264576,83.963571,Highway,Bus,Weather,Evening,2,6,1,31,Foggy,SDG 11.2,Female,25–44,Passenger,1
+ACC-00188,2021,10,Sudurpashchim,Kailali,Attariya,28.663796,80.573401,Rural Road,Motorcycle,Weather,Evening,2,1,1,59,Clear,SDG 3.6,Male,45–64,Motorcyclist,1
+ACC-00189,2023,4,Lumbini,Rupandehi,Omsatiya,27.561609,83.460824,Urban Road,Motorcycle,Landslide,Night,3,5,0,55,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00190,2025,1,Gandaki,Kaski,Batulechaur,28.259975,83.975636,Hill Road,Tempo,Drunk Driving,Night,4,2,2,61,Clear,SDG 11.2,Male,25–44,Passenger,2
+ACC-00191,2022,1,Sudurpashchim,Kailali,Dhangadhi,28.700242,80.535828,Hill Road,Bicycle,Weather,Evening,4,3,3,23,Foggy,SDG 3.6,Male,25–44,Cyclist,3
+ACC-00192,2022,9,Bagmati,Kathmandu,Chabahil,27.695741,85.372255,Urban Road,Motorcycle,Flood,Morning,3,5,3,51,Rainy,SDG 3.6,Female,15–24,Motorcyclist,3
+ACC-00193,2021,5,Madhesh,Dhanusha,Hansapur,26.696959,85.886738,Rural Road,Motorcycle,Drunk Driving,Morning,1,5,1,62,Clear,SDG 3.6,Female,45–64,Motorcyclist,1
+ACC-00194,2023,3,Gandaki,Kaski,Nadipur,28.221033,84.00935,Urban Road,Motorcycle,Flood,Evening,1,6,0,26,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00195,2021,8,Lumbini,Rupandehi,Lumbini,27.482739,83.284599,Urban Road,Motorcycle,Weather,Afternoon,3,1,1,54,Clear,SDG 3.6,Male,15–24,Motorcyclist,1
+ACC-00196,2021,8,Madhesh,Dhanusha,Janakpur,26.750321,85.894737,Urban Road,Tempo,Drunk Driving,Morning,4,1,1,20,Rainy,SDG 11.2,Male,45–64,Passenger,1
+ACC-00197,2021,3,Bagmati,Kathmandu,Swayambhu,27.706368,85.290122,Urban Road,Car,Overspeeding,Night,1,3,2,54,Rainy,SDG 11.2,Female,25–44,Passenger,2
+ACC-00198,2023,12,Koshi,Morang,Biratnagar,26.444635,87.259296,Rural Road,Car,Human Error,Night,2,5,2,27,Clear,SDG 11.2,Female,25–44,Passenger,2
+ACC-00199,2021,6,Koshi,Morang,Jahada,26.530785,87.250374,Highway,Motorcycle,Flood,Evening,1,2,0,31,Rainy,SDG 3.6,Female,45–64,Motorcyclist,0
+ACC-00200,2025,7,Madhesh,Dhanusha,Dhanushadham,26.755934,85.933888,Rural Road,Motorcycle,Landslide,Morning,1,4,1,58,Rainy,SDG 3.6,Female,25–44,Motorcyclist,1
+ACC-00201,2023,5,Lumbini,Rupandehi,Sainamaina,27.689747,83.407842,Hill Road,Motorcycle,Weather,Evening,3,3,2,32,Clear,SDG 3.6,Male,15–24,Motorcyclist,2
+ACC-00202,2023,7,Madhesh,Dhanusha,Mithila,26.676339,85.896974,Highway,Motorcycle,Flood,Afternoon,4,3,1,21,Rainy,SDG 3.6,Male,65+,Motorcyclist,1
+ACC-00203,2023,3,Madhesh,Dhanusha,Aurahi,26.791813,85.86242,Highway,Motorcycle,Road Condition,Night,1,7,3,21,Clear,SDG 3.6,Male,25–44,Motorcyclist,3
+ACC-00204,2024,2,Gandaki,Kaski,Nadipur,28.234885,83.974991,Hill Road,Motorcycle,Overspeeding,Morning,2,1,0,70,Rainy,SDG 11.2,Female,15–24,Motorcyclist,0
+ACC-00205,2021,1,Karnali,Surkhet,Jabre,28.585167,81.645046,Hill Road,Motorcycle,Landslide,Night,2,0,0,25,Rainy,SDG 11.2,Male,15–24,Motorcyclist,0
+ACC-00206,2024,1,Koshi,Morang,Katahari,26.465989,87.263466,Urban Road,Car,Road Condition,Afternoon,2,2,1,33,Clear,SDG 3.6,Male,45–64,Passenger,1
+ACC-00207,2025,8,Lumbini,Rupandehi,Rohini,27.587706,83.40472,Highway,Motorcycle,Drunk Driving,Night,2,7,1,45,Foggy,SDG 3.6,Male,25–44,Motorcyclist,1
+ACC-00208,2025,9,Gandaki,Kaski,Birauta,28.197671,83.972081,Urban Road,Motorcycle,Overspeeding,Evening,2,0,0,8,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00209,2023,9,Sudurpashchim,Kailali,Lamki,28.606008,80.689412,Hill Road,Motorcycle,Overspeeding,Afternoon,4,2,0,29,Clear,SDG 11.2,Male,45–64,Motorcyclist,0
+ACC-00210,2025,10,Sudurpashchim,Kailali,Hasuliya,28.531692,80.812034,Highway,Motorcycle,Flood,Night,3,3,1,7,Rainy,SDG 3.6,Male,45–64,Motorcyclist,1
+ACC-00211,2025,4,Madhesh,Dhanusha,Janakpur,26.730387,85.894041,Hill Road,Motorcycle,Drunk Driving,Evening,1,0,0,55,Foggy,SDG 3.6,Male,15–24,Motorcyclist,0
+ACC-00212,2023,12,Sudurpashchim,Kailali,Mohanyal,28.77164,80.727634,Hill Road,Car,Overspeeding,Evening,3,2,0,28,Foggy,SDG 11.2,Male,15–24,Passenger,0
+ACC-00213,2025,12,Sudurpashchim,Kailali,Pathariya,28.659037,80.622431,Hill Road,Bus,Road Condition,Afternoon,2,3,2,64,Foggy,SDG 11.2,Male,15–24,Passenger,2
+ACC-00214,2025,7,Madhesh,Dhanusha,Aurahi,26.750108,85.902121,Hill Road,Motorcycle,Human Error,Morning,2,4,2,69,Foggy,SDG 3.6,Male,45–64,Motorcyclist,2
+ACC-00215,2022,6,Karnali,Surkhet,Latikoili,28.568439,81.664721,Hill Road,Motorcycle,Overspeeding,Evening,4,0,0,31,Clear,SDG 3.6,Male,0–14,Motorcyclist,0
+ACC-00216,2024,8,Bagmati,Kathmandu,Budhanilkantha,27.754482,85.330077,Rural Road,Bicycle,Weather,Night,4,2,2,42,Clear,SDG 11.2,Male,25–44,Cyclist,2
+ACC-00217,2021,5,Sudurpashchim,Kailali,Lamki,28.627077,80.697952,Highway,Motorcycle,Overspeeding,Morning,3,2,1,15,Foggy,SDG 3.6,Male,45–64,Motorcyclist,1
+ACC-00218,2024,12,Lumbini,Rupandehi,Tilottama,27.625642,83.476819,Highway,Motorcycle,Drunk Driving,Night,2,1,1,26,Clear,SDG 3.6,Female,45–64,Motorcyclist,1
+ACC-00219,2021,7,Gandaki,Kaski,Malepatan,28.221891,83.969253,Rural Road,Tempo,Drunk Driving,Morning,3,0,0,23,Rainy,SDG 11.2,Male,15–24,Passenger,0
+ACC-00220,2021,8,Madhesh,Dhanusha,Janakpur,26.711217,85.932291,Hill Road,Motorcycle,Weather,Night,4,5,2,23,Foggy,SDG 11.2,Female,45–64,Motorcyclist,2
+ACC-00221,2023,8,Madhesh,Dhanusha,Hansapur,26.712164,85.876747,Urban Road,Motorcycle,Road Condition,Morning,2,6,0,10,Foggy,SDG 11.2,Male,15–24,Motorcyclist,0
+ACC-00222,2024,9,Sudurpashchim,Kailali,Hasuliya,28.543651,80.773659,Urban Road,Motorcycle,Flood,Night,2,3,3,10,Rainy,SDG 3.6,Male,45–64,Motorcyclist,3
+ACC-00223,2022,4,Lumbini,Rupandehi,Butwal,27.726955,83.446942,Hill Road,Motorcycle,Weather,Morning,4,1,0,71,Foggy,SDG 11.2,Male,15–24,Motorcyclist,0
+ACC-00224,2023,5,Bagmati,Kathmandu,Koteshwor,27.671286,85.342841,Urban Road,Tempo,Overspeeding,Night,1,3,2,14,Foggy,SDG 3.6,Male,25–44,Passenger,2
+ACC-00225,2024,5,Koshi,Morang,Belbari,26.692349,87.450608,Urban Road,Motorcycle,Human Error,Night,1,1,1,30,Clear,SDG 11.2,Male,45–64,Motorcyclist,1
+ACC-00226,2024,5,Koshi,Morang,Pathari,26.677431,87.531957,Hill Road,Motorcycle,Flood,Evening,3,2,1,72,Rainy,SDG 3.6,Male,15–24,Motorcyclist,1
+ACC-00227,2023,5,Sudurpashchim,Kailali,Lamki,28.618029,80.694623,Rural Road,Bus,Overspeeding,Afternoon,4,1,1,65,Rainy,SDG 11.2,Female,15–24,Passenger,1
+ACC-00228,2025,7,Sudurpashchim,Kailali,Mohanyal,28.767489,80.673937,Highway,Tempo,Human Error,Morning,2,2,0,58,Clear,SDG 3.6,Male,45–64,Driver,0
+ACC-00229,2023,6,Koshi,Morang,Biratnagar,26.477582,87.284078,Hill Road,Motorcycle,Landslide,Morning,1,1,1,49,Rainy,SDG 11.2,Female,45–64,Motorcyclist,1
+ACC-00230,2023,12,Madhesh,Dhanusha,Shahidnagar,26.77308,85.910655,Hill Road,Motorcycle,Overspeeding,Night,1,1,1,72,Clear,SDG 3.6,Male,25–44,Motorcyclist,1
+ACC-00231,2021,8,Karnali,Surkhet,Bheriganga,28.539095,81.640797,Hill Road,Motorcycle,Human Error,Morning,2,2,2,69,Rainy,SDG 11.2,Female,25–44,Motorcyclist,2
+ACC-00232,2023,11,Gandaki,Kaski,Sarangkot,28.24254,83.927093,Urban Road,Bus,Human Error,Morning,1,4,2,40,Foggy,SDG 11.2,Male,25–44,Passenger,2
+ACC-00233,2023,5,Bagmati,Kathmandu,Kirtipur,27.65183,85.306302,Urban Road,Truck,Landslide,Evening,2,1,0,8,Rainy,SDG 11.2,Male,15–24,Passenger,0
+ACC-00234,2024,5,Karnali,Surkhet,Chandannath,28.578396,81.671527,Urban Road,Motorcycle,Weather,Morning,2,2,2,50,Clear,SDG 11.2,Male,15–24,Motorcyclist,2
+ACC-00235,2025,3,Karnali,Surkhet,Uttarganga,28.538012,81.650199,Urban Road,Car,Landslide,Evening,2,5,2,46,Rainy,SDG 3.6,Male,15–24,Driver,2
+ACC-00236,2023,6,Bagmati,Kathmandu,Tokha,27.772286,85.315228,Urban Road,Motorcycle,Flood,Morning,4,0,0,35,Rainy,SDG 3.6,Female,45–64,Motorcyclist,0
+ACC-00237,2022,3,Sudurpashchim,Kailali,Mohanyal,28.737901,80.673244,Hill Road,Motorcycle,Human Error,Night,2,2,2,29,Clear,SDG 11.2,Male,25–44,Motorcyclist,2
+ACC-00238,2023,4,Bagmati,Kathmandu,Gaushala,27.71507,85.313283,Hill Road,Motorcycle,Flood,Afternoon,4,6,0,26,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00239,2021,1,Karnali,Surkhet,Panchapuri,28.605742,81.718644,Rural Road,Truck,Overspeeding,Evening,2,0,0,58,Foggy,SDG 3.6,Male,25–44,Passenger,0
+ACC-00240,2025,5,Madhesh,Dhanusha,Ganeshman Charnath,26.717736,85.903013,Highway,Motorcycle,Road Condition,Evening,4,7,2,32,Foggy,SDG 3.6,Male,65+,Motorcyclist,2
+ACC-00241,2024,1,Bagmati,Kathmandu,Gaushala,27.722007,85.322893,Urban Road,Truck,Drunk Driving,Afternoon,1,4,1,12,Rainy,SDG 3.6,Female,15–24,Driver,1
+ACC-00242,2021,11,Gandaki,Kaski,Nadipur,28.227388,83.995635,Highway,Tempo,Overspeeding,Morning,4,4,3,12,Foggy,SDG 11.2,Female,25–44,Driver,3
+ACC-00243,2023,7,Gandaki,Kaski,Batulechaur,28.271712,83.977819,Rural Road,Bus,Road Condition,Afternoon,4,6,0,50,Foggy,SDG 3.6,Female,25–44,Passenger,0
+ACC-00244,2022,5,Bagmati,Kathmandu,Budhanilkantha,27.754376,85.341919,Hill Road,Bicycle,Road Condition,Night,3,1,0,53,Rainy,SDG 3.6,Male,25–44,Cyclist,0
+ACC-00245,2021,2,Karnali,Surkhet,Barahatal,28.60407,81.550765,Hill Road,Motorcycle,Drunk Driving,Morning,1,5,0,34,Foggy,SDG 3.6,Male,0–14,Motorcyclist,0
+ACC-00246,2022,1,Gandaki,Kaski,Hemja,28.282857,83.955989,Hill Road,Motorcycle,Landslide,Evening,4,5,0,24,Rainy,SDG 3.6,Female,45–64,Motorcyclist,0
+ACC-00247,2024,10,Sudurpashchim,Kailali,Pathariya,28.678832,80.59972,Urban Road,Truck,Road Condition,Evening,2,0,0,30,Rainy,SDG 11.2,Male,65+,Driver,0
+ACC-00248,2022,2,Sudurpashchim,Kailali,Khailad,28.72104,80.597994,Highway,Motorcycle,Flood,Afternoon,1,5,3,56,Rainy,SDG 11.2,Female,25–44,Motorcyclist,3
+ACC-00249,2022,8,Madhesh,Dhanusha,Kamala,26.696682,85.961755,Hill Road,Motorcycle,Weather,Night,1,0,0,59,Rainy,SDG 3.6,Female,25–44,Motorcyclist,0
+ACC-00250,2025,2,Karnali,Surkhet,Chandannath,28.622389,81.701146,Urban Road,Motorcycle,Weather,Evening,4,1,0,5,Foggy,SDG 3.6,Female,65+,Motorcyclist,0
+ACC-00251,2024,6,Lumbini,Rupandehi,Kanchan,27.582165,83.394492,Urban Road,Bicycle,Overspeeding,Afternoon,4,3,1,10,Rainy,SDG 11.2,Male,25–44,Cyclist,1
+ACC-00252,2021,8,Sudurpashchim,Kailali,Attariya,28.661395,80.591824,Hill Road,Motorcycle,Weather,Night,1,4,0,70,Clear,SDG 11.2,Male,15–24,Motorcyclist,0
+ACC-00253,2023,1,Lumbini,Rupandehi,Rohini,27.610288,83.437021,Hill Road,Tempo,Road Condition,Night,3,5,3,25,Clear,SDG 3.6,Female,25–44,Passenger,3
+ACC-00254,2023,9,Koshi,Morang,Pathari,26.685793,87.586866,Urban Road,Truck,Overspeeding,Afternoon,4,1,1,11,Rainy,SDG 3.6,Male,25–44,Passenger,1
+ACC-00255,2022,12,Madhesh,Dhanusha,Hansapur,26.702935,85.899473,Urban Road,Truck,Overspeeding,Morning,4,3,1,36,Clear,SDG 3.6,Male,25–44,Driver,1
+ACC-00256,2022,12,Lumbini,Rupandehi,Marchawari,27.538976,83.3505,Rural Road,Truck,Drunk Driving,Morning,4,5,2,50,Rainy,SDG 11.2,Male,45–64,Driver,2
+ACC-00257,2023,8,Lumbini,Rupandehi,Lumbini,27.463872,83.270572,Hill Road,Motorcycle,Human Error,Evening,3,5,1,30,Clear,SDG 11.2,Female,65+,Motorcyclist,1
+ACC-00258,2022,9,Karnali,Surkhet,Chandannath,28.57796,81.712624,Rural Road,Motorcycle,Landslide,Morning,3,4,3,55,Rainy,SDG 11.2,Male,65+,Motorcyclist,3
+ACC-00259,2021,7,Karnali,Surkhet,Panchapuri,28.628498,81.721364,Highway,Bus,Drunk Driving,Evening,2,4,2,21,Clear,SDG 3.6,Male,25–44,Driver,2
+ACC-00260,2024,2,Karnali,Surkhet,Lekbeshi,28.575216,81.571938,Rural Road,Bus,Human Error,Afternoon,4,1,1,62,Foggy,SDG 3.6,Male,15–24,Passenger,1
+ACC-00261,2023,9,Gandaki,Kaski,Lamachaur,28.267402,84.026549,Highway,Truck,Drunk Driving,Night,2,6,2,53,Foggy,SDG 3.6,Male,65+,Passenger,2
+ACC-00262,2021,3,Sudurpashchim,Kailali,Ghodaghodi,28.686929,80.799007,Hill Road,Truck,Overspeeding,Night,1,3,2,53,Rainy,SDG 3.6,Other,45–64,Passenger,2
+ACC-00263,2022,1,Madhesh,Dhanusha,Janakpur,26.718634,85.936581,Highway,Motorcycle,Overspeeding,Evening,4,7,2,9,Foggy,SDG 11.2,Male,15–24,Motorcyclist,2
+ACC-00264,2022,7,Lumbini,Rupandehi,Siddharthanagar,27.511236,83.477175,Rural Road,Motorcycle,Road Condition,Afternoon,2,5,2,39,Rainy,SDG 11.2,Male,65+,Motorcyclist,2
+ACC-00265,2021,2,Madhesh,Dhanusha,Lakshminiya,26.729421,85.998868,Rural Road,Motorcycle,Landslide,Afternoon,1,5,2,42,Rainy,SDG 11.2,Female,45–64,Motorcyclist,2
+ACC-00266,2023,9,Bagmati,Kathmandu,Kalanki,27.71858,85.300327,Hill Road,Motorcycle,Overspeeding,Evening,2,2,2,23,Clear,SDG 3.6,Female,25–44,Motorcyclist,2
+ACC-00267,2022,11,Sudurpashchim,Kailali,Pathariya,28.643928,80.62022,Urban Road,Motorcycle,Human Error,Night,1,5,1,6,Rainy,SDG 11.2,Male,25–44,Motorcyclist,1
+ACC-00268,2025,2,Koshi,Morang,Rangeli,26.426156,87.323253,Rural Road,Motorcycle,Road Condition,Night,4,3,3,45,Rainy,SDG 3.6,Male,25–44,Motorcyclist,3
+ACC-00269,2021,12,Gandaki,Kaski,Nadipur,28.190354,84.003217,Rural Road,Truck,Overspeeding,Evening,1,2,2,37,Foggy,SDG 3.6,Male,0–14,Driver,2
+ACC-00270,2024,3,Bagmati,Kathmandu,Thamel,27.708707,85.321643,Rural Road,Motorcycle,Weather,Evening,2,2,2,68,Foggy,SDG 11.2,Male,15–24,Motorcyclist,2
+ACC-00271,2024,9,Koshi,Morang,Rangeli,26.425406,87.309963,Rural Road,Motorcycle,Drunk Driving,Evening,2,3,1,28,Clear,SDG 3.6,Female,45–64,Motorcyclist,1
+ACC-00272,2025,1,Lumbini,Rupandehi,Devdaha,27.626877,83.490259,Hill Road,Motorcycle,Human Error,Night,1,2,2,22,Rainy,SDG 3.6,Female,0–14,Motorcyclist,2
+ACC-00273,2022,2,Madhesh,Dhanusha,Kamala,26.681428,85.950278,Urban Road,Motorcycle,Drunk Driving,Evening,4,3,2,44,Foggy,SDG 11.2,Female,15–24,Motorcyclist,2
+ACC-00274,2024,3,Karnali,Surkhet,Jabre,28.584012,81.638462,Highway,Motorcycle,Drunk Driving,Night,3,8,2,13,Foggy,SDG 11.2,Female,25–44,Motorcyclist,2
+ACC-00275,2025,2,Gandaki,Kaski,Birauta,28.186524,83.961328,Highway,Motorcycle,Flood,Evening,2,5,1,21,Rainy,SDG 3.6,Male,25–44,Motorcyclist,1
+ACC-00276,2025,10,Karnali,Surkhet,Birendranagar,28.622875,81.641798,Urban Road,Motorcycle,Overspeeding,Evening,4,5,1,28,Rainy,SDG 3.6,Male,65+,Motorcyclist,1
+ACC-00277,2024,6,Sudurpashchim,Kailali,Lamki,28.627882,80.680625,Urban Road,Bus,Flood,Afternoon,2,3,1,16,Rainy,SDG 3.6,Female,15–24,Passenger,1
+ACC-00278,2022,2,Karnali,Surkhet,Barahatal,28.592425,81.595688,Urban Road,Motorcycle,Landslide,Afternoon,3,3,3,34,Rainy,SDG 3.6,Male,15–24,Motorcyclist,3
+ACC-00279,2023,12,Karnali,Surkhet,Chhinchu,28.532224,81.691282,Urban Road,Motorcycle,Drunk Driving,Night,4,2,2,46,Clear,SDG 11.2,Male,45–64,Motorcyclist,2
+ACC-00280,2023,8,Gandaki,Kaski,Nadipur,28.214351,84.009034,Hill Road,Motorcycle,Overspeeding,Afternoon,4,1,0,22,Foggy,SDG 11.2,Female,25–44,Motorcyclist,0
+ACC-00281,2021,11,Madhesh,Dhanusha,Mithila,26.679441,85.906121,Urban Road,Motorcycle,Landslide,Morning,4,5,3,35,Rainy,SDG 3.6,Female,15–24,Motorcyclist,3
+ACC-00282,2025,3,Karnali,Surkhet,Birendranagar,28.58652,81.611573,Highway,Motorcycle,Human Error,Afternoon,1,2,1,16,Foggy,SDG 11.2,Male,25–44,Motorcyclist,1
+ACC-00283,2021,4,Lumbini,Rupandehi,Omsatiya,27.603678,83.459278,Urban Road,Bicycle,Flood,Night,2,1,1,43,Rainy,SDG 3.6,Male,15–24,Cyclist,1
+ACC-00284,2024,10,Lumbini,Rupandehi,Siddharthanagar,27.523451,83.45056,Rural Road,Motorcycle,Weather,Afternoon,1,0,0,51,Foggy,SDG 11.2,Male,15–24,Motorcyclist,0
+ACC-00285,2025,10,Sudurpashchim,Kailali,Hasuliya,28.535778,80.798552,Highway,Motorcycle,Human Error,Morning,1,5,1,43,Foggy,SDG 3.6,Male,25–44,Motorcyclist,1
+ACC-00286,2025,7,Sudurpashchim,Kailali,Mohanyal,28.745241,80.722489,Urban Road,Motorcycle,Flood,Night,3,4,0,32,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00287,2024,5,Gandaki,Kaski,Lakeside,28.199996,83.979606,Highway,Truck,Flood,Morning,1,6,0,29,Rainy,SDG 3.6,Male,65+,Driver,0
+ACC-00288,2025,5,Karnali,Surkhet,Panchapuri,28.601736,81.699287,Urban Road,Car,Human Error,Evening,3,5,3,53,Clear,SDG 11.2,Male,15–24,Passenger,3
+ACC-00289,2023,5,Lumbini,Rupandehi,Siddharthanagar,27.502213,83.463295,Rural Road,Motorcycle,Weather,Afternoon,1,5,1,46,Foggy,SDG 3.6,Male,25–44,Motorcyclist,1
+ACC-00290,2025,10,Koshi,Morang,Jahada,26.534034,87.220306,Rural Road,Truck,Drunk Driving,Night,1,6,1,70,Clear,SDG 11.2,Male,25–44,Driver,1
+ACC-00291,2021,10,Lumbini,Rupandehi,Butwal,27.673845,83.433306,Highway,Motorcycle,Weather,Evening,1,7,1,45,Rainy,SDG 11.2,Male,0–14,Motorcyclist,1
+ACC-00292,2022,1,Koshi,Morang,Gramthan,26.545846,87.201089,Hill Road,Motorcycle,Landslide,Afternoon,2,5,0,41,Rainy,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-00293,2024,7,Madhesh,Dhanusha,Ganeshman Charnath,26.75678,85.901188,Rural Road,Car,Landslide,Morning,1,4,2,64,Rainy,SDG 11.2,Female,15–24,Passenger,2
+ACC-00294,2024,10,Bagmati,Kathmandu,Balaju,27.740382,85.285672,Highway,Motorcycle,Human Error,Morning,1,6,2,26,Clear,SDG 11.2,Male,65+,Motorcyclist,2
+ACC-00295,2024,4,Lumbini,Rupandehi,Omsatiya,27.586566,83.432625,Hill Road,Motorcycle,Weather,Night,1,3,0,34,Clear,SDG 11.2,Male,15–24,Motorcyclist,0
+ACC-00296,2024,6,Karnali,Surkhet,Chandannath,28.612071,81.71801,Urban Road,Motorcycle,Flood,Evening,2,2,0,30,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00297,2025,5,Koshi,Morang,Budhiganga,26.459832,87.273114,Highway,Motorcycle,Drunk Driving,Night,2,2,1,60,Rainy,SDG 3.6,Female,15–24,Motorcyclist,1
+ACC-00298,2021,2,Madhesh,Dhanusha,Bateshwor,26.78018,85.871362,Hill Road,Motorcycle,Landslide,Night,1,6,0,72,Rainy,SDG 11.2,Male,65+,Motorcyclist,0
+ACC-00299,2025,5,Lumbini,Rupandehi,Kanchan,27.583887,83.442859,Urban Road,Bicycle,Human Error,Evening,4,1,0,8,Foggy,SDG 11.2,Male,25–44,Cyclist,0
+ACC-00300,2022,8,Gandaki,Kaski,Nadipur,28.210837,84.011624,Hill Road,Motorcycle,Weather,Evening,1,0,0,42,Foggy,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-00301,2023,4,Bagmati,Kathmandu,Swayambhu,27.735711,85.271229,Urban Road,Bicycle,Road Condition,Evening,2,3,3,18,Rainy,SDG 11.2,Male,0–14,Cyclist,3
+ACC-00302,2025,11,Bagmati,Kathmandu,Chabahil,27.718044,85.351285,Urban Road,Motorcycle,Road Condition,Afternoon,4,6,3,17,Clear,SDG 3.6,Male,45–64,Motorcyclist,3
+ACC-00303,2025,9,Gandaki,Kaski,Bagar,28.218291,83.974068,Rural Road,Truck,Road Condition,Evening,1,3,0,62,Clear,SDG 3.6,Male,15–24,Driver,0
+ACC-00304,2023,5,Madhesh,Dhanusha,Sabaila,26.770338,85.835778,Urban Road,Car,Flood,Evening,3,0,0,12,Rainy,SDG 3.6,Male,45–64,Passenger,0
+ACC-00305,2024,12,Lumbini,Rupandehi,Lumbini,27.461307,83.290392,Urban Road,Motorcycle,Human Error,Evening,4,5,1,60,Clear,SDG 11.2,Female,15–24,Motorcyclist,1
+ACC-00306,2023,6,Gandaki,Kaski,Lakeside,28.187747,83.947618,Rural Road,Motorcycle,Human Error,Night,3,3,3,65,Foggy,SDG 11.2,Female,15–24,Motorcyclist,3
+ACC-00307,2022,11,Gandaki,Kaski,Bagar,28.244253,83.973502,Urban Road,Motorcycle,Landslide,Morning,2,1,1,11,Rainy,SDG 3.6,Male,0–14,Motorcyclist,1
+ACC-00308,2021,2,Gandaki,Kaski,Pokhara,28.225856,83.987039,Urban Road,Motorcycle,Landslide,Night,3,1,0,52,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00309,2021,11,Karnali,Surkhet,Gurbhakot,28.491605,81.740236,Urban Road,Tempo,Flood,Night,4,6,3,40,Rainy,SDG 3.6,Female,25–44,Driver,3
+ACC-00310,2025,7,Karnali,Surkhet,Jabre,28.585855,81.627863,Urban Road,Bus,Road Condition,Evening,4,4,1,56,Clear,SDG 11.2,Male,0–14,Passenger,1
+ACC-00311,2021,9,Bagmati,Kathmandu,Thamel,27.700588,85.300214,Hill Road,Tempo,Road Condition,Evening,4,4,0,62,Rainy,SDG 11.2,Male,45–64,Passenger,0
+ACC-00312,2022,1,Bagmati,Kathmandu,Budhanilkantha,27.773826,85.347575,Rural Road,Motorcycle,Human Error,Night,4,1,0,63,Foggy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00313,2022,9,Sudurpashchim,Kailali,Tikapur,28.515779,81.115334,Hill Road,Motorcycle,Flood,Evening,3,5,2,44,Rainy,SDG 3.6,Male,25–44,Motorcyclist,2
+ACC-00314,2024,5,Madhesh,Dhanusha,Ganeshman Charnath,26.716621,85.907321,Rural Road,Motorcycle,Road Condition,Morning,2,0,0,29,Clear,SDG 11.2,Female,25–44,Motorcyclist,0
+ACC-00315,2021,3,Bagmati,Kathmandu,Tokha,27.746305,85.290492,Highway,Motorcycle,Weather,Evening,4,4,1,49,Clear,SDG 11.2,Female,25–44,Motorcyclist,1
+ACC-00316,2025,8,Koshi,Morang,Biratnagar,26.43849,87.265345,Highway,Tempo,Road Condition,Night,1,1,0,29,Rainy,SDG 3.6,Male,25–44,Driver,0
+ACC-00317,2025,11,Karnali,Surkhet,Lekbeshi,28.55765,81.61626,Hill Road,Car,Landslide,Evening,3,1,0,65,Rainy,SDG 3.6,Male,15–24,Passenger,0
+ACC-00318,2021,11,Bagmati,Kathmandu,Gongabu,27.721929,85.309626,Urban Road,Motorcycle,Landslide,Night,3,0,0,55,Rainy,SDG 3.6,Male,15–24,Motorcyclist,0
+ACC-00319,2024,12,Gandaki,Kaski,Pokhara,28.23773,83.990465,Rural Road,Motorcycle,Overspeeding,Afternoon,2,3,0,61,Foggy,SDG 11.2,Male,45–64,Motorcyclist,0
+ACC-00320,2025,2,Sudurpashchim,Kailali,Dhangadhi,28.686331,80.544235,Highway,Motorcycle,Human Error,Evening,4,7,1,6,Foggy,SDG 11.2,Male,65+,Motorcyclist,1
+ACC-00321,2024,9,Bagmati,Kathmandu,Chabahil,27.74492,85.346118,Urban Road,Motorcycle,Drunk Driving,Afternoon,3,2,2,34,Rainy,SDG 3.6,Male,25–44,Motorcyclist,2
+ACC-00322,2023,8,Koshi,Morang,Budhiganga,26.45874,87.275801,Highway,Bus,Weather,Afternoon,1,6,2,54,Foggy,SDG 3.6,Male,15–24,Passenger,2
+ACC-00323,2022,9,Bagmati,Kathmandu,Gongabu,27.76203,85.337143,Rural Road,Truck,Drunk Driving,Evening,3,3,2,25,Clear,SDG 3.6,Male,25–44,Driver,2
+ACC-00324,2024,4,Koshi,Morang,Urlabari,26.68911,87.665425,Highway,Motorcycle,Flood,Night,4,6,3,8,Rainy,SDG 3.6,Male,25–44,Motorcyclist,3
+ACC-00325,2024,2,Lumbini,Rupandehi,Bhairahawa,27.530813,83.432524,Urban Road,Bus,Road Condition,Night,3,6,0,57,Foggy,SDG 11.2,Female,0–14,Driver,0
+ACC-00326,2022,9,Lumbini,Rupandehi,Omsatiya,27.564223,83.428234,Highway,Truck,Human Error,Night,2,2,0,41,Foggy,SDG 3.6,Female,15–24,Passenger,0
+ACC-00327,2023,11,Lumbini,Rupandehi,Omsatiya,27.566331,83.448317,Urban Road,Motorcycle,Overspeeding,Afternoon,2,4,3,37,Rainy,SDG 3.6,Male,45–64,Motorcyclist,3
+ACC-00328,2023,6,Lumbini,Rupandehi,Tilottama,27.644149,83.473005,Urban Road,Bus,Flood,Evening,2,4,1,29,Rainy,SDG 11.2,Male,25–44,Driver,1
+ACC-00329,2021,5,Bagmati,Kathmandu,Kirtipur,27.705589,85.247012,Rural Road,Motorcycle,Road Condition,Morning,3,1,0,72,Rainy,SDG 3.6,Male,0–14,Motorcyclist,0
+ACC-00330,2025,3,Sudurpashchim,Kailali,Mohanyal,28.750676,80.70424,Highway,Car,Drunk Driving,Afternoon,3,3,2,20,Clear,SDG 11.2,Male,15–24,Driver,2
+ACC-00331,2022,12,Sudurpashchim,Kailali,Attariya,28.644229,80.599144,Highway,Motorcycle,Weather,Afternoon,4,7,0,43,Foggy,SDG 11.2,Male,15–24,Motorcyclist,0
+ACC-00332,2023,6,Koshi,Morang,Rangeli,26.469707,87.330912,Hill Road,Car,Flood,Morning,2,5,0,58,Rainy,SDG 11.2,Female,25–44,Driver,0
+ACC-00333,2022,6,Koshi,Morang,Jahada,26.512471,87.232396,Urban Road,Motorcycle,Overspeeding,Night,4,6,0,19,Rainy,SDG 11.2,Male,0–14,Motorcyclist,0
+ACC-00334,2025,12,Sudurpashchim,Kailali,Lamki,28.607931,80.654953,Highway,Motorcycle,Overspeeding,Night,4,7,1,53,Clear,SDG 11.2,Male,15–24,Motorcyclist,1
+ACC-00335,2025,10,Lumbini,Rupandehi,Kanchan,27.553719,83.42428,Hill Road,Car,Drunk Driving,Morning,3,6,3,38,Foggy,SDG 3.6,Male,45–64,Passenger,3
+ACC-00336,2023,10,Koshi,Morang,Sundarharaicha,26.633616,87.381429,Rural Road,Motorcycle,Drunk Driving,Evening,4,4,1,46,Clear,SDG 3.6,Male,15–24,Motorcyclist,1
+ACC-00337,2021,12,Madhesh,Dhanusha,Mithila,26.715464,85.921166,Highway,Motorcycle,Drunk Driving,Evening,1,4,2,56,Clear,SDG 11.2,Female,25–44,Motorcyclist,2
+ACC-00338,2022,4,Gandaki,Kaski,Pokhara,28.199513,84.000001,Rural Road,Motorcycle,Human Error,Night,2,5,0,42,Foggy,SDG 3.6,Male,15–24,Motorcyclist,0
+ACC-00339,2025,5,Bagmati,Kathmandu,Kalanki,27.680941,85.298351,Highway,Motorcycle,Overspeeding,Morning,4,6,2,47,Foggy,SDG 11.2,Male,15–24,Motorcyclist,2
+ACC-00340,2024,4,Sudurpashchim,Kailali,Dhangadhi,28.68255,80.588004,Hill Road,Motorcycle,Landslide,Morning,3,3,0,29,Rainy,SDG 11.2,Male,15–24,Motorcyclist,0
+ACC-00341,2023,8,Lumbini,Rupandehi,Bhairahawa,27.489844,83.451765,Urban Road,Motorcycle,Road Condition,Evening,3,5,2,20,Foggy,SDG 11.2,Male,45–64,Motorcyclist,2
+ACC-00342,2021,9,Sudurpashchim,Kailali,Pathariya,28.655461,80.60323,Hill Road,Motorcycle,Road Condition,Night,2,0,0,51,Foggy,SDG 3.6,Male,45–64,Motorcyclist,0
+ACC-00343,2025,6,Gandaki,Kaski,Mahendrapul,28.189165,84.018232,Urban Road,Motorcycle,Landslide,Afternoon,2,6,1,24,Rainy,SDG 3.6,Male,45–64,Motorcyclist,1
+ACC-00344,2023,2,Gandaki,Kaski,Malepatan,28.260982,84.010027,Rural Road,Motorcycle,Overspeeding,Afternoon,3,6,1,64,Clear,SDG 11.2,Male,25–44,Motorcyclist,1
+ACC-00345,2023,3,Gandaki,Kaski,Hemja,28.28158,84.006026,Hill Road,Motorcycle,Drunk Driving,Morning,3,4,1,56,Clear,SDG 3.6,Male,25–44,Motorcyclist,1
+ACC-00346,2022,9,Karnali,Surkhet,Barahatal,28.594769,81.59679,Hill Road,Motorcycle,Landslide,Evening,2,6,3,49,Rainy,SDG 3.6,Male,15–24,Motorcyclist,3
+ACC-00347,2021,5,Madhesh,Dhanusha,Bateshwor,26.731934,85.895872,Hill Road,Motorcycle,Landslide,Afternoon,2,0,0,46,Rainy,SDG 11.2,Male,15–24,Motorcyclist,0
+ACC-00348,2021,10,Karnali,Surkhet,Latikoili,28.613255,81.645653,Hill Road,Car,Road Condition,Night,1,4,0,46,Rainy,SDG 3.6,Male,45–64,Driver,0
+ACC-00349,2021,4,Madhesh,Dhanusha,Aurahi,26.752355,85.883244,Urban Road,Motorcycle,Road Condition,Evening,4,1,1,23,Foggy,SDG 3.6,Male,0–14,Motorcyclist,1
+ACC-00350,2025,2,Karnali,Surkhet,Latikoili,28.609794,81.647102,Highway,Bus,Landslide,Afternoon,4,5,2,33,Rainy,SDG 3.6,Male,15–24,Passenger,2
+ACC-00351,2022,12,Gandaki,Kaski,Birauta,28.170411,83.962444,Rural Road,Motorcycle,Landslide,Night,3,0,0,64,Rainy,SDG 3.6,Male,15–24,Motorcyclist,0
+ACC-00352,2025,11,Gandaki,Kaski,Pokhara,28.225696,84.010335,Hill Road,Motorcycle,Drunk Driving,Afternoon,1,3,2,37,Foggy,SDG 11.2,Female,0–14,Motorcyclist,2
+ACC-00353,2021,10,Bagmati,Kathmandu,Koteshwor,27.701913,85.376626,Hill Road,Motorcycle,Weather,Night,1,4,4,33,Clear,SDG 11.2,Male,15–24,Motorcyclist,4
+ACC-00354,2022,9,Gandaki,Kaski,Birauta,28.169764,83.979006,Urban Road,Bus,Flood,Afternoon,1,1,0,8,Rainy,SDG 11.2,Male,25–44,Passenger,0
+ACC-00355,2023,6,Koshi,Morang,Biratnagar,26.46252,87.292081,Hill Road,Motorcycle,Weather,Afternoon,2,5,2,57,Foggy,SDG 3.6,Male,25–44,Motorcyclist,2
+ACC-00356,2023,7,Gandaki,Kaski,Pokhara,28.185188,83.973558,Hill Road,Motorcycle,Flood,Morning,3,3,1,25,Rainy,SDG 11.2,Male,45–64,Motorcyclist,1
+ACC-00357,2021,2,Bagmati,Kathmandu,Thankot,27.672591,85.190543,Rural Road,Bicycle,Human Error,Morning,4,5,2,45,Foggy,SDG 11.2,Male,45–64,Cyclist,2
+ACC-00358,2025,12,Bagmati,Kathmandu,Sankhu,27.716783,85.467758,Rural Road,Motorcycle,Drunk Driving,Afternoon,3,1,0,25,Clear,SDG 11.2,Male,15–24,Motorcyclist,0
+ACC-00359,2024,7,Karnali,Surkhet,Raniyapur,28.590884,81.677974,Highway,Motorcycle,Flood,Afternoon,1,7,1,49,Rainy,SDG 11.2,Female,15–24,Motorcyclist,1
+ACC-00360,2021,2,Sudurpashchim,Kailali,Ghodaghodi,28.678017,80.773,Rural Road,Motorcycle,Landslide,Morning,2,1,1,71,Rainy,SDG 11.2,Male,25–44,Motorcyclist,1
+ACC-00361,2024,9,Gandaki,Kaski,Malepatan,28.213145,83.964323,Hill Road,Car,Flood,Night,1,6,2,54,Rainy,SDG 11.2,Male,25–44,Passenger,2
+ACC-00362,2023,2,Lumbini,Rupandehi,Devdaha,27.654644,83.469903,Hill Road,Motorcycle,Overspeeding,Evening,4,5,1,54,Foggy,SDG 11.2,Male,15–24,Motorcyclist,1
+ACC-00363,2021,5,Madhesh,Dhanusha,Ganeshman Charnath,26.752316,85.89887,Urban Road,Car,Drunk Driving,Evening,4,6,2,18,Foggy,SDG 11.2,Male,25–44,Passenger,2
+ACC-00364,2021,8,Madhesh,Dhanusha,Kamala,26.707097,85.956667,Urban Road,Motorcycle,Human Error,Afternoon,2,2,1,51,Foggy,SDG 11.2,Male,25–44,Motorcyclist,1
+ACC-00365,2025,11,Sudurpashchim,Kailali,Lamki,28.646169,80.655895,Hill Road,Motorcycle,Overspeeding,Night,4,5,0,18,Rainy,SDG 3.6,Female,25–44,Motorcyclist,0
+ACC-00366,2025,11,Karnali,Surkhet,Barahatal,28.618013,81.552768,Hill Road,Motorcycle,Flood,Evening,2,2,0,30,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00367,2022,5,Lumbini,Rupandehi,Kanchan,27.570267,83.406359,Highway,Motorcycle,Human Error,Morning,2,5,2,40,Rainy,SDG 11.2,Female,15–24,Motorcyclist,2
+ACC-00368,2025,6,Madhesh,Dhanusha,Shahidnagar,26.75469,85.894275,Rural Road,Motorcycle,Overspeeding,Night,1,0,0,21,Clear,SDG 11.2,Female,65+,Motorcyclist,0
+ACC-00369,2024,10,Gandaki,Kaski,Rambazar,28.220767,83.985565,Urban Road,Motorcycle,Drunk Driving,Morning,4,4,1,10,Foggy,SDG 11.2,Male,45–64,Motorcyclist,1
+ACC-00370,2024,8,Koshi,Morang,Belbari,26.681369,87.440413,Urban Road,Motorcycle,Flood,Evening,3,3,1,49,Rainy,SDG 11.2,Male,15–24,Motorcyclist,1
+ACC-00371,2021,6,Sudurpashchim,Kailali,Janaki,28.59925,80.593922,Urban Road,Motorcycle,Road Condition,Evening,2,4,0,30,Foggy,SDG 3.6,Male,45–64,Motorcyclist,0
+ACC-00372,2025,7,Bagmati,Kathmandu,Budhanilkantha,27.766127,85.357658,Urban Road,Motorcycle,Drunk Driving,Night,4,0,0,18,Foggy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00373,2022,3,Sudurpashchim,Kailali,Hasuliya,28.57724,80.802672,Rural Road,Motorcycle,Landslide,Night,1,4,3,38,Rainy,SDG 3.6,Male,45–64,Motorcyclist,3
+ACC-00374,2025,2,Sudurpashchim,Kailali,Lamki,28.618482,80.674348,Rural Road,Motorcycle,Flood,Night,3,3,0,23,Rainy,SDG 3.6,Male,45–64,Motorcyclist,0
+ACC-00375,2023,7,Lumbini,Rupandehi,Siddharthanagar,27.519653,83.457178,Rural Road,Car,Drunk Driving,Evening,3,4,2,45,Foggy,SDG 11.2,Male,25–44,Driver,2
+ACC-00376,2022,5,Koshi,Morang,Katahari,26.499185,87.244252,Highway,Motorcycle,Overspeeding,Morning,3,2,0,60,Clear,SDG 3.6,Male,0–14,Motorcyclist,0
+ACC-00377,2024,7,Gandaki,Kaski,Malepatan,28.224088,83.977967,Rural Road,Bus,Weather,Afternoon,2,4,3,71,Rainy,SDG 11.2,Female,15–24,Passenger,3
+ACC-00378,2021,3,Madhesh,Dhanusha,Mukhiyapatti,26.707533,85.920696,Rural Road,Motorcycle,Weather,Afternoon,1,1,1,73,Rainy,SDG 11.2,Male,25–44,Motorcyclist,1
+ACC-00379,2024,7,Lumbini,Rupandehi,Kanchan,27.560565,83.423123,Urban Road,Motorcycle,Human Error,Morning,4,6,1,50,Foggy,SDG 11.2,Female,25–44,Motorcyclist,1
+ACC-00380,2023,2,Gandaki,Kaski,Pokhara,28.238294,83.989689,Rural Road,Motorcycle,Overspeeding,Afternoon,3,3,0,51,Foggy,SDG 3.6,Male,15–24,Motorcyclist,0
+ACC-00381,2021,11,Madhesh,Dhanusha,Mukhiyapatti,26.744501,85.977625,Rural Road,Motorcycle,Road Condition,Morning,3,4,0,48,Rainy,SDG 11.2,Male,15–24,Motorcyclist,0
+ACC-00382,2023,5,Lumbini,Rupandehi,Sainamaina,27.671175,83.458666,Highway,Motorcycle,Human Error,Evening,3,2,0,42,Clear,SDG 3.6,Male,45–64,Motorcyclist,0
+ACC-00383,2021,3,Karnali,Surkhet,Raniyapur,28.577459,81.647209,Urban Road,Tempo,Road Condition,Evening,2,4,2,22,Rainy,SDG 3.6,Male,65+,Driver,2
+ACC-00384,2022,11,Karnali,Surkhet,Jabre,28.560477,81.625506,Urban Road,Truck,Road Condition,Afternoon,4,1,0,26,Clear,SDG 3.6,Female,25–44,Driver,0
+ACC-00385,2024,4,Lumbini,Rupandehi,Kanchan,27.575166,83.414777,Rural Road,Truck,Drunk Driving,Afternoon,3,0,0,66,Clear,SDG 3.6,Female,15–24,Driver,0
+ACC-00386,2025,4,Madhesh,Dhanusha,Hansapur,26.718574,85.878576,Urban Road,Truck,Weather,Evening,2,4,3,5,Rainy,SDG 11.2,Female,15–24,Driver,3
+ACC-00387,2025,11,Gandaki,Kaski,Nadipur,28.230973,83.962461,Urban Road,Tempo,Human Error,Evening,3,2,1,56,Clear,SDG 11.2,Male,0–14,Passenger,1
+ACC-00388,2025,4,Karnali,Surkhet,Latikoili,28.606389,81.664945,Urban Road,Motorcycle,Drunk Driving,Evening,1,5,0,58,Clear,SDG 3.6,Male,65+,Motorcyclist,0
+ACC-00389,2022,12,Gandaki,Kaski,Nadipur,28.196234,83.986757,Urban Road,Motorcycle,Overspeeding,Morning,1,4,1,43,Foggy,SDG 3.6,Female,15–24,Motorcyclist,1
+ACC-00390,2025,3,Karnali,Surkhet,Chhinchu,28.541386,81.667794,Hill Road,Motorcycle,Road Condition,Evening,4,5,0,58,Rainy,SDG 11.2,Female,25–44,Motorcyclist,0
+ACC-00391,2023,5,Sudurpashchim,Kailali,Khailad,28.724203,80.596193,Highway,Motorcycle,Flood,Morning,4,4,2,8,Rainy,SDG 11.2,Other,15–24,Motorcyclist,2
+ACC-00392,2025,7,Madhesh,Dhanusha,Dhanushadham,26.782803,85.975715,Highway,Motorcycle,Drunk Driving,Night,2,6,0,33,Foggy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00393,2024,1,Koshi,Morang,Rangeli,26.427125,87.319253,Hill Road,Motorcycle,Landslide,Morning,1,5,3,35,Rainy,SDG 11.2,Male,25–44,Motorcyclist,3
+ACC-00394,2024,7,Gandaki,Kaski,Nadipur,28.232456,84.006259,Urban Road,Truck,Flood,Morning,2,0,0,49,Rainy,SDG 3.6,Female,45–64,Passenger,0
+ACC-00395,2021,6,Lumbini,Rupandehi,Tilottama,27.63091,83.464037,Rural Road,Motorcycle,Overspeeding,Night,3,5,1,29,Foggy,SDG 3.6,Male,15–24,Motorcyclist,1
+ACC-00396,2023,8,Gandaki,Kaski,Hemja,28.296753,84.003788,Highway,Motorcycle,Landslide,Afternoon,2,2,0,6,Rainy,SDG 3.6,Female,0–14,Motorcyclist,0
+ACC-00397,2024,9,Gandaki,Kaski,Lakeside,28.230564,83.965604,Hill Road,Motorcycle,Overspeeding,Morning,3,0,0,68,Foggy,SDG 3.6,Female,15–24,Motorcyclist,0
+ACC-00398,2024,11,Gandaki,Kaski,Batulechaur,28.278426,83.980039,Hill Road,Motorcycle,Landslide,Afternoon,1,0,0,49,Rainy,SDG 3.6,Male,45–64,Motorcyclist,0
+ACC-00399,2022,11,Gandaki,Kaski,Batulechaur,28.272078,83.947832,Highway,Motorcycle,Flood,Morning,4,5,1,58,Rainy,SDG 3.6,Female,45–64,Motorcyclist,1
+ACC-00400,2022,2,Sudurpashchim,Kailali,Attariya,28.639829,80.612951,Hill Road,Motorcycle,Flood,Night,3,0,0,38,Rainy,SDG 3.6,Female,25–44,Motorcyclist,0
+ACC-00401,2024,3,Lumbini,Rupandehi,Tilottama,27.593793,83.456434,Rural Road,Car,Weather,Afternoon,1,1,0,68,Foggy,SDG 11.2,Male,25–44,Driver,0
+ACC-00402,2021,3,Sudurpashchim,Kailali,Dhangadhi,28.717778,80.539843,Hill Road,Motorcycle,Human Error,Evening,4,5,3,62,Clear,SDG 3.6,Female,25–44,Motorcyclist,3
+ACC-00403,2022,10,Madhesh,Dhanusha,Lakshminiya,26.707025,85.954355,Rural Road,Bus,Landslide,Night,1,5,3,40,Rainy,SDG 3.6,Male,15–24,Driver,3
+ACC-00404,2021,10,Lumbini,Rupandehi,Devdaha,27.62705,83.481812,Urban Road,Truck,Human Error,Afternoon,4,6,1,22,Clear,SDG 3.6,Female,65+,Passenger,1
+ACC-00405,2024,3,Koshi,Morang,Gramthan,26.540627,87.224689,Highway,Motorcycle,Overspeeding,Evening,3,2,1,21,Rainy,SDG 11.2,Male,25–44,Motorcyclist,1
+ACC-00406,2022,1,Koshi,Morang,Kanepokhari,26.573147,87.182242,Urban Road,Motorcycle,Drunk Driving,Night,3,3,1,52,Foggy,SDG 11.2,Female,25–44,Motorcyclist,1
+ACC-00407,2024,4,Madhesh,Dhanusha,Kamala,26.673667,85.924227,Urban Road,Motorcycle,Weather,Night,1,3,1,18,Foggy,SDG 11.2,Male,25–44,Motorcyclist,1
+ACC-00408,2023,5,Madhesh,Dhanusha,Kamala,26.668184,85.953189,Urban Road,Motorcycle,Landslide,Morning,3,1,0,59,Rainy,SDG 11.2,Male,0–14,Motorcyclist,0
+ACC-00409,2022,11,Gandaki,Kaski,Sarangkot,28.228191,83.93171,Hill Road,Tempo,Human Error,Afternoon,1,3,3,73,Clear,SDG 11.2,Female,15–24,Driver,3
+ACC-00410,2022,4,Sudurpashchim,Kailali,Ghodaghodi,28.66087,80.765687,Urban Road,Bus,Human Error,Afternoon,1,3,0,7,Rainy,SDG 3.6,Male,45–64,Driver,0
+ACC-00411,2021,8,Gandaki,Kaski,Birauta,28.213583,83.984799,Urban Road,Motorcycle,Flood,Morning,4,1,0,27,Rainy,SDG 3.6,Male,15–24,Motorcyclist,0
+ACC-00412,2024,10,Karnali,Surkhet,Birendranagar,28.600687,81.62219,Hill Road,Motorcycle,Weather,Night,2,6,3,29,Rainy,SDG 11.2,Female,25–44,Motorcyclist,3
+ACC-00413,2023,9,Karnali,Surkhet,Chandannath,28.574242,81.723606,Highway,Car,Road Condition,Afternoon,1,6,2,52,Clear,SDG 11.2,Female,15–24,Driver,2
+ACC-00414,2023,6,Koshi,Morang,Sundarharaicha,26.633635,87.407148,Highway,Car,Overspeeding,Afternoon,2,4,0,39,Clear,SDG 11.2,Male,25–44,Passenger,0
+ACC-00415,2023,9,Karnali,Surkhet,Raniyapur,28.585653,81.649228,Rural Road,Motorcycle,Overspeeding,Evening,3,3,3,50,Foggy,SDG 3.6,Male,15–24,Motorcyclist,3
+ACC-00416,2021,4,Gandaki,Kaski,Birauta,28.202257,83.990994,Hill Road,Car,Overspeeding,Night,2,2,0,24,Clear,SDG 11.2,Male,15–24,Passenger,0
+ACC-00417,2021,5,Koshi,Morang,Budhiganga,26.45003,87.272255,Urban Road,Bus,Drunk Driving,Night,3,3,3,52,Foggy,SDG 3.6,Male,45–64,Driver,3
+ACC-00418,2025,11,Bagmati,Kathmandu,Koteshwor,27.649322,85.367119,Urban Road,Bus,Landslide,Evening,4,4,3,34,Rainy,SDG 3.6,Male,15–24,Driver,3
+ACC-00419,2023,5,Sudurpashchim,Kailali,Lamki,28.647356,80.663607,Hill Road,Motorcycle,Road Condition,Evening,4,1,0,63,Foggy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00420,2022,3,Madhesh,Dhanusha,Aurahi,26.791572,85.899981,Urban Road,Motorcycle,Road Condition,Afternoon,4,2,1,16,Clear,SDG 3.6,Female,25–44,Motorcyclist,1
+ACC-00421,2022,9,Karnali,Surkhet,Barahatal,28.598877,81.576906,Urban Road,Tempo,Weather,Night,2,3,2,14,Clear,SDG 11.2,Female,25–44,Passenger,2
+ACC-00422,2025,11,Karnali,Surkhet,Latikoili,28.613759,81.678176,Highway,Bus,Weather,Evening,1,6,3,7,Clear,SDG 3.6,Female,65+,Passenger,3
+ACC-00423,2023,2,Bagmati,Kathmandu,Thamel,27.722051,85.295222,Urban Road,Motorcycle,Drunk Driving,Afternoon,3,1,0,10,Foggy,SDG 11.2,Male,45–64,Motorcyclist,0
+ACC-00424,2025,10,Karnali,Surkhet,Uttarganga,28.543665,81.669428,Urban Road,Motorcycle,Landslide,Evening,4,1,1,28,Rainy,SDG 11.2,Male,15–24,Motorcyclist,1
+ACC-00425,2025,2,Koshi,Morang,Pathari,26.657081,87.587651,Urban Road,Motorcycle,Landslide,Night,4,2,0,56,Rainy,SDG 11.2,Male,0–14,Motorcyclist,0
+ACC-00426,2022,4,Karnali,Surkhet,Gurbhakot,28.510131,81.765876,Urban Road,Bicycle,Human Error,Evening,1,4,3,10,Clear,SDG 11.2,Male,15–24,Cyclist,3
+ACC-00427,2025,3,Karnali,Surkhet,Panchapuri,28.590494,81.717727,Highway,Motorcycle,Road Condition,Night,1,8,2,58,Foggy,SDG 11.2,Male,25–44,Motorcyclist,2
+ACC-00428,2023,5,Gandaki,Kaski,Batulechaur,28.23161,83.940147,Hill Road,Motorcycle,Weather,Morning,3,3,1,49,Foggy,SDG 3.6,Female,0–14,Motorcyclist,1
+ACC-00429,2025,12,Koshi,Morang,Belbari,26.669883,87.456038,Urban Road,Motorcycle,Weather,Evening,4,5,0,28,Foggy,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-00430,2024,12,Sudurpashchim,Kailali,Lamki,28.634899,80.658768,Highway,Motorcycle,Road Condition,Evening,4,6,2,8,Rainy,SDG 11.2,Male,25–44,Motorcyclist,2
+ACC-00431,2021,10,Lumbini,Rupandehi,Gaidahawa,27.561629,83.397682,Hill Road,Motorcycle,Flood,Evening,3,2,2,62,Rainy,SDG 11.2,Male,15–24,Motorcyclist,2
+ACC-00432,2023,8,Koshi,Morang,Urlabari,26.637474,87.68439,Urban Road,Motorcycle,Drunk Driving,Morning,2,1,0,58,Clear,SDG 3.6,Female,45–64,Motorcyclist,0
+ACC-00433,2021,8,Gandaki,Kaski,Lakeside,28.189994,83.934874,Urban Road,Motorcycle,Drunk Driving,Night,3,1,1,6,Foggy,SDG 3.6,Male,15–24,Motorcyclist,1
+ACC-00434,2022,4,Madhesh,Dhanusha,Aurahi,26.758542,85.873594,Highway,Motorcycle,Landslide,Morning,1,1,0,53,Rainy,SDG 3.6,Male,0–14,Motorcyclist,0
+ACC-00435,2021,8,Madhesh,Dhanusha,Janakpur,26.746383,85.924809,Highway,Motorcycle,Overspeeding,Evening,1,7,0,55,Clear,SDG 3.6,Male,45–64,Motorcyclist,0
+ACC-00436,2022,12,Lumbini,Rupandehi,Siddharthanagar,27.520236,83.431756,Hill Road,Bicycle,Road Condition,Evening,2,6,1,50,Foggy,SDG 3.6,Male,25–44,Cyclist,1
+ACC-00437,2023,3,Koshi,Morang,Jahada,26.52302,87.211493,Hill Road,Car,Landslide,Morning,2,4,3,41,Rainy,SDG 3.6,Male,25–44,Driver,3
+ACC-00438,2024,4,Gandaki,Kaski,Bagar,28.243085,84.024878,Urban Road,Car,Flood,Evening,1,3,0,38,Rainy,SDG 11.2,Female,25–44,Passenger,0
+ACC-00439,2021,6,Sudurpashchim,Kailali,Khailad,28.687296,80.593328,Urban Road,Motorcycle,Weather,Evening,4,1,1,23,Rainy,SDG 3.6,Male,15–24,Motorcyclist,1
+ACC-00440,2021,11,Sudurpashchim,Kailali,Janaki,28.626345,80.612046,Urban Road,Motorcycle,Weather,Morning,1,1,1,30,Foggy,SDG 3.6,Male,45–64,Motorcyclist,1
+ACC-00441,2022,10,Karnali,Surkhet,Chhinchu,28.511823,81.671945,Hill Road,Motorcycle,Drunk Driving,Night,4,2,2,67,Foggy,SDG 11.2,Male,45–64,Motorcyclist,2
+ACC-00442,2024,8,Sudurpashchim,Kailali,Bhajani,28.51855,80.76619,Urban Road,Motorcycle,Weather,Morning,1,2,1,36,Clear,SDG 3.6,Other,25–44,Motorcyclist,1
+ACC-00443,2021,3,Koshi,Morang,Kanepokhari,26.573171,87.154094,Urban Road,Bus,Drunk Driving,Evening,1,6,0,47,Foggy,SDG 11.2,Male,15–24,Driver,0
+ACC-00444,2025,5,Sudurpashchim,Kailali,Tikapur,28.517614,81.119874,Rural Road,Motorcycle,Human Error,Morning,1,3,0,42,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00445,2025,11,Sudurpashchim,Kailali,Janaki,28.597579,80.591972,Hill Road,Motorcycle,Landslide,Afternoon,4,3,1,37,Rainy,SDG 11.2,Female,15–24,Motorcyclist,1
+ACC-00446,2025,10,Gandaki,Kaski,Mahendrapul,28.220501,83.999605,Urban Road,Car,Drunk Driving,Morning,4,2,1,42,Rainy,SDG 11.2,Female,15–24,Driver,1
+ACC-00447,2022,6,Sudurpashchim,Kailali,Bhajani,28.493685,80.765428,Urban Road,Truck,Overspeeding,Evening,4,0,0,27,Rainy,SDG 11.2,Other,65+,Passenger,0
+ACC-00448,2023,10,Bagmati,Kathmandu,Gongabu,27.718654,85.302077,Highway,Truck,Flood,Evening,1,4,0,6,Rainy,SDG 11.2,Female,15–24,Driver,0
+ACC-00449,2024,5,Koshi,Morang,Gramthan,26.541802,87.204083,Highway,Car,Overspeeding,Evening,4,6,3,25,Foggy,SDG 3.6,Male,65+,Passenger,3
+ACC-00450,2024,9,Sudurpashchim,Kailali,Attariya,28.651452,80.577354,Hill Road,Bus,Drunk Driving,Evening,3,3,1,49,Foggy,SDG 3.6,Male,25–44,Driver,1
+ACC-00451,2025,7,Sudurpashchim,Kailali,Ghodaghodi,28.675909,80.757839,Hill Road,Bus,Overspeeding,Morning,3,2,0,54,Foggy,SDG 11.2,Female,15–24,Driver,0
+ACC-00452,2023,9,Gandaki,Kaski,Sarangkot,28.262739,83.953092,Hill Road,Car,Human Error,Evening,2,3,3,34,Foggy,SDG 11.2,Male,25–44,Passenger,3
+ACC-00453,2022,10,Karnali,Surkhet,Birendranagar,28.609571,81.634873,Urban Road,Bus,Flood,Night,3,5,3,41,Rainy,SDG 3.6,Male,45–64,Driver,3
+ACC-00454,2023,7,Lumbini,Rupandehi,Tilottama,27.617749,83.454422,Urban Road,Motorcycle,Overspeeding,Afternoon,4,2,1,46,Clear,SDG 11.2,Female,45–64,Motorcyclist,1
+ACC-00455,2021,4,Karnali,Surkhet,Panchapuri,28.594309,81.698998,Hill Road,Motorcycle,Weather,Night,4,5,1,30,Clear,SDG 11.2,Male,45–64,Motorcyclist,1
+ACC-00456,2025,3,Madhesh,Dhanusha,Ganeshman Charnath,26.75738,85.896666,Rural Road,Motorcycle,Landslide,Night,1,0,0,38,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00457,2021,7,Sudurpashchim,Kailali,Joshipur,28.633806,80.6603,Hill Road,Motorcycle,Drunk Driving,Afternoon,1,4,0,51,Foggy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00458,2023,6,Gandaki,Kaski,Batulechaur,28.265989,83.986391,Hill Road,Truck,Flood,Afternoon,4,1,0,24,Rainy,SDG 3.6,Male,45–64,Passenger,0
+ACC-00459,2024,9,Bagmati,Kathmandu,Thamel,27.700258,85.317369,Urban Road,Motorcycle,Road Condition,Night,4,5,1,22,Clear,SDG 11.2,Male,15–24,Motorcyclist,1
+ACC-00460,2025,1,Gandaki,Kaski,Hemja,28.256264,84.008008,Hill Road,Motorcycle,Overspeeding,Afternoon,3,4,3,37,Foggy,SDG 11.2,Male,25–44,Motorcyclist,3
+ACC-00461,2024,1,Sudurpashchim,Kailali,Mohanyal,28.772017,80.721459,Hill Road,Car,Road Condition,Evening,1,6,1,37,Clear,SDG 3.6,Male,15–24,Driver,1
+ACC-00462,2021,8,Gandaki,Kaski,Malepatan,28.229377,83.957033,Urban Road,Car,Flood,Evening,4,6,0,57,Rainy,SDG 11.2,Male,65+,Driver,0
+ACC-00463,2025,12,Lumbini,Rupandehi,Tilottama,27.615252,83.483754,Urban Road,Motorcycle,Flood,Morning,2,5,3,55,Rainy,SDG 3.6,Female,65+,Motorcyclist,3
+ACC-00464,2021,2,Koshi,Morang,Letang,26.749398,87.584623,Highway,Car,Flood,Afternoon,4,8,2,33,Rainy,SDG 3.6,Male,0–14,Driver,2
+ACC-00465,2023,4,Bagmati,Kathmandu,Gongabu,27.739581,85.307655,Highway,Motorcycle,Weather,Night,2,2,0,40,Foggy,SDG 3.6,Female,25–44,Motorcyclist,0
+ACC-00466,2021,7,Koshi,Morang,Letang,26.727407,87.61691,Rural Road,Bus,Drunk Driving,Morning,3,1,0,18,Foggy,SDG 11.2,Male,65+,Passenger,0
+ACC-00467,2022,4,Sudurpashchim,Kailali,Pathariya,28.669649,80.593469,Hill Road,Motorcycle,Road Condition,Evening,4,3,1,45,Clear,SDG 3.6,Male,15–24,Motorcyclist,1
+ACC-00468,2024,3,Sudurpashchim,Kailali,Khailad,28.710631,80.5751,Highway,Motorcycle,Drunk Driving,Night,2,4,3,48,Foggy,SDG 11.2,Female,25–44,Motorcyclist,3
+ACC-00469,2024,11,Koshi,Morang,Budhiganga,26.448992,87.279395,Urban Road,Car,Weather,Evening,1,0,0,8,Rainy,SDG 3.6,Male,65+,Driver,0
+ACC-00470,2025,12,Gandaki,Kaski,Mahendrapul,28.236359,84.018033,Hill Road,Motorcycle,Road Condition,Night,3,3,2,26,Foggy,SDG 3.6,Female,0–14,Motorcyclist,2
+ACC-00471,2023,8,Lumbini,Rupandehi,Lumbini,27.450192,83.27957,Highway,Motorcycle,Human Error,Night,2,4,0,25,Clear,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-00472,2023,10,Gandaki,Kaski,Rambazar,28.206636,83.975805,Hill Road,Tempo,Human Error,Evening,4,1,1,65,Rainy,SDG 3.6,Female,15–24,Passenger,1
+ACC-00473,2022,1,Lumbini,Rupandehi,Bhairahawa,27.486335,83.423274,Urban Road,Motorcycle,Weather,Night,1,3,0,33,Rainy,SDG 11.2,Male,65+,Motorcyclist,0
+ACC-00474,2021,6,Gandaki,Kaski,Lakeside,28.23375,83.979013,Highway,Tempo,Drunk Driving,Afternoon,3,5,1,42,Clear,SDG 3.6,Female,65+,Driver,1
+ACC-00475,2023,1,Gandaki,Kaski,Batulechaur,28.276095,83.980615,Urban Road,Bicycle,Overspeeding,Night,3,4,0,58,Rainy,SDG 3.6,Male,65+,Cyclist,0
+ACC-00476,2024,11,Koshi,Morang,Budhiganga,26.490842,87.299572,Hill Road,Bus,Overspeeding,Evening,1,5,3,38,Foggy,SDG 3.6,Other,25–44,Passenger,3
+ACC-00477,2021,9,Madhesh,Dhanusha,Mukhiyapatti,26.716977,85.967889,Hill Road,Motorcycle,Weather,Evening,2,1,1,23,Clear,SDG 3.6,Male,45–64,Motorcyclist,1
+ACC-00478,2022,2,Madhesh,Dhanusha,Hansapur,26.707096,85.895154,Urban Road,Truck,Landslide,Evening,2,2,2,11,Rainy,SDG 3.6,Male,45–64,Driver,2
+ACC-00479,2024,2,Gandaki,Kaski,Lamachaur,28.238586,84.001783,Hill Road,Motorcycle,Human Error,Afternoon,4,5,3,23,Clear,SDG 11.2,Female,15–24,Motorcyclist,3
+ACC-00480,2024,9,Gandaki,Kaski,Malepatan,28.246174,83.964304,Rural Road,Motorcycle,Road Condition,Night,4,0,0,37,Clear,SDG 3.6,Male,45–64,Motorcyclist,0
+ACC-00481,2021,9,Karnali,Surkhet,Lekbeshi,28.561386,81.587729,Highway,Motorcycle,Overspeeding,Night,4,2,1,47,Foggy,SDG 11.2,Male,0–14,Motorcyclist,1
+ACC-00482,2021,12,Bagmati,Kathmandu,Swayambhu,27.688906,85.290207,Rural Road,Motorcycle,Drunk Driving,Night,1,0,0,63,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00483,2023,3,Lumbini,Rupandehi,Rohini,27.596997,83.42847,Urban Road,Motorcycle,Human Error,Evening,1,3,0,5,Rainy,SDG 3.6,Male,15–24,Motorcyclist,0
+ACC-00484,2025,12,Koshi,Morang,Gramthan,26.518627,87.211508,Urban Road,Motorcycle,Human Error,Evening,4,6,2,10,Clear,SDG 3.6,Male,15–24,Motorcyclist,2
+ACC-00485,2022,1,Koshi,Morang,Rangeli,26.471858,87.317362,Urban Road,Bus,Landslide,Afternoon,4,6,1,10,Rainy,SDG 11.2,Male,0–14,Passenger,1
+ACC-00486,2022,12,Madhesh,Dhanusha,Hansapur,26.691309,85.859966,Rural Road,Motorcycle,Weather,Morning,4,4,1,30,Rainy,SDG 11.2,Female,25–44,Motorcyclist,1
+ACC-00487,2024,7,Koshi,Morang,Biratnagar,26.42866,87.292658,Hill Road,Motorcycle,Human Error,Evening,1,3,3,49,Foggy,SDG 11.2,Male,15–24,Motorcyclist,3
+ACC-00488,2025,2,Madhesh,Dhanusha,Lakshminiya,26.681141,85.974584,Urban Road,Bus,Weather,Morning,4,4,2,33,Foggy,SDG 11.2,Male,45–64,Passenger,2
+ACC-00489,2024,4,Koshi,Morang,Belbari,26.683873,87.425954,Urban Road,Motorcycle,Landslide,Evening,4,1,1,51,Rainy,SDG 11.2,Female,0–14,Motorcyclist,1
+ACC-00490,2025,4,Gandaki,Kaski,Birauta,28.212985,83.993672,Urban Road,Motorcycle,Landslide,Night,2,1,0,15,Rainy,SDG 11.2,Female,15–24,Motorcyclist,0
+ACC-00491,2021,1,Koshi,Morang,Budhiganga,26.459219,87.272566,Urban Road,Motorcycle,Landslide,Afternoon,2,6,0,56,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00492,2024,5,Gandaki,Kaski,Mahendrapul,28.193601,83.993719,Hill Road,Truck,Flood,Morning,3,1,0,63,Rainy,SDG 11.2,Male,45–64,Passenger,0
+ACC-00493,2025,2,Sudurpashchim,Kailali,Attariya,28.66848,80.611899,Hill Road,Motorcycle,Overspeeding,Afternoon,1,6,1,41,Clear,SDG 11.2,Male,15–24,Motorcyclist,1
+ACC-00494,2022,11,Karnali,Surkhet,Uttarganga,28.549903,81.69223,Urban Road,Tempo,Overspeeding,Afternoon,4,3,0,20,Rainy,SDG 11.2,Male,25–44,Passenger,0
+ACC-00495,2024,6,Bagmati,Kathmandu,Koteshwor,27.663961,85.361912,Rural Road,Motorcycle,Flood,Night,2,1,1,44,Rainy,SDG 11.2,Male,45–64,Motorcyclist,1
+ACC-00496,2025,2,Sudurpashchim,Kailali,Dhangadhi,28.691555,80.581209,Highway,Motorcycle,Flood,Afternoon,4,2,0,53,Rainy,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-00497,2025,5,Lumbini,Rupandehi,Rohini,27.628803,83.427944,Urban Road,Tempo,Landslide,Evening,3,2,0,57,Rainy,SDG 3.6,Male,15–24,Passenger,0
+ACC-00498,2025,10,Karnali,Surkhet,Latikoili,28.598633,81.673255,Rural Road,Motorcycle,Flood,Night,2,2,0,20,Rainy,SDG 11.2,Male,0–14,Motorcyclist,0
+ACC-00499,2021,9,Gandaki,Kaski,Nadipur,28.249515,83.977036,Rural Road,Car,Flood,Afternoon,1,0,0,33,Rainy,SDG 11.2,Female,45–64,Passenger,0
+ACC-00500,2025,6,Lumbini,Rupandehi,Omsatiya,27.563597,83.432379,Highway,Motorcycle,Overspeeding,Night,3,6,0,34,Rainy,SDG 3.6,Other,0–14,Motorcyclist,0
+ACC-00501,2025,11,Sudurpashchim,Kailali,Bhajani,28.507952,80.770015,Highway,Car,Landslide,Afternoon,1,3,2,42,Rainy,SDG 11.2,Male,45–64,Driver,2
+ACC-00502,2021,2,Gandaki,Kaski,Bagar,28.235698,84.015706,Highway,Motorcycle,Weather,Afternoon,4,2,0,48,Foggy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-00503,2024,12,Lumbini,Rupandehi,Lumbini,27.475058,83.288188,Hill Road,Car,Weather,Afternoon,2,4,1,49,Foggy,SDG 11.2,Male,65+,Driver,1
+ACC-00504,2022,9,Madhesh,Dhanusha,Aurahi,26.762759,85.888401,Urban Road,Bicycle,Human Error,Night,1,0,0,41,Rainy,SDG 3.6,Female,45–64,Cyclist,0
+ACC-00505,2023,5,Lumbini,Rupandehi,Butwal,27.692288,83.479461,Urban Road,Truck,Drunk Driving,Night,1,2,2,18,Clear,SDG 11.2,Male,65+,Passenger,2
+ACC-00506,2024,8,Koshi,Morang,Jahada,26.530919,87.252226,Rural Road,Bus,Road Condition,Night,4,6,2,66,Clear,SDG 11.2,Male,15–24,Passenger,2
+ACC-00507,2023,2,Sudurpashchim,Kailali,Pathariya,28.666944,80.631981,Hill Road,Bus,Weather,Night,2,3,2,52,Clear,SDG 11.2,Female,45–64,Passenger,2
+ACC-00508,2021,10,Karnali,Surkhet,Chandannath,28.575312,81.679937,Rural Road,Truck,Road Condition,Morning,1,1,0,54,Foggy,SDG 3.6,Female,25–44,Driver,0
+ACC-00509,2025,3,Sudurpashchim,Kailali,Mohanyal,28.773812,80.677217,Hill Road,Motorcycle,Drunk Driving,Afternoon,4,0,0,43,Foggy,SDG 3.6,Female,25–44,Motorcyclist,0
+ACC-00510,2025,6,Gandaki,Kaski,Sarangkot,28.241221,83.938896,Urban Road,Motorcycle,Overspeeding,Afternoon,3,1,0,21,Clear,SDG 3.6,Female,25–44,Motorcyclist,0
+ACC-00511,2023,3,Bagmati,Kathmandu,Gongabu,27.714151,85.324869,Highway,Motorcycle,Weather,Morning,3,3,1,25,Rainy,SDG 11.2,Male,45–64,Motorcyclist,1
+ACC-00512,2025,4,Sudurpashchim,Kailali,Dhangadhi,28.677154,80.580128,Urban Road,Truck,Weather,Morning,3,0,0,34,Foggy,SDG 11.2,Male,65+,Driver,0
+ACC-00513,2021,5,Koshi,Morang,Biratnagar,26.44695,87.255824,Rural Road,Bus,Overspeeding,Afternoon,2,2,2,44,Rainy,SDG 3.6,Female,45–64,Driver,2
+ACC-00514,2022,9,Sudurpashchim,Kailali,Lamki,28.622398,80.709119,Hill Road,Motorcycle,Human Error,Night,1,0,0,71,Foggy,SDG 11.2,Female,25–44,Motorcyclist,0
+ACC-00515,2023,10,Karnali,Surkhet,Birendranagar,28.575511,81.659209,Urban Road,Bus,Road Condition,Afternoon,3,0,0,52,Foggy,SDG 3.6,Male,25–44,Passenger,0
+ACC-00516,2025,5,Bagmati,Kathmandu,Thamel,27.726906,85.33183,Hill Road,Motorcycle,Human Error,Evening,3,5,2,66,Foggy,SDG 11.2,Male,45–64,Motorcyclist,2
+ACC-00517,2024,10,Bagmati,Kathmandu,Gongabu,27.762981,85.308498,Urban Road,Motorcycle,Drunk Driving,Morning,4,0,0,48,Clear,SDG 11.2,Male,15–24,Motorcyclist,0
+ACC-00518,2021,9,Lumbini,Rupandehi,Sainamaina,27.682288,83.447238,Highway,Tempo,Landslide,Night,1,4,1,57,Rainy,SDG 11.2,Female,15–24,Driver,1
+ACC-00519,2023,4,Gandaki,Kaski,Rambazar,28.244028,83.957486,Urban Road,Motorcycle,Overspeeding,Evening,3,1,0,57,Foggy,SDG 11.2,Other,15–24,Motorcyclist,0
+ACC-00520,2021,5,Sudurpashchim,Kailali,Tikapur,28.558807,81.148038,Urban Road,Truck,Human Error,Afternoon,1,1,1,12,Rainy,SDG 11.2,Male,15–24,Driver,1
+ACC-00521,2025,10,Madhesh,Dhanusha,Mukhiyapatti,26.744329,85.960331,Highway,Bus,Landslide,Morning,2,4,2,59,Rainy,SDG 11.2,Male,15–24,Driver,2
+ACC-00522,2025,8,Madhesh,Dhanusha,Aurahi,26.790664,85.896867,Highway,Car,Landslide,Morning,3,4,3,22,Rainy,SDG 11.2,Male,15–24,Driver,3
+ACC-00523,2022,1,Gandaki,Kaski,Nadipur,28.235541,84.013028,Urban Road,Car,Weather,Evening,1,3,1,26,Clear,SDG 3.6,Female,0–14,Driver,1
+ACC-00524,2022,4,Karnali,Surkhet,Raniyapur,28.565429,81.634466,Highway,Motorcycle,Landslide,Morning,1,5,3,56,Rainy,SDG 11.2,Female,0–14,Motorcyclist,3
+ACC-00525,2023,1,Sudurpashchim,Kailali,Tikapur,28.50647,81.104302,Hill Road,Car,Drunk Driving,Morning,4,6,0,58,Rainy,SDG 3.6,Female,65+,Driver,0
+ACC-00526,2021,3,Koshi,Morang,Biratnagar,26.445144,87.295205,Highway,Motorcycle,Overspeeding,Evening,4,2,0,48,Clear,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-00527,2022,10,Bagmati,Kathmandu,Thamel,27.69075,85.327118,Hill Road,Bus,Weather,Night,4,6,3,57,Foggy,SDG 3.6,Male,25–44,Passenger,3
+ACC-00528,2021,2,Bagmati,Kathmandu,Kirtipur,27.679033,85.282269,Highway,Motorcycle,Human Error,Afternoon,2,6,2,27,Rainy,SDG 11.2,Male,25–44,Motorcyclist,2
+ACC-00529,2021,3,Karnali,Surkhet,Gurbhakot,28.474589,81.777822,Urban Road,Motorcycle,Landslide,Evening,3,4,1,14,Rainy,SDG 11.2,Male,15–24,Motorcyclist,1
+ACC-00530,2025,11,Lumbini,Rupandehi,Lumbini,27.46213,83.250485,Rural Road,Motorcycle,Human Error,Morning,4,2,0,30,Foggy,SDG 3.6,Female,65+,Motorcyclist,0
+ACC-00531,2024,10,Sudurpashchim,Kailali,Bhajani,28.501361,80.758544,Rural Road,Tempo,Human Error,Evening,3,3,2,28,Clear,SDG 11.2,Female,45–64,Driver,2
+ACC-00532,2022,12,Sudurpashchim,Kailali,Janaki,28.583164,80.590222,Urban Road,Bus,Drunk Driving,Night,3,6,4,18,Rainy,SDG 3.6,Other,15–24,Driver,4
+ACC-00533,2025,2,Sudurpashchim,Kailali,Bhajani,28.490594,80.751473,Highway,Motorcycle,Landslide,Evening,1,2,0,17,Rainy,SDG 3.6,Other,25–44,Motorcyclist,0
+ACC-00534,2022,3,Madhesh,Dhanusha,Aurahi,26.760457,85.910852,Highway,Motorcycle,Road Condition,Morning,1,8,1,29,Foggy,SDG 3.6,Male,45–64,Motorcyclist,1
+ACC-00535,2023,11,Bagmati,Kathmandu,Chabahil,27.718372,85.339178,Highway,Car,Flood,Night,1,2,0,13,Rainy,SDG 3.6,Female,65+,Driver,0
+ACC-00536,2022,1,Lumbini,Rupandehi,Omsatiya,27.582455,83.445973,Hill Road,Bus,Flood,Evening,2,2,0,21,Rainy,SDG 11.2,Female,25–44,Driver,0
+ACC-00537,2022,12,Sudurpashchim,Kailali,Mohanyal,28.778103,80.72315,Highway,Car,Landslide,Morning,2,6,3,53,Rainy,SDG 11.2,Female,25–44,Driver,3
+ACC-00538,2024,12,Gandaki,Kaski,Bagar,28.212309,83.988433,Hill Road,Car,Human Error,Night,1,1,0,30,Rainy,SDG 3.6,Male,15–24,Driver,0
+ACC-00539,2022,6,Gandaki,Kaski,Hemja,28.280501,83.972625,Urban Road,Motorcycle,Flood,Morning,3,3,2,19,Rainy,SDG 3.6,Male,65+,Motorcyclist,2
+ACC-00540,2023,8,Gandaki,Kaski,Lamachaur,28.237069,83.99395,Urban Road,Car,Drunk Driving,Night,2,2,2,9,Rainy,SDG 3.6,Male,15–24,Passenger,2
+ACC-00541,2021,2,Bagmati,Kathmandu,Budhanilkantha,27.764585,85.343664,Urban Road,Car,Road Condition,Afternoon,3,2,1,52,Foggy,SDG 11.2,Female,65+,Driver,1
+ACC-00542,2021,5,Madhesh,Dhanusha,Aurahi,26.794389,85.914743,Urban Road,Motorcycle,Weather,Night,1,3,2,60,Rainy,SDG 3.6,Male,25–44,Motorcyclist,2
+ACC-00543,2025,8,Madhesh,Dhanusha,Sabaila,26.734023,85.86522,Rural Road,Motorcycle,Flood,Morning,3,6,1,45,Rainy,SDG 11.2,Male,25–44,Motorcyclist,1
+ACC-00544,2022,10,Madhesh,Dhanusha,Sabaila,26.771177,85.831806,Hill Road,Motorcycle,Landslide,Morning,4,6,2,39,Rainy,SDG 11.2,Male,25–44,Motorcyclist,2
+ACC-00545,2021,10,Gandaki,Kaski,Rambazar,28.217256,83.969565,Hill Road,Tempo,Drunk Driving,Evening,4,3,1,43,Clear,SDG 11.2,Male,15–24,Passenger,1
+ACC-00546,2023,2,Madhesh,Dhanusha,Dhanushadham,26.77303,85.977716,Highway,Motorcycle,Drunk Driving,Morning,4,1,0,17,Clear,SDG 11.2,Male,15–24,Motorcyclist,0
+ACC-00547,2024,1,Bagmati,Kathmandu,Balaju,27.721466,85.305464,Urban Road,Motorcycle,Road Condition,Night,4,1,1,13,Foggy,SDG 11.2,Male,15–24,Motorcyclist,1
+ACC-00548,2022,4,Gandaki,Kaski,Lamachaur,28.267306,84.019942,Urban Road,Motorcycle,Landslide,Night,2,4,2,42,Rainy,SDG 11.2,Male,15–24,Motorcyclist,2
+ACC-00549,2024,10,Bagmati,Kathmandu,Kalanki,27.723365,85.277744,Hill Road,Car,Human Error,Night,4,3,0,65,Clear,SDG 11.2,Male,45–64,Passenger,0
+ACC-00550,2023,7,Karnali,Surkhet,Barahatal,28.632019,81.592699,Rural Road,Truck,Drunk Driving,Night,2,1,1,47,Rainy,SDG 3.6,Female,15–24,Passenger,1
