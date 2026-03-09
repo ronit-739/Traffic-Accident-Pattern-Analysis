@@ -1,2 +1,2 @@
 # Traffic-Accident-Pattern-Analysis
-This is Project done for data Scieence Project
+This is Project done for Data Science Project
