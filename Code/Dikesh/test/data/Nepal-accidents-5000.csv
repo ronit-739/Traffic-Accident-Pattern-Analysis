@@ -2609,45 +2609,45 @@ ACC-02607,2022,3,Lumbini,Rupandehi,Sainamaina,27.656005,83.415252,Urban Road,Bus
 ACC-02608,2023,7,Lumbini,Rupandehi,Sainamaina,27.662419,83.420443,Urban Road,Motorcycle,Human Error,Night,3,3,0,36,Clear,SDG 11.2,Male,25–44,Motorcyclist,0
 ACC-02609,2021,2,Lumbini,Rupandehi,Sainamaina,27.656295,83.416192,Highway,Motorcycle,Flood,Afternoon,1,8,1,35,Rainy,SDG 3.6,Male,0–14,Driver,1
 ACC-02610,2022,4,Lumbini,Rupandehi,Sainamaina,27.672378,83.416068,Rural Road,Car,Overspeeding,Evening,1,5,2,44,Foggy,SDG 3.6,Male,0–14,Passenger,2
-ACC-02611,2022,5,Lumbini,Rupandehi,Lumbini Road,27.474753,83.285651,Hill Road,Motorcycle,Human Error,Morning,3,8,3,39,Rainy,SDG 3.6,Male,45–64,Motorcyclist,3
-ACC-02612,2025,3,Lumbini,Rupandehi,Lumbini Road,27.474241,83.275558,Hill Road,Tempo,Overspeeding,Night,3,4,0,86,Foggy,SDG 11.2,Female,65+,Motorcyclist,0
+ACC-02611,2022,5,Lumbini,Rupandehi,Lumbini Road,27.524566,83.288959,Hill Road,Motorcycle,Human Error,Morning,3,8,3,39,Rainy,SDG 3.6,Male,45–64,Motorcyclist,3
+ACC-02612,2025,3,Lumbini,Rupandehi,Lumbini Road,27.522967,83.277597,Hill Road,Tempo,Overspeeding,Night,3,4,0,86,Foggy,SDG 11.2,Female,65+,Motorcyclist,0
 ACC-02613,2023,7,Lumbini,Rupandehi,Lumbini Road,27.50266,83.277,Highway,Car,Weather,Evening,1,8,2,59,Foggy,SDG 3.6,Male,45–64,Motorcyclist,2
-ACC-02614,2021,4,Lumbini,Rupandehi,Lumbini Road,27.466834,83.301013,Urban Road,Bus,Human Error,Morning,4,7,0,38,Clear,SDG 3.6,Female,25–44,Motorcyclist,0
-ACC-02615,2024,11,Lumbini,Rupandehi,Lumbini Road,27.486472,83.282571,Highway,Motorcycle,Human Error,Morning,1,5,0,85,Clear,SDG 11.2,Male,25–44,Passenger,0
-ACC-02616,2023,4,Lumbini,Rupandehi,Lumbini Road,27.475414,83.265299,Hill Road,Motorcycle,Human Error,Afternoon,1,5,0,84,Foggy,SDG 3.6,Male,15–24,Motorcyclist,0
-ACC-02617,2021,6,Lumbini,Rupandehi,Lumbini Road,27.473356,83.269673,Urban Road,Motorcycle,Weather,Evening,4,3,1,45,Clear,SDG 3.6,Male,45–64,Passenger,1
-ACC-02618,2021,10,Lumbini,Rupandehi,Lumbini Road,27.476816,83.274147,Hill Road,Motorcycle,Weather,Night,3,5,1,60,Rainy,SDG 11.2,Female,25–44,Driver,1
-ACC-02619,2025,8,Lumbini,Rupandehi,Lumbini Road,27.487746,83.259197,Rural Road,Bus,Drunk Driving,Morning,4,6,0,87,Foggy,SDG 3.6,Male,25–44,Passenger,0
+ACC-02614,2021,4,Lumbini,Rupandehi,Lumbini Road,27.522332,83.291139,Urban Road,Bus,Human Error,Morning,4,7,0,38,Clear,SDG 3.6,Female,25–44,Motorcyclist,0
+ACC-02615,2024,11,Lumbini,Rupandehi,Lumbini Road,27.525561,83.274692,Highway,Motorcycle,Human Error,Morning,1,5,0,85,Clear,SDG 11.2,Male,25–44,Passenger,0
+ACC-02616,2023,4,Lumbini,Rupandehi,Lumbini Road,27.53617,83.261675,Hill Road,Motorcycle,Human Error,Afternoon,1,5,0,84,Foggy,SDG 3.6,Male,15–24,Motorcyclist,0
+ACC-02617,2021,6,Lumbini,Rupandehi,Lumbini Road,27.528808,83.275493,Urban Road,Motorcycle,Weather,Evening,4,3,1,45,Clear,SDG 3.6,Male,45–64,Passenger,1
+ACC-02618,2021,10,Lumbini,Rupandehi,Lumbini Road,27.520959,83.269264,Hill Road,Motorcycle,Weather,Night,3,5,1,60,Rainy,SDG 11.2,Female,25–44,Driver,1
+ACC-02619,2025,8,Lumbini,Rupandehi,Lumbini Road,27.526597,83.267684,Rural Road,Bus,Drunk Driving,Morning,4,6,0,87,Foggy,SDG 3.6,Male,25–44,Passenger,0
 ACC-02620,2023,7,Lumbini,Rupandehi,Lumbini Road,27.498548,83.283673,Urban Road,Bus,Human Error,Night,2,3,0,50,Rainy,SDG 3.6,Male,25–44,Driver,0
-ACC-02621,2024,7,Lumbini,Rupandehi,Lumbini Road,27.480513,83.273776,Highway,Motorcycle,Weather,Night,1,4,0,65,Clear,SDG 3.6,Male,25–44,Motorcyclist,0
-ACC-02622,2025,1,Lumbini,Rupandehi,Lumbini Road,27.476729,83.273646,Hill Road,Motorcycle,Drunk Driving,Morning,1,5,3,81,Rainy,SDG 11.2,Female,25–44,Pedestrian,3
-ACC-02623,2023,6,Lumbini,Rupandehi,Lumbini Road,27.486667,83.289506,Hill Road,Motorcycle,Overspeeding,Night,3,6,0,34,Clear,SDG 3.6,Male,25–44,Cyclist,0
-ACC-02624,2024,12,Lumbini,Rupandehi,Lumbini Road,27.460965,83.285702,Urban Road,Bicycle,Overspeeding,Morning,4,2,0,18,Rainy,SDG 3.6,Male,15–24,Driver,0
-ACC-02625,2025,6,Lumbini,Rupandehi,Lumbini Road,27.47949,83.277454,Rural Road,Motorcycle,Overspeeding,Night,2,7,1,69,Rainy,SDG 3.6,Male,25–44,Pedestrian,1
-ACC-02626,2022,2,Lumbini,Rupandehi,Lumbini Road,27.496071,83.271602,Highway,Bicycle,Human Error,Evening,3,7,0,36,Foggy,SDG 3.6,Male,45–64,Motorcyclist,0
-ACC-02627,2025,1,Lumbini,Rupandehi,Lumbini Road,27.490115,83.267716,Highway,Car,Weather,Morning,2,8,2,24,Foggy,SDG 11.2,Male,25–44,Motorcyclist,2
-ACC-02628,2025,6,Lumbini,Rupandehi,Lumbini Road,27.466086,83.264098,Urban Road,Car,Human Error,Night,4,8,2,33,Foggy,SDG 11.2,Male,15–24,Pedestrian,2
-ACC-02629,2021,5,Lumbini,Rupandehi,Lumbini Road,27.467136,83.285703,Hill Road,Car,Road Condition,Morning,1,7,0,29,Clear,SDG 11.2,Male,0–14,Passenger,0
-ACC-02630,2023,3,Lumbini,Rupandehi,Lumbini Road,27.47642,83.265318,Urban Road,Motorcycle,Overspeeding,Night,4,1,0,68,Clear,SDG 11.2,Male,0–14,Cyclist,0
-ACC-02631,2024,2,Lumbini,Rupandehi,Lumbini Road,27.491936,83.27966,Urban Road,Car,Weather,Morning,3,3,1,87,Clear,SDG 3.6,Female,65+,Pedestrian,1
+ACC-02621,2024,7,Lumbini,Rupandehi,Lumbini Road,27.519863,83.27283,Highway,Motorcycle,Weather,Night,1,4,0,65,Clear,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-02622,2025,1,Lumbini,Rupandehi,Lumbini Road,27.525955,83.272844,Hill Road,Motorcycle,Drunk Driving,Morning,1,5,3,81,Rainy,SDG 11.2,Female,25–44,Pedestrian,3
+ACC-02623,2023,6,Lumbini,Rupandehi,Lumbini Road,27.521975,83.286021,Hill Road,Motorcycle,Overspeeding,Night,3,6,0,34,Clear,SDG 3.6,Male,25–44,Cyclist,0
+ACC-02624,2024,12,Lumbini,Rupandehi,Lumbini Road,27.518402,83.283739,Urban Road,Bicycle,Overspeeding,Morning,4,2,0,18,Rainy,SDG 3.6,Male,15–24,Driver,0
+ACC-02625,2025,6,Lumbini,Rupandehi,Lumbini Road,27.514722,83.286259,Rural Road,Motorcycle,Overspeeding,Night,2,7,1,69,Rainy,SDG 3.6,Male,25–44,Pedestrian,1
+ACC-02626,2022,2,Lumbini,Rupandehi,Lumbini Road,27.522945,83.268951,Highway,Bicycle,Human Error,Evening,3,7,0,36,Foggy,SDG 3.6,Male,45–64,Motorcyclist,0
+ACC-02627,2025,1,Lumbini,Rupandehi,Lumbini Road,27.523781,83.269176,Highway,Car,Weather,Morning,2,8,2,24,Foggy,SDG 11.2,Male,25–44,Motorcyclist,2
+ACC-02628,2025,6,Lumbini,Rupandehi,Lumbini Road,27.522506,83.256253,Urban Road,Car,Human Error,Night,4,8,2,33,Foggy,SDG 11.2,Male,15–24,Pedestrian,2
+ACC-02629,2021,5,Lumbini,Rupandehi,Lumbini Road,27.525431,83.285475,Hill Road,Car,Road Condition,Morning,1,7,0,29,Clear,SDG 11.2,Male,0–14,Passenger,0
+ACC-02630,2023,3,Lumbini,Rupandehi,Lumbini Road,27.523744,83.270913,Urban Road,Motorcycle,Overspeeding,Night,4,1,0,68,Clear,SDG 11.2,Male,0–14,Cyclist,0
+ACC-02631,2024,2,Lumbini,Rupandehi,Lumbini Road,27.525869,83.281035,Urban Road,Car,Weather,Morning,3,3,1,87,Clear,SDG 3.6,Female,65+,Pedestrian,1
 ACC-02632,2025,11,Lumbini,Rupandehi,Lumbini Road,27.496385,83.280808,Hill Road,Truck,Overspeeding,Night,3,6,2,87,Rainy,SDG 3.6,Male,25–44,Motorcyclist,2
 ACC-02633,2023,9,Lumbini,Rupandehi,Lumbini Road,27.500184,83.264682,Hill Road,Motorcycle,Flood,Morning,3,7,1,62,Foggy,SDG 11.2,Male,25–44,Pedestrian,1
-ACC-02634,2023,10,Lumbini,Rupandehi,Lumbini Road,27.48414,83.270588,Urban Road,Car,Weather,Afternoon,4,5,2,34,Rainy,SDG 3.6,Female,65+,Motorcyclist,2
-ACC-02635,2024,9,Lumbini,Rupandehi,Lumbini Road,27.47998,83.28135,Urban Road,Motorcycle,Landslide,Evening,1,7,2,62,Foggy,SDG 3.6,Female,25–44,Driver,2
+ACC-02634,2023,10,Lumbini,Rupandehi,Lumbini Road,27.522663,83.265097,Urban Road,Car,Weather,Afternoon,4,5,2,34,Rainy,SDG 3.6,Female,65+,Motorcyclist,2
+ACC-02635,2024,9,Lumbini,Rupandehi,Lumbini Road,27.523392,83.27619,Urban Road,Motorcycle,Landslide,Evening,1,7,2,62,Foggy,SDG 3.6,Female,25–44,Driver,2
 ACC-02636,2024,2,Lumbini,Rupandehi,Lumbini Road,27.496209,83.275591,Urban Road,Car,Drunk Driving,Morning,1,3,0,6,Foggy,SDG 3.6,Male,15–24,Motorcyclist,0
-ACC-02637,2022,1,Lumbini,Rupandehi,Lumbini Road,27.479759,83.263092,Rural Road,Bus,Drunk Driving,Night,3,3,0,70,Clear,SDG 11.2,Female,15–24,Driver,0
-ACC-02638,2022,9,Lumbini,Rupandehi,Lumbini Road,27.466491,83.275594,Rural Road,Motorcycle,Overspeeding,Morning,3,4,1,28,Clear,SDG 3.6,Male,25–44,Passenger,1
+ACC-02637,2022,1,Lumbini,Rupandehi,Lumbini Road,27.528016,83.265877,Rural Road,Bus,Drunk Driving,Night,3,3,0,70,Clear,SDG 11.2,Female,15–24,Driver,0
+ACC-02638,2022,9,Lumbini,Rupandehi,Lumbini Road,27.529922,83.274958,Rural Road,Motorcycle,Overspeeding,Morning,3,4,1,28,Clear,SDG 3.6,Male,25–44,Passenger,1
 ACC-02639,2023,10,Lumbini,Rupandehi,Lumbini Road,27.503672,83.275881,Urban Road,Bus,Road Condition,Morning,2,0,0,70,Rainy,SDG 3.6,Female,15–24,Motorcyclist,0
-ACC-02640,2024,4,Lumbini,Rupandehi,Lumbini Road,27.49326,83.27548,Urban Road,Car,Human Error,Morning,1,6,0,64,Clear,SDG 11.2,Female,25–44,Driver,0
-ACC-02641,2025,6,Lumbini,Rupandehi,Lumbini Road,27.480454,83.270289,Urban Road,Bus,Human Error,Evening,2,7,1,70,Clear,SDG 11.2,Male,65+,Driver,1
-ACC-02642,2022,6,Lumbini,Rupandehi,Lumbini Road,27.487489,83.270541,Highway,Motorcycle,Human Error,Evening,4,6,0,29,Clear,SDG 3.6,Female,25–44,Driver,0
-ACC-02643,2024,8,Lumbini,Rupandehi,Lumbini Road,27.474088,83.283239,Urban Road,Motorcycle,Drunk Driving,Afternoon,1,3,0,39,Clear,SDG 3.6,Male,45–64,Pedestrian,0
-ACC-02644,2021,2,Lumbini,Rupandehi,Lumbini Road,27.478651,83.283949,Hill Road,Car,Human Error,Afternoon,2,1,0,77,Rainy,SDG 3.6,Male,65+,Passenger,0
-ACC-02645,2023,1,Lumbini,Rupandehi,Lumbini Road,27.475952,83.273043,Urban Road,Car,Human Error,Afternoon,1,2,1,5,Clear,SDG 11.2,Female,25–44,Motorcyclist,1
-ACC-02646,2025,5,Lumbini,Rupandehi,Lumbini Road,27.477648,83.277524,Hill Road,Tempo,Human Error,Night,3,5,0,87,Clear,SDG 11.2,Male,45–64,Motorcyclist,0
-ACC-02647,2025,3,Lumbini,Rupandehi,Lumbini Road,27.486021,83.278725,Hill Road,Car,Flood,Afternoon,2,8,0,55,Foggy,SDG 3.6,Male,15–24,Motorcyclist,0
-ACC-02648,2024,7,Lumbini,Rupandehi,Lumbini Road,27.47201,83.286488,Rural Road,Car,Road Condition,Night,1,7,0,31,Clear,SDG 11.2,Male,45–64,Motorcyclist,0
-ACC-02649,2022,7,Lumbini,Rupandehi,Lumbini Road,27.470274,83.261076,Urban Road,Car,Human Error,Morning,1,3,2,63,Clear,SDG 11.2,Male,25–44,Motorcyclist,2
+ACC-02640,2024,4,Lumbini,Rupandehi,Lumbini Road,27.525123,83.275835,Urban Road,Car,Human Error,Morning,1,6,0,64,Clear,SDG 11.2,Female,25–44,Driver,0
+ACC-02641,2025,6,Lumbini,Rupandehi,Lumbini Road,27.52723,83.264688,Urban Road,Bus,Human Error,Evening,2,7,1,70,Clear,SDG 11.2,Male,65+,Driver,1
+ACC-02642,2022,6,Lumbini,Rupandehi,Lumbini Road,27.518434,83.274985,Highway,Motorcycle,Human Error,Evening,4,6,0,29,Clear,SDG 3.6,Female,25–44,Driver,0
+ACC-02643,2024,8,Lumbini,Rupandehi,Lumbini Road,27.521834,83.280031,Urban Road,Motorcycle,Drunk Driving,Afternoon,1,3,0,39,Clear,SDG 3.6,Male,45–64,Pedestrian,0
+ACC-02644,2021,2,Lumbini,Rupandehi,Lumbini Road,27.52599,83.288102,Hill Road,Car,Human Error,Afternoon,2,1,0,77,Rainy,SDG 3.6,Male,65+,Passenger,0
+ACC-02645,2023,1,Lumbini,Rupandehi,Lumbini Road,27.5319,83.272355,Urban Road,Car,Human Error,Afternoon,1,2,1,5,Clear,SDG 11.2,Female,25–44,Motorcyclist,1
+ACC-02646,2025,5,Lumbini,Rupandehi,Lumbini Road,27.518359,83.283321,Hill Road,Tempo,Human Error,Night,3,5,0,87,Clear,SDG 11.2,Male,45–64,Motorcyclist,0
+ACC-02647,2025,3,Lumbini,Rupandehi,Lumbini Road,27.520149,83.279262,Hill Road,Car,Flood,Afternoon,2,8,0,55,Foggy,SDG 3.6,Male,15–24,Motorcyclist,0
+ACC-02648,2024,7,Lumbini,Rupandehi,Lumbini Road,27.520519,83.289578,Rural Road,Car,Road Condition,Night,1,7,0,31,Clear,SDG 11.2,Male,45–64,Motorcyclist,0
+ACC-02649,2022,7,Lumbini,Rupandehi,Lumbini Road,27.543882,83.269422,Urban Road,Car,Human Error,Morning,1,3,2,63,Clear,SDG 11.2,Male,25–44,Motorcyclist,2
 ACC-02650,2024,12,Lumbini,Banke,Nepalgunj Chowk,28.062971,81.625922,Urban Road,Motorcycle,Drunk Driving,Night,4,4,1,37,Rainy,SDG 11.2,Male,15–24,Motorcyclist,1
 ACC-02651,2024,5,Lumbini,Banke,Nepalgunj Chowk,28.057617,81.611839,Highway,Motorcycle,Human Error,Afternoon,3,0,0,73,Clear,SDG 11.2,Female,65+,Motorcyclist,0
 ACC-02652,2025,4,Lumbini,Banke,Nepalgunj Chowk,28.037377,81.628693,Urban Road,Car,Human Error,Morning,4,2,1,35,Rainy,SDG 11.2,Male,25–44,Pedestrian,1
@@ -2764,38 +2764,38 @@ ACC-02762,2024,12,Lumbini,Banke,Kohalpur Highway,28.077854,81.70269,Highway,Moto
 ACC-02763,2022,2,Lumbini,Banke,Kohalpur Highway,28.083263,81.707848,Highway,Motorcycle,Overspeeding,Evening,4,2,1,46,Rainy,SDG 3.6,Male,15–24,Cyclist,1
 ACC-02764,2021,10,Lumbini,Banke,Kohalpur Highway,28.069814,81.693706,Highway,Motorcycle,Weather,Night,2,2,0,54,Rainy,SDG 3.6,Male,25–44,Pedestrian,0
 ACC-02765,2021,6,Lumbini,Banke,Kohalpur Highway,28.071955,81.692068,Highway,Bicycle,Human Error,Morning,2,7,0,56,Clear,SDG 3.6,Male,25–44,Motorcyclist,0
-ACC-02766,2024,12,Lumbini,Bardiya,Gulariya Road,28.034964,81.325696,Urban Road,Motorcycle,Weather,Evening,1,5,2,33,Clear,SDG 11.2,Male,45–64,Passenger,2
-ACC-02767,2021,3,Lumbini,Bardiya,Gulariya Road,28.035283,81.329576,Urban Road,Motorcycle,Overspeeding,Morning,2,8,2,84,Foggy,SDG 11.2,Female,15–24,Driver,2
-ACC-02768,2021,11,Lumbini,Bardiya,Gulariya Road,28.044165,81.340808,Rural Road,Motorcycle,Landslide,Night,2,6,2,16,Clear,SDG 3.6,Male,15–24,Motorcyclist,2
-ACC-02769,2023,11,Lumbini,Bardiya,Gulariya Road,28.032189,81.341164,Hill Road,Truck,Weather,Morning,2,2,1,80,Clear,SDG 3.6,Male,25–44,Motorcyclist,1
-ACC-02770,2025,9,Lumbini,Bardiya,Gulariya Road,28.036877,81.34277,Rural Road,Tempo,Flood,Morning,2,4,2,60,Rainy,SDG 3.6,Male,25–44,Driver,2
-ACC-02771,2025,8,Lumbini,Bardiya,Gulariya Road,28.045385,81.339435,Urban Road,Motorcycle,Flood,Evening,3,7,0,86,Foggy,SDG 11.2,Male,25–44,Driver,0
-ACC-02772,2022,9,Lumbini,Bardiya,Gulariya Road,28.036806,81.351764,Rural Road,Motorcycle,Human Error,Night,1,7,1,81,Clear,SDG 3.6,Male,25–44,Driver,1
-ACC-02773,2024,7,Lumbini,Bardiya,Gulariya Road,28.043148,81.332824,Hill Road,Motorcycle,Human Error,Night,2,1,0,90,Foggy,SDG 3.6,Female,15–24,Passenger,0
-ACC-02774,2025,8,Lumbini,Bardiya,Gulariya Road,28.028659,81.33446,Highway,Motorcycle,Drunk Driving,Morning,1,2,1,86,Rainy,SDG 3.6,Male,15–24,Passenger,1
-ACC-02775,2025,4,Lumbini,Bardiya,Gulariya Road,28.056046,81.316332,Rural Road,Motorcycle,Flood,Afternoon,4,8,0,79,Foggy,SDG 11.2,Female,25–44,Motorcyclist,0
-ACC-02776,2024,11,Lumbini,Bardiya,Gulariya Road,28.036648,81.343649,Highway,Bicycle,Overspeeding,Night,2,0,0,87,Rainy,SDG 3.6,Male,65+,Driver,0
-ACC-02777,2025,1,Lumbini,Bardiya,Gulariya Road,28.034727,81.34662,Highway,Truck,Human Error,Night,1,5,0,68,Rainy,SDG 3.6,Male,15–24,Driver,0
-ACC-02778,2023,11,Lumbini,Bardiya,Gulariya Road,28.030576,81.337252,Highway,Car,Human Error,Morning,4,6,1,11,Clear,SDG 11.2,Female,25–44,Passenger,1
-ACC-02779,2024,1,Lumbini,Bardiya,Gulariya Road,28.035313,81.342434,Urban Road,Bus,Flood,Afternoon,4,3,1,36,Rainy,SDG 3.6,Male,45–64,Passenger,1
-ACC-02780,2021,12,Lumbini,Bardiya,Gulariya Road,28.04509,81.319248,Urban Road,Tempo,Drunk Driving,Afternoon,1,0,1,19,Rainy,SDG 11.2,Male,25–44,Driver,1
-ACC-02781,2023,1,Lumbini,Bardiya,Gulariya Road,28.022271,81.346385,Highway,Motorcycle,Drunk Driving,Afternoon,4,0,0,69,Clear,SDG 11.2,Male,0–14,Driver,0
-ACC-02782,2024,10,Lumbini,Bardiya,Gulariya Road,28.030896,81.343943,Highway,Tempo,Road Condition,Evening,4,7,0,65,Clear,SDG 3.6,Female,25–44,Motorcyclist,0
-ACC-02783,2023,7,Lumbini,Bardiya,Gulariya Road,28.027794,81.343046,Urban Road,Motorcycle,Overspeeding,Morning,1,1,0,20,Rainy,SDG 11.2,Male,25–44,Passenger,0
-ACC-02784,2022,12,Lumbini,Bardiya,Gulariya Road,28.032204,81.32973,Highway,Car,Drunk Driving,Night,2,0,1,76,Rainy,SDG 11.2,Female,15–24,Pedestrian,1
-ACC-02785,2021,8,Lumbini,Bardiya,Gulariya Road,28.026603,81.346831,Rural Road,Motorcycle,Landslide,Afternoon,2,8,0,75,Clear,SDG 3.6,Male,65+,Passenger,0
-ACC-02786,2023,5,Lumbini,Bardiya,Gulariya Road,28.041571,81.331511,Rural Road,Motorcycle,Overspeeding,Morning,4,3,0,25,Clear,SDG 11.2,Male,45–64,Driver,0
-ACC-02787,2024,7,Lumbini,Bardiya,Gulariya Road,28.030679,81.3386,Urban Road,Bus,Drunk Driving,Evening,3,6,0,72,Rainy,SDG 3.6,Male,15–24,Cyclist,0
-ACC-02788,2024,4,Lumbini,Bardiya,Gulariya Road,28.024552,81.335289,Highway,Motorcycle,Human Error,Evening,4,8,1,57,Foggy,SDG 11.2,Female,15–24,Driver,1
-ACC-02789,2023,11,Lumbini,Bardiya,Gulariya Road,28.03178,81.350634,Highway,Bus,Weather,Afternoon,4,6,1,81,Clear,SDG 3.6,Female,25–44,Motorcyclist,1
-ACC-02790,2021,7,Lumbini,Bardiya,Gulariya Road,28.037406,81.358053,Highway,Motorcycle,Flood,Night,3,1,1,89,Clear,SDG 11.2,Male,15–24,Motorcyclist,1
-ACC-02791,2024,7,Lumbini,Bardiya,Gulariya Road,28.02659,81.328525,Highway,Motorcycle,Weather,Evening,4,6,0,26,Clear,SDG 3.6,Male,15–24,Motorcyclist,0
-ACC-02792,2021,7,Lumbini,Bardiya,Gulariya Road,28.032555,81.33154,Rural Road,Car,Human Error,Morning,1,7,1,62,Clear,SDG 3.6,Male,0–14,Passenger,1
-ACC-02793,2022,5,Lumbini,Bardiya,Gulariya Road,28.019999,81.324769,Rural Road,Bicycle,Drunk Driving,Night,4,4,0,27,Rainy,SDG 3.6,Female,25–44,Motorcyclist,0
-ACC-02794,2025,2,Lumbini,Bardiya,Gulariya Road,28.021544,81.332447,Urban Road,Truck,Human Error,Evening,2,1,0,13,Clear,SDG 3.6,Male,45–64,Cyclist,0
-ACC-02795,2022,10,Lumbini,Bardiya,Gulariya Road,28.025433,81.338165,Hill Road,Bus,Human Error,Night,1,5,0,79,Clear,SDG 11.2,Male,25–44,Passenger,0
-ACC-02796,2025,6,Lumbini,Bardiya,Gulariya Road,28.01826,81.339851,Hill Road,Motorcycle,Drunk Driving,Afternoon,3,8,0,80,Clear,SDG 11.2,Male,25–44,Driver,0
-ACC-02797,2022,1,Lumbini,Bardiya,Gulariya Road,28.034714,81.345425,Rural Road,Bus,Weather,Afternoon,4,8,2,87,Rainy,SDG 11.2,Male,25–44,Driver,2
+ACC-02766,2024,12,Lumbini,Bardiya,Gulariya Road,28.192469,81.334639,Urban Road,Motorcycle,Weather,Evening,1,5,2,33,Clear,SDG 11.2,Male,45–64,Passenger,2
+ACC-02767,2021,3,Lumbini,Bardiya,Gulariya Road,28.192988,81.33547,Urban Road,Motorcycle,Overspeeding,Morning,2,8,2,84,Foggy,SDG 11.2,Female,15–24,Driver,2
+ACC-02768,2021,11,Lumbini,Bardiya,Gulariya Road,28.189521,81.343434,Rural Road,Motorcycle,Landslide,Night,2,6,2,16,Clear,SDG 3.6,Male,15–24,Motorcyclist,2
+ACC-02769,2023,11,Lumbini,Bardiya,Gulariya Road,28.188251,81.341974,Hill Road,Truck,Weather,Morning,2,2,1,80,Clear,SDG 3.6,Male,25–44,Motorcyclist,1
+ACC-02770,2025,9,Lumbini,Bardiya,Gulariya Road,28.190953,81.335529,Rural Road,Tempo,Flood,Morning,2,4,2,60,Rainy,SDG 3.6,Male,25–44,Driver,2
+ACC-02771,2025,8,Lumbini,Bardiya,Gulariya Road,28.189312,81.33691,Urban Road,Motorcycle,Flood,Evening,3,7,0,86,Foggy,SDG 11.2,Male,25–44,Driver,0
+ACC-02772,2022,9,Lumbini,Bardiya,Gulariya Road,28.190819,81.331518,Rural Road,Motorcycle,Human Error,Night,1,7,1,81,Clear,SDG 3.6,Male,25–44,Driver,1
+ACC-02773,2024,7,Lumbini,Bardiya,Gulariya Road,28.193024,81.343365,Hill Road,Motorcycle,Human Error,Night,2,1,0,90,Foggy,SDG 3.6,Female,15–24,Passenger,0
+ACC-02774,2025,8,Lumbini,Bardiya,Gulariya Road,28.194779,81.336753,Highway,Motorcycle,Drunk Driving,Morning,1,2,1,86,Rainy,SDG 3.6,Male,15–24,Passenger,1
+ACC-02775,2025,4,Lumbini,Bardiya,Gulariya Road,28.195309,81.332327,Rural Road,Motorcycle,Flood,Afternoon,4,8,0,79,Foggy,SDG 11.2,Female,25–44,Motorcyclist,0
+ACC-02776,2024,11,Lumbini,Bardiya,Gulariya Road,28.186537,81.331315,Highway,Bicycle,Overspeeding,Night,2,0,0,87,Rainy,SDG 3.6,Male,65+,Driver,0
+ACC-02777,2025,1,Lumbini,Bardiya,Gulariya Road,28.185359,81.33182,Highway,Truck,Human Error,Night,1,5,0,68,Rainy,SDG 3.6,Male,15–24,Driver,0
+ACC-02778,2023,11,Lumbini,Bardiya,Gulariya Road,28.190151,81.335328,Highway,Car,Human Error,Morning,4,6,1,11,Clear,SDG 11.2,Female,25–44,Passenger,1
+ACC-02779,2024,1,Lumbini,Bardiya,Gulariya Road,28.187927,81.339115,Urban Road,Bus,Flood,Afternoon,4,3,1,36,Rainy,SDG 3.6,Male,45–64,Passenger,1
+ACC-02780,2021,12,Lumbini,Bardiya,Gulariya Road,28.188943,81.34128,Urban Road,Tempo,Drunk Driving,Afternoon,1,0,1,19,Rainy,SDG 11.2,Male,25–44,Driver,1
+ACC-02781,2023,1,Lumbini,Bardiya,Gulariya Road,28.197952,81.333399,Highway,Motorcycle,Drunk Driving,Afternoon,4,0,0,69,Clear,SDG 11.2,Male,0–14,Driver,0
+ACC-02782,2024,10,Lumbini,Bardiya,Gulariya Road,28.199458,81.334914,Highway,Tempo,Road Condition,Evening,4,7,0,65,Clear,SDG 3.6,Female,25–44,Motorcyclist,0
+ACC-02783,2023,7,Lumbini,Bardiya,Gulariya Road,28.189568,81.339895,Urban Road,Motorcycle,Overspeeding,Morning,1,1,0,20,Rainy,SDG 11.2,Male,25–44,Passenger,0
+ACC-02784,2022,12,Lumbini,Bardiya,Gulariya Road,28.181933,81.329798,Highway,Car,Drunk Driving,Night,2,0,1,76,Rainy,SDG 11.2,Female,15–24,Pedestrian,1
+ACC-02785,2021,8,Lumbini,Bardiya,Gulariya Road,28.189344,81.335587,Rural Road,Motorcycle,Landslide,Afternoon,2,8,0,75,Clear,SDG 3.6,Male,65+,Passenger,0
+ACC-02786,2023,5,Lumbini,Bardiya,Gulariya Road,28.181262,81.338803,Rural Road,Motorcycle,Overspeeding,Morning,4,3,0,25,Clear,SDG 11.2,Male,45–64,Driver,0
+ACC-02787,2024,7,Lumbini,Bardiya,Gulariya Road,28.187377,81.337434,Urban Road,Bus,Drunk Driving,Evening,3,6,0,72,Rainy,SDG 3.6,Male,15–24,Cyclist,0
+ACC-02788,2024,4,Lumbini,Bardiya,Gulariya Road,28.187388,81.342254,Highway,Motorcycle,Human Error,Evening,4,8,1,57,Foggy,SDG 11.2,Female,15–24,Driver,1
+ACC-02789,2023,11,Lumbini,Bardiya,Gulariya Road,28.185856,81.331586,Highway,Bus,Weather,Afternoon,4,6,1,81,Clear,SDG 3.6,Female,25–44,Motorcyclist,1
+ACC-02790,2021,7,Lumbini,Bardiya,Gulariya Road,28.180318,81.335922,Highway,Motorcycle,Flood,Night,3,1,1,89,Clear,SDG 11.2,Male,15–24,Motorcyclist,1
+ACC-02791,2024,7,Lumbini,Bardiya,Gulariya Road,28.193814,81.343535,Highway,Motorcycle,Weather,Evening,4,6,0,26,Clear,SDG 3.6,Male,15–24,Motorcyclist,0
+ACC-02792,2021,7,Lumbini,Bardiya,Gulariya Road,28.189853,81.338435,Rural Road,Car,Human Error,Morning,1,7,1,62,Clear,SDG 3.6,Male,0–14,Passenger,1
+ACC-02793,2022,5,Lumbini,Bardiya,Gulariya Road,28.185758,81.339419,Rural Road,Bicycle,Drunk Driving,Night,4,4,0,27,Rainy,SDG 3.6,Female,25–44,Motorcyclist,0
+ACC-02794,2025,2,Lumbini,Bardiya,Gulariya Road,28.193508,81.337216,Urban Road,Truck,Human Error,Evening,2,1,0,13,Clear,SDG 3.6,Male,45–64,Cyclist,0
+ACC-02795,2022,10,Lumbini,Bardiya,Gulariya Road,28.184795,81.33034,Hill Road,Bus,Human Error,Night,1,5,0,79,Clear,SDG 11.2,Male,25–44,Passenger,0
+ACC-02796,2025,6,Lumbini,Bardiya,Gulariya Road,28.193988,81.327058,Hill Road,Motorcycle,Drunk Driving,Afternoon,3,8,0,80,Clear,SDG 11.2,Male,25–44,Driver,0
+ACC-02797,2022,1,Lumbini,Bardiya,Gulariya Road,28.197608,81.328122,Rural Road,Bus,Weather,Afternoon,4,8,2,87,Rainy,SDG 11.2,Male,25–44,Driver,2
 ACC-02798,2023,11,Lumbini,Dang,Tulsipur Road,28.119048,82.293929,Highway,Motorcycle,Flood,Morning,3,8,0,65,Clear,SDG 3.6,Male,0–14,Motorcyclist,0
 ACC-02799,2023,8,Lumbini,Dang,Tulsipur Road,28.141413,82.275303,Hill Road,Tempo,Overspeeding,Night,3,1,3,37,Rainy,SDG 3.6,Male,45–64,Motorcyclist,3
 ACC-02800,2024,1,Lumbini,Dang,Tulsipur Road,28.131658,82.288782,Highway,Motorcycle,Weather,Night,4,4,3,79,Foggy,SDG 11.2,Male,25–44,Driver,3
@@ -2883,179 +2883,179 @@ ACC-02881,2025,3,Lumbini,Palpa,Tansen Road,27.863604,83.539073,Hill Road,Motorcy
 ACC-02882,2022,2,Lumbini,Palpa,Tansen Road,27.879749,83.534572,Hill Road,Car,Road Condition,Night,3,0,0,90,Clear,SDG 3.6,Male,45–64,Pedestrian,0
 ACC-02883,2021,12,Lumbini,Palpa,Tansen Road,27.875356,83.534452,Hill Road,Motorcycle,Overspeeding,Night,4,4,3,23,Clear,SDG 3.6,Male,25–44,Motorcyclist,3
 ACC-02884,2023,5,Lumbini,Palpa,Tansen Road,27.862538,83.555036,Hill Road,Motorcycle,Road Condition,Evening,2,6,0,28,Clear,SDG 11.2,Male,15–24,Passenger,0
-ACC-02885,2025,9,Madhesh,Parsa,Birgunj Adarshanagar,27.004811,84.878082,Urban Road,Car,Overspeeding,Morning,4,0,0,21,Clear,SDG 11.2,Male,15–24,Driver,0
-ACC-02886,2024,7,Madhesh,Parsa,Birgunj Adarshanagar,27.013037,84.877865,Highway,Motorcycle,Human Error,Morning,1,3,3,81,Clear,SDG 11.2,Male,0–14,Driver,3
-ACC-02887,2025,10,Madhesh,Parsa,Birgunj Adarshanagar,27.008458,84.873729,Highway,Motorcycle,Weather,Night,4,5,0,20,Clear,SDG 3.6,Male,25–44,Passenger,0
+ACC-02885,2025,9,Madhesh,Parsa,Birgunj Adarshanagar,27.047014,84.867813,Urban Road,Car,Overspeeding,Morning,4,0,0,21,Clear,SDG 11.2,Male,15–24,Driver,0
+ACC-02886,2024,7,Madhesh,Parsa,Birgunj Adarshanagar,27.045434,84.883649,Highway,Motorcycle,Human Error,Morning,1,3,3,81,Clear,SDG 11.2,Male,0–14,Driver,3
+ACC-02887,2025,10,Madhesh,Parsa,Birgunj Adarshanagar,27.056211,84.882842,Highway,Motorcycle,Weather,Night,4,5,0,20,Clear,SDG 3.6,Male,25–44,Passenger,0
 ACC-02888,2025,5,Madhesh,Parsa,Birgunj Adarshanagar,27.011646,84.891174,Highway,Motorcycle,Drunk Driving,Night,1,8,1,40,Rainy,SDG 3.6,Male,45–64,Motorcyclist,1
 ACC-02889,2025,7,Madhesh,Parsa,Birgunj Adarshanagar,27.010065,84.881977,Highway,Car,Human Error,Afternoon,2,2,0,9,Clear,SDG 3.6,Female,25–44,Passenger,0
-ACC-02890,2025,3,Madhesh,Parsa,Birgunj Adarshanagar,27.013131,84.877338,Highway,Motorcycle,Overspeeding,Evening,1,7,3,62,Foggy,SDG 3.6,Female,15–24,Motorcyclist,3
+ACC-02890,2025,3,Madhesh,Parsa,Birgunj Adarshanagar,27.054088,84.87558,Highway,Motorcycle,Overspeeding,Evening,1,7,3,62,Foggy,SDG 3.6,Female,15–24,Motorcyclist,3
 ACC-02891,2025,5,Madhesh,Parsa,Birgunj Adarshanagar,27.019517,84.877723,Rural Road,Motorcycle,Flood,Afternoon,2,3,2,10,Rainy,SDG 11.2,Male,25–44,Motorcyclist,2
-ACC-02892,2023,10,Madhesh,Parsa,Birgunj Adarshanagar,27.004477,84.871258,Rural Road,Bus,Landslide,Evening,3,5,0,57,Rainy,SDG 11.2,Male,45–64,Motorcyclist,0
+ACC-02892,2023,10,Madhesh,Parsa,Birgunj Adarshanagar,27.048254,84.869936,Rural Road,Bus,Landslide,Evening,3,5,0,57,Rainy,SDG 11.2,Male,45–64,Motorcyclist,0
 ACC-02893,2023,6,Madhesh,Parsa,Birgunj Adarshanagar,27.017894,84.878012,Highway,Motorcycle,Road Condition,Night,1,8,1,60,Foggy,SDG 3.6,Male,25–44,Passenger,1
-ACC-02894,2024,1,Madhesh,Parsa,Birgunj Adarshanagar,27.016972,84.862445,Rural Road,Motorcycle,Overspeeding,Evening,2,8,0,70,Clear,SDG 3.6,Male,15–24,Driver,0
+ACC-02894,2024,1,Madhesh,Parsa,Birgunj Adarshanagar,27.064162,84.86434,Rural Road,Motorcycle,Overspeeding,Evening,2,8,0,70,Clear,SDG 3.6,Male,15–24,Driver,0
 ACC-02895,2023,12,Madhesh,Parsa,Birgunj Adarshanagar,27.019596,84.87694,Rural Road,Car,Human Error,Night,2,1,0,84,Clear,SDG 3.6,Male,25–44,Pedestrian,0
 ACC-02896,2024,3,Madhesh,Parsa,Birgunj Adarshanagar,27.01397,84.883841,Rural Road,Tempo,Human Error,Evening,3,7,2,81,Clear,SDG 3.6,Male,25–44,Pedestrian,2
 ACC-02897,2024,12,Madhesh,Parsa,Birgunj Adarshanagar,27.011314,84.882217,Highway,Truck,Road Condition,Morning,2,7,0,83,Rainy,SDG 11.2,Male,25–44,Passenger,0
-ACC-02898,2025,2,Madhesh,Parsa,Birgunj Adarshanagar,27.009989,84.873844,Highway,Car,Weather,Morning,3,1,0,81,Clear,SDG 3.6,Male,45–64,Cyclist,0
-ACC-02899,2024,1,Madhesh,Parsa,Birgunj Adarshanagar,27.008531,84.874417,Highway,Truck,Road Condition,Morning,4,5,0,13,Rainy,SDG 3.6,Male,15–24,Driver,0
-ACC-02900,2024,11,Madhesh,Parsa,Birgunj Adarshanagar,27.011823,84.877953,Hill Road,Bus,Overspeeding,Evening,3,6,0,54,Foggy,SDG 11.2,Female,15–24,Passenger,0
-ACC-02901,2022,1,Madhesh,Parsa,Birgunj Adarshanagar,27.013423,84.869504,Highway,Truck,Landslide,Night,4,6,0,71,Foggy,SDG 3.6,Male,25–44,Motorcyclist,0
-ACC-02902,2024,12,Madhesh,Parsa,Birgunj Adarshanagar,27.009822,84.876429,Highway,Car,Human Error,Afternoon,3,7,0,82,Clear,SDG 11.2,Female,25–44,Passenger,0
-ACC-02903,2025,4,Madhesh,Parsa,Birgunj Adarshanagar,27.007731,84.883119,Rural Road,Motorcycle,Overspeeding,Afternoon,4,2,0,65,Foggy,SDG 3.6,Male,15–24,Motorcyclist,0
-ACC-02904,2024,6,Madhesh,Parsa,Birgunj Adarshanagar,27.015994,84.872088,Highway,Motorcycle,Drunk Driving,Morning,1,5,2,13,Clear,SDG 11.2,Female,15–24,Driver,2
+ACC-02898,2025,2,Madhesh,Parsa,Birgunj Adarshanagar,27.045314,84.870413,Highway,Car,Weather,Morning,3,1,0,81,Clear,SDG 3.6,Male,45–64,Cyclist,0
+ACC-02899,2024,1,Madhesh,Parsa,Birgunj Adarshanagar,27.044638,84.872944,Highway,Truck,Road Condition,Morning,4,5,0,13,Rainy,SDG 3.6,Male,15–24,Driver,0
+ACC-02900,2024,11,Madhesh,Parsa,Birgunj Adarshanagar,27.0436,84.879356,Hill Road,Bus,Overspeeding,Evening,3,6,0,54,Foggy,SDG 11.2,Female,15–24,Passenger,0
+ACC-02901,2022,1,Madhesh,Parsa,Birgunj Adarshanagar,27.066895,84.870591,Highway,Truck,Landslide,Night,4,6,0,71,Foggy,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-02902,2024,12,Madhesh,Parsa,Birgunj Adarshanagar,27.047316,84.87792,Highway,Car,Human Error,Afternoon,3,7,0,82,Clear,SDG 11.2,Female,25–44,Passenger,0
+ACC-02903,2025,4,Madhesh,Parsa,Birgunj Adarshanagar,27.048471,84.892308,Rural Road,Motorcycle,Overspeeding,Afternoon,4,2,0,65,Foggy,SDG 3.6,Male,15–24,Motorcyclist,0
+ACC-02904,2024,6,Madhesh,Parsa,Birgunj Adarshanagar,27.053428,84.873623,Highway,Motorcycle,Drunk Driving,Morning,1,5,2,13,Clear,SDG 11.2,Female,15–24,Driver,2
 ACC-02905,2024,3,Madhesh,Parsa,Birgunj Adarshanagar,27.020614,84.875371,Highway,Tempo,Human Error,Afternoon,2,3,0,25,Rainy,SDG 3.6,Male,15–24,Passenger,0
 ACC-02906,2023,9,Madhesh,Parsa,Birgunj Adarshanagar,27.020325,84.882969,Highway,Truck,Road Condition,Morning,1,8,0,36,Foggy,SDG 11.2,Male,65+,Motorcyclist,0
 ACC-02907,2024,8,Madhesh,Parsa,Birgunj Adarshanagar,27.011771,84.880895,Rural Road,Motorcycle,Road Condition,Morning,3,7,0,59,Clear,SDG 11.2,Male,25–44,Motorcyclist,0
-ACC-02908,2023,12,Madhesh,Parsa,Birgunj Adarshanagar,27.01432,84.871938,Hill Road,Truck,Landslide,Night,2,4,0,87,Clear,SDG 3.6,Female,45–64,Driver,0
-ACC-02909,2024,1,Madhesh,Parsa,Birgunj Adarshanagar,27.017832,84.872349,Hill Road,Motorcycle,Weather,Afternoon,2,3,0,54,Rainy,SDG 3.6,Female,15–24,Passenger,0
-ACC-02910,2021,3,Madhesh,Parsa,Birgunj Adarshanagar,27.012269,84.864703,Hill Road,Bicycle,Human Error,Evening,1,1,1,5,Clear,SDG 11.2,Male,25–44,Passenger,1
-ACC-02911,2025,2,Madhesh,Parsa,Birgunj Adarshanagar,27.017321,84.875818,Highway,Truck,Landslide,Night,3,5,3,83,Rainy,SDG 11.2,Female,25–44,Driver,3
-ACC-02912,2022,3,Madhesh,Parsa,Birgunj Adarshanagar,27.011094,84.87581,Urban Road,Motorcycle,Weather,Evening,3,6,2,74,Clear,SDG 3.6,Female,45–64,Motorcyclist,2
-ACC-02913,2024,10,Madhesh,Parsa,Birgunj Adarshanagar,27.011198,84.871173,Urban Road,Motorcycle,Overspeeding,Evening,1,6,1,86,Rainy,SDG 3.6,Male,15–24,Motorcyclist,1
-ACC-02914,2024,10,Madhesh,Parsa,Birgunj Adarshanagar,27.019411,84.86504,Highway,Motorcycle,Overspeeding,Morning,1,4,0,8,Rainy,SDG 3.6,Male,15–24,Motorcyclist,0
-ACC-02915,2023,12,Madhesh,Parsa,Birgunj Adarshanagar,27.011319,84.878442,Highway,Bus,Human Error,Morning,1,8,0,47,Clear,SDG 3.6,Male,25–44,Pedestrian,0
-ACC-02916,2024,12,Madhesh,Parsa,Birgunj Adarshanagar,27.015484,84.872425,Highway,Motorcycle,Flood,Night,3,6,2,14,Clear,SDG 11.2,Male,45–64,Motorcyclist,2
-ACC-02917,2021,2,Madhesh,Parsa,Birgunj Adarshanagar,27.012872,84.874721,Hill Road,Tempo,Human Error,Evening,4,0,0,18,Rainy,SDG 3.6,Male,15–24,Motorcyclist,0
+ACC-02908,2023,12,Madhesh,Parsa,Birgunj Adarshanagar,27.053979,84.873073,Hill Road,Truck,Landslide,Night,2,4,0,87,Clear,SDG 3.6,Female,45–64,Driver,0
+ACC-02909,2024,1,Madhesh,Parsa,Birgunj Adarshanagar,27.054598,84.877491,Hill Road,Motorcycle,Weather,Afternoon,2,3,0,54,Rainy,SDG 3.6,Female,15–24,Passenger,0
+ACC-02910,2021,3,Madhesh,Parsa,Birgunj Adarshanagar,27.068433,84.875182,Hill Road,Bicycle,Human Error,Evening,1,1,1,5,Clear,SDG 11.2,Male,25–44,Passenger,1
+ACC-02911,2025,2,Madhesh,Parsa,Birgunj Adarshanagar,27.053525,84.875215,Highway,Truck,Landslide,Night,3,5,3,83,Rainy,SDG 11.2,Female,25–44,Driver,3
+ACC-02912,2022,3,Madhesh,Parsa,Birgunj Adarshanagar,27.044235,84.878965,Urban Road,Motorcycle,Weather,Evening,3,6,2,74,Clear,SDG 3.6,Female,45–64,Motorcyclist,2
+ACC-02913,2024,10,Madhesh,Parsa,Birgunj Adarshanagar,27.06917,84.868835,Urban Road,Motorcycle,Overspeeding,Evening,1,6,1,86,Rainy,SDG 3.6,Male,15–24,Motorcyclist,1
+ACC-02914,2024,10,Madhesh,Parsa,Birgunj Adarshanagar,27.070321,84.873335,Highway,Motorcycle,Overspeeding,Morning,1,4,0,8,Rainy,SDG 3.6,Male,15–24,Motorcyclist,0
+ACC-02915,2023,12,Madhesh,Parsa,Birgunj Adarshanagar,27.046975,84.878802,Highway,Bus,Human Error,Morning,1,8,0,47,Clear,SDG 3.6,Male,25–44,Pedestrian,0
+ACC-02916,2024,12,Madhesh,Parsa,Birgunj Adarshanagar,27.053741,84.870393,Highway,Motorcycle,Flood,Night,3,6,2,14,Clear,SDG 11.2,Male,45–64,Motorcyclist,2
+ACC-02917,2021,2,Madhesh,Parsa,Birgunj Adarshanagar,27.041604,84.8754,Hill Road,Tempo,Human Error,Evening,4,0,0,18,Rainy,SDG 3.6,Male,15–24,Motorcyclist,0
 ACC-02918,2022,7,Madhesh,Parsa,Birgunj Adarshanagar,27.012391,84.880922,Rural Road,Motorcycle,Drunk Driving,Evening,2,7,0,84,Foggy,SDG 11.2,Male,25–44,Motorcyclist,0
 ACC-02919,2025,10,Madhesh,Parsa,Birgunj Adarshanagar,27.007384,84.88881,Hill Road,Motorcycle,Weather,Afternoon,4,4,0,66,Clear,SDG 3.6,Male,25–44,Driver,0
 ACC-02920,2025,1,Madhesh,Parsa,Birgunj Adarshanagar,27.019745,84.875799,Urban Road,Bus,Landslide,Evening,2,1,0,61,Clear,SDG 3.6,Male,15–24,Motorcyclist,0
 ACC-02921,2023,2,Madhesh,Parsa,Birgunj Adarshanagar,27.013496,84.881067,Rural Road,Bus,Flood,Morning,1,4,1,73,Clear,SDG 11.2,Female,45–64,Pedestrian,1
 ACC-02922,2023,8,Madhesh,Parsa,Birgunj Adarshanagar,27.023453,84.881273,Rural Road,Car,Overspeeding,Evening,4,5,0,11,Clear,SDG 3.6,Male,25–44,Driver,0
-ACC-02923,2022,10,Madhesh,Parsa,Birgunj Adarshanagar,27.010283,84.86523,Highway,Motorcycle,Road Condition,Night,1,8,0,44,Rainy,SDG 11.2,Female,15–24,Motorcyclist,0
-ACC-02924,2025,9,Madhesh,Parsa,Birgunj Adarshanagar,27.017294,84.875986,Urban Road,Car,Weather,Night,1,5,2,5,Clear,SDG 11.2,Female,25–44,Pedestrian,2
-ACC-02925,2022,4,Madhesh,Parsa,Birgunj Adarshanagar,27.015746,84.867488,Highway,Motorcycle,Weather,Evening,3,6,1,64,Rainy,SDG 3.6,Female,45–64,Passenger,1
-ACC-02926,2022,6,Madhesh,Parsa,Birgunj Adarshanagar,27.014298,84.868117,Highway,Motorcycle,Weather,Morning,1,2,0,52,Clear,SDG 3.6,Male,25–44,Motorcyclist,0
-ACC-02927,2023,1,Madhesh,Parsa,Birgunj Adarshanagar,27.017917,84.872572,Highway,Motorcycle,Drunk Driving,Morning,1,3,0,66,Clear,SDG 3.6,Male,45–64,Cyclist,0
-ACC-02928,2021,7,Madhesh,Parsa,Birgunj Adarshanagar,27.00892,84.882309,Highway,Car,Overspeeding,Evening,3,6,0,7,Clear,SDG 3.6,Male,45–64,Driver,0
-ACC-02929,2023,10,Madhesh,Parsa,Birgunj Adarshanagar,27.008733,84.876081,Hill Road,Motorcycle,Human Error,Morning,3,5,1,5,Foggy,SDG 3.6,Male,25–44,Pedestrian,1
-ACC-02930,2025,10,Madhesh,Parsa,Birgunj Adarshanagar,27.012972,84.872987,Hill Road,Car,Drunk Driving,Night,4,2,1,27,Foggy,SDG 3.6,Male,15–24,Motorcyclist,1
+ACC-02923,2022,10,Madhesh,Parsa,Birgunj Adarshanagar,27.064252,84.86666,Highway,Motorcycle,Road Condition,Night,1,8,0,44,Rainy,SDG 11.2,Female,15–24,Motorcyclist,0
+ACC-02924,2025,9,Madhesh,Parsa,Birgunj Adarshanagar,27.048832,84.868504,Urban Road,Car,Weather,Night,1,5,2,5,Clear,SDG 11.2,Female,25–44,Pedestrian,2
+ACC-02925,2022,4,Madhesh,Parsa,Birgunj Adarshanagar,27.059948,84.870774,Highway,Motorcycle,Weather,Evening,3,6,1,64,Rainy,SDG 3.6,Female,45–64,Passenger,1
+ACC-02926,2022,6,Madhesh,Parsa,Birgunj Adarshanagar,27.065315,84.861707,Highway,Motorcycle,Weather,Morning,1,2,0,52,Clear,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-02927,2023,1,Madhesh,Parsa,Birgunj Adarshanagar,27.055877,84.875089,Highway,Motorcycle,Drunk Driving,Morning,1,3,0,66,Clear,SDG 3.6,Male,45–64,Cyclist,0
+ACC-02928,2021,7,Madhesh,Parsa,Birgunj Adarshanagar,27.03371,84.882613,Highway,Car,Overspeeding,Evening,3,6,0,7,Clear,SDG 3.6,Male,45–64,Driver,0
+ACC-02929,2023,10,Madhesh,Parsa,Birgunj Adarshanagar,27.045371,84.870835,Hill Road,Motorcycle,Human Error,Morning,3,5,1,5,Foggy,SDG 3.6,Male,25–44,Pedestrian,1
+ACC-02930,2025,10,Madhesh,Parsa,Birgunj Adarshanagar,27.049272,84.876502,Hill Road,Car,Drunk Driving,Night,4,2,1,27,Foggy,SDG 3.6,Male,15–24,Motorcyclist,1
 ACC-02931,2025,11,Madhesh,Parsa,Birgunj Adarshanagar,27.0159,84.881199,Urban Road,Car,Weather,Night,4,1,2,48,Rainy,SDG 11.2,Female,15–24,Driver,2
 ACC-02932,2024,5,Madhesh,Parsa,Birgunj Adarshanagar,27.022249,84.880653,Highway,Motorcycle,Human Error,Evening,4,4,1,35,Clear,SDG 3.6,Male,25–44,Cyclist,1
-ACC-02933,2024,7,Madhesh,Parsa,Birgunj Adarshanagar,27.016076,84.870789,Urban Road,Car,Human Error,Evening,2,5,1,41,Clear,SDG 3.6,Female,25–44,Passenger,1
-ACC-02934,2025,7,Madhesh,Parsa,Birgunj Adarshanagar,27.012314,84.873501,Urban Road,Motorcycle,Drunk Driving,Morning,4,0,0,13,Clear,SDG 11.2,Female,45–64,Motorcyclist,0
+ACC-02933,2024,7,Madhesh,Parsa,Birgunj Adarshanagar,27.054852,84.863054,Urban Road,Car,Human Error,Evening,2,5,1,41,Clear,SDG 3.6,Female,25–44,Passenger,1
+ACC-02934,2025,7,Madhesh,Parsa,Birgunj Adarshanagar,27.055557,84.874078,Urban Road,Motorcycle,Drunk Driving,Morning,4,0,0,13,Clear,SDG 11.2,Female,45–64,Motorcyclist,0
 ACC-02935,2021,8,Madhesh,Parsa,Birgunj Adarshanagar,27.010954,84.882635,Urban Road,Motorcycle,Human Error,Night,3,3,0,51,Clear,SDG 3.6,Female,65+,Motorcyclist,0
 ACC-02936,2025,5,Madhesh,Parsa,Birgunj Adarshanagar,27.015406,84.878477,Rural Road,Tempo,Landslide,Night,1,1,0,59,Clear,SDG 3.6,Male,25–44,Passenger,0
-ACC-02937,2024,9,Madhesh,Parsa,Birgunj Adarshanagar,27.010526,84.87323,Highway,Bicycle,Human Error,Afternoon,2,2,0,86,Rainy,SDG 3.6,Male,0–14,Driver,0
-ACC-02938,2022,4,Madhesh,Parsa,Birgunj Adarshanagar,27.004066,84.871128,Hill Road,Motorcycle,Human Error,Morning,1,3,0,55,Rainy,SDG 11.2,Female,25–44,Cyclist,0
+ACC-02937,2024,9,Madhesh,Parsa,Birgunj Adarshanagar,27.045339,84.865212,Highway,Bicycle,Human Error,Afternoon,2,2,0,86,Rainy,SDG 3.6,Male,0–14,Driver,0
+ACC-02938,2022,4,Madhesh,Parsa,Birgunj Adarshanagar,27.054592,84.868302,Hill Road,Motorcycle,Human Error,Morning,1,3,0,55,Rainy,SDG 11.2,Female,25–44,Cyclist,0
 ACC-02939,2022,3,Madhesh,Parsa,Birgunj Adarshanagar,27.015964,84.880375,Highway,Motorcycle,Road Condition,Evening,4,3,1,7,Foggy,SDG 3.6,Male,25–44,Motorcyclist,1
-ACC-02940,2023,10,Madhesh,Parsa,Birgunj Adarshanagar,27.009029,84.879971,Urban Road,Tempo,Weather,Evening,2,8,1,14,Clear,SDG 11.2,Male,45–64,Motorcyclist,1
-ACC-02941,2024,2,Madhesh,Parsa,Birgunj Adarshanagar,27.01807,84.873046,Rural Road,Motorcycle,Landslide,Night,2,1,1,82,Rainy,SDG 3.6,Female,15–24,Motorcyclist,1
-ACC-02942,2024,5,Madhesh,Parsa,Birgunj Adarshanagar,27.002499,84.884591,Highway,Motorcycle,Human Error,Evening,1,8,1,23,Rainy,SDG 3.6,Male,45–64,Pedestrian,1
-ACC-02943,2022,4,Madhesh,Parsa,Birgunj Adarshanagar,27.008689,84.879231,Hill Road,Truck,Overspeeding,Evening,4,1,0,74,Rainy,SDG 11.2,Male,45–64,Driver,0
-ACC-02944,2022,1,Madhesh,Parsa,Birgunj Adarshanagar,27.00442,84.871838,Rural Road,Car,Drunk Driving,Night,1,4,0,85,Clear,SDG 3.6,Male,25–44,Pedestrian,0
+ACC-02940,2023,10,Madhesh,Parsa,Birgunj Adarshanagar,27.038176,84.881648,Urban Road,Tempo,Weather,Evening,2,8,1,14,Clear,SDG 11.2,Male,45–64,Motorcyclist,1
+ACC-02941,2024,2,Madhesh,Parsa,Birgunj Adarshanagar,27.053072,84.866522,Rural Road,Motorcycle,Landslide,Night,2,1,1,82,Rainy,SDG 3.6,Female,15–24,Motorcyclist,1
+ACC-02942,2024,5,Madhesh,Parsa,Birgunj Adarshanagar,27.039374,84.88695,Highway,Motorcycle,Human Error,Evening,1,8,1,23,Rainy,SDG 3.6,Male,45–64,Pedestrian,1
+ACC-02943,2022,4,Madhesh,Parsa,Birgunj Adarshanagar,27.048796,84.878198,Hill Road,Truck,Overspeeding,Evening,4,1,0,74,Rainy,SDG 11.2,Male,45–64,Driver,0
+ACC-02944,2022,1,Madhesh,Parsa,Birgunj Adarshanagar,27.061391,84.868025,Rural Road,Car,Drunk Driving,Night,1,4,0,85,Clear,SDG 3.6,Male,25–44,Pedestrian,0
 ACC-02945,2024,9,Madhesh,Parsa,Birgunj Adarshanagar,27.016872,84.881087,Urban Road,Motorcycle,Overspeeding,Night,4,8,3,73,Foggy,SDG 3.6,Female,25–44,Passenger,3
-ACC-02946,2024,6,Madhesh,Parsa,Birgunj Adarshanagar,27.013253,84.872115,Urban Road,Motorcycle,Drunk Driving,Night,2,2,0,70,Foggy,SDG 11.2,Male,25–44,Passenger,0
-ACC-02947,2023,9,Madhesh,Parsa,Birgunj Adarshanagar,27.021606,84.869268,Highway,Truck,Human Error,Afternoon,1,1,1,27,Rainy,SDG 3.6,Male,0–14,Motorcyclist,1
+ACC-02946,2024,6,Madhesh,Parsa,Birgunj Adarshanagar,27.045612,84.875721,Urban Road,Motorcycle,Drunk Driving,Night,2,2,0,70,Foggy,SDG 11.2,Male,25–44,Passenger,0
+ACC-02947,2023,9,Madhesh,Parsa,Birgunj Adarshanagar,27.053928,84.873512,Highway,Truck,Human Error,Afternoon,1,1,1,27,Rainy,SDG 3.6,Male,0–14,Motorcyclist,1
 ACC-02948,2025,3,Madhesh,Parsa,Birgunj Adarshanagar,27.018281,84.878158,Urban Road,Car,Drunk Driving,Evening,3,3,0,74,Clear,SDG 3.6,Male,25–44,Passenger,0
-ACC-02949,2025,5,Madhesh,Parsa,Birgunj Adarshanagar,27.01877,84.874618,Hill Road,Motorcycle,Weather,Night,4,1,1,83,Clear,SDG 3.6,Male,25–44,Motorcyclist,1
-ACC-02950,2023,8,Madhesh,Parsa,Birgunj Adarshanagar,27.010697,84.878097,Hill Road,Motorcycle,Human Error,Afternoon,1,2,1,54,Clear,SDG 3.6,Female,25–44,Motorcyclist,1
+ACC-02949,2025,5,Madhesh,Parsa,Birgunj Adarshanagar,27.044924,84.877593,Hill Road,Motorcycle,Weather,Night,4,1,1,83,Clear,SDG 3.6,Male,25–44,Motorcyclist,1
+ACC-02950,2023,8,Madhesh,Parsa,Birgunj Adarshanagar,27.046485,84.879228,Hill Road,Motorcycle,Human Error,Afternoon,1,2,1,54,Clear,SDG 3.6,Female,25–44,Motorcyclist,1
 ACC-02951,2023,12,Madhesh,Parsa,Birgunj Adarshanagar,27.022573,84.873471,Hill Road,Bus,Human Error,Afternoon,2,5,1,20,Rainy,SDG 3.6,Male,65+,Passenger,1
 ACC-02952,2025,12,Madhesh,Parsa,Birgunj Adarshanagar,27.014688,84.887303,Highway,Car,Human Error,Afternoon,1,3,1,60,Clear,SDG 3.6,Male,25–44,Driver,1
-ACC-02953,2024,8,Madhesh,Parsa,Birgunj Adarshanagar,27.016064,84.876497,Rural Road,Motorcycle,Road Condition,Evening,4,3,0,85,Foggy,SDG 3.6,Male,25–44,Passenger,0
-ACC-02954,2025,4,Madhesh,Parsa,Birgunj Adarshanagar,27.010328,84.867182,Highway,Car,Human Error,Night,3,4,1,24,Rainy,SDG 11.2,Female,0–14,Motorcyclist,1
-ACC-02955,2022,8,Madhesh,Parsa,Birgunj Adarshanagar,27.013304,84.871502,Highway,Motorcycle,Overspeeding,Night,2,7,1,18,Rainy,SDG 3.6,Female,45–64,Driver,1
-ACC-02956,2021,11,Madhesh,Parsa,Birgunj Adarshanagar,27.020086,84.870506,Highway,Motorcycle,Overspeeding,Night,4,1,0,59,Clear,SDG 11.2,Male,25–44,Passenger,0
-ACC-02957,2023,12,Madhesh,Parsa,Birgunj Adarshanagar,27.00745,84.878435,Hill Road,Motorcycle,Road Condition,Afternoon,1,1,0,56,Clear,SDG 3.6,Male,45–64,Motorcyclist,0
-ACC-02958,2022,11,Madhesh,Parsa,Birgunj Adarshanagar,27.013427,84.866398,Rural Road,Motorcycle,Overspeeding,Evening,1,5,0,85,Rainy,SDG 3.6,Female,25–44,Motorcyclist,0
-ACC-02959,2023,5,Madhesh,Parsa,Birgunj Adarshanagar,27.008175,84.880438,Rural Road,Motorcycle,Road Condition,Night,4,5,0,82,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
-ACC-02960,2021,5,Madhesh,Parsa,Birgunj Adarshanagar,27.012679,84.876167,Highway,Car,Drunk Driving,Evening,3,5,2,12,Clear,SDG 11.2,Male,45–64,Passenger,2
-ACC-02961,2022,10,Madhesh,Parsa,Birgunj Adarshanagar,27.006656,84.875297,Hill Road,Bus,Overspeeding,Evening,4,3,0,86,Rainy,SDG 11.2,Male,25–44,Passenger,0
-ACC-02962,2024,5,Madhesh,Parsa,Birgunj Adarshanagar,27.020425,84.871183,Urban Road,Truck,Drunk Driving,Morning,2,3,1,20,Clear,SDG 11.2,Female,25–44,Motorcyclist,1
-ACC-02963,2021,10,Madhesh,Parsa,Birgunj Adarshanagar,27.003977,84.878609,Hill Road,Tempo,Road Condition,Morning,4,4,0,30,Rainy,SDG 11.2,Female,25–44,Motorcyclist,0
-ACC-02964,2021,10,Madhesh,Parsa,Birgunj Adarshanagar,27.010528,84.877924,Hill Road,Motorcycle,Weather,Evening,4,5,0,78,Foggy,SDG 11.2,Male,25–44,Motorcyclist,0
-ACC-02965,2025,9,Madhesh,Parsa,Birgunj Adarshanagar,27.007643,84.874953,Urban Road,Car,Drunk Driving,Evening,2,6,0,65,Rainy,SDG 3.6,Male,45–64,Motorcyclist,0
-ACC-02966,2023,1,Madhesh,Parsa,Birgunj Adarshanagar,27.010317,84.877106,Urban Road,Truck,Road Condition,Evening,4,1,1,47,Foggy,SDG 3.6,Female,25–44,Passenger,1
-ACC-02967,2023,9,Madhesh,Parsa,Birgunj Adarshanagar,27.001451,84.883727,Urban Road,Car,Landslide,Night,1,3,1,19,Foggy,SDG 3.6,Male,15–24,Passenger,1
+ACC-02953,2024,8,Madhesh,Parsa,Birgunj Adarshanagar,27.044346,84.86955,Rural Road,Motorcycle,Road Condition,Evening,4,3,0,85,Foggy,SDG 3.6,Male,25–44,Passenger,0
+ACC-02954,2025,4,Madhesh,Parsa,Birgunj Adarshanagar,27.065305,84.864655,Highway,Car,Human Error,Night,3,4,1,24,Rainy,SDG 11.2,Female,0–14,Motorcyclist,1
+ACC-02955,2022,8,Madhesh,Parsa,Birgunj Adarshanagar,27.053965,84.875035,Highway,Motorcycle,Overspeeding,Night,2,7,1,18,Rainy,SDG 3.6,Female,45–64,Driver,1
+ACC-02956,2021,11,Madhesh,Parsa,Birgunj Adarshanagar,27.046908,84.868053,Highway,Motorcycle,Overspeeding,Night,4,1,0,59,Clear,SDG 11.2,Male,25–44,Passenger,0
+ACC-02957,2023,12,Madhesh,Parsa,Birgunj Adarshanagar,27.04514,84.880501,Hill Road,Motorcycle,Road Condition,Afternoon,1,1,0,56,Clear,SDG 3.6,Male,45–64,Motorcyclist,0
+ACC-02958,2022,11,Madhesh,Parsa,Birgunj Adarshanagar,27.057472,84.870793,Rural Road,Motorcycle,Overspeeding,Evening,1,5,0,85,Rainy,SDG 3.6,Female,25–44,Motorcyclist,0
+ACC-02959,2023,5,Madhesh,Parsa,Birgunj Adarshanagar,27.038918,84.89075,Rural Road,Motorcycle,Road Condition,Night,4,5,0,82,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-02960,2021,5,Madhesh,Parsa,Birgunj Adarshanagar,27.050742,84.880812,Highway,Car,Drunk Driving,Evening,3,5,2,12,Clear,SDG 11.2,Male,45–64,Passenger,2
+ACC-02961,2022,10,Madhesh,Parsa,Birgunj Adarshanagar,27.051704,84.866422,Hill Road,Bus,Overspeeding,Evening,4,3,0,86,Rainy,SDG 11.2,Male,25–44,Passenger,0
+ACC-02962,2024,5,Madhesh,Parsa,Birgunj Adarshanagar,27.057662,84.871532,Urban Road,Truck,Drunk Driving,Morning,2,3,1,20,Clear,SDG 11.2,Female,25–44,Motorcyclist,1
+ACC-02963,2021,10,Madhesh,Parsa,Birgunj Adarshanagar,27.03293,84.874355,Hill Road,Tempo,Road Condition,Morning,4,4,0,30,Rainy,SDG 11.2,Female,25–44,Motorcyclist,0
+ACC-02964,2021,10,Madhesh,Parsa,Birgunj Adarshanagar,27.041478,84.874946,Hill Road,Motorcycle,Weather,Evening,4,5,0,78,Foggy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-02965,2025,9,Madhesh,Parsa,Birgunj Adarshanagar,27.044617,84.872177,Urban Road,Car,Drunk Driving,Evening,2,6,0,65,Rainy,SDG 3.6,Male,45–64,Motorcyclist,0
+ACC-02966,2023,1,Madhesh,Parsa,Birgunj Adarshanagar,27.038831,84.885837,Urban Road,Truck,Road Condition,Evening,4,1,1,47,Foggy,SDG 3.6,Female,25–44,Passenger,1
+ACC-02967,2023,9,Madhesh,Parsa,Birgunj Adarshanagar,27.03459,84.879812,Urban Road,Car,Landslide,Night,1,3,1,19,Foggy,SDG 3.6,Male,15–24,Passenger,1
 ACC-02968,2024,6,Madhesh,Parsa,Birgunj Adarshanagar,27.015118,84.882238,Urban Road,Bus,Weather,Night,1,1,0,42,Rainy,SDG 3.6,Male,45–64,Driver,0
 ACC-02969,2023,12,Madhesh,Parsa,Birgunj Adarshanagar,27.020602,84.881715,Highway,Motorcycle,Flood,Afternoon,4,1,0,90,Foggy,SDG 11.2,Male,0–14,Motorcyclist,0
-ACC-02970,2024,5,Madhesh,Parsa,Birgunj Adarshanagar,27.013329,84.873718,Rural Road,Tempo,Road Condition,Night,2,1,0,78,Clear,SDG 11.2,Male,25–44,Motorcyclist,0
-ACC-02971,2022,3,Madhesh,Parsa,Birgunj Adarshanagar,27.008419,84.878123,Rural Road,Motorcycle,Weather,Night,3,0,2,41,Rainy,SDG 11.2,Female,45–64,Cyclist,2
-ACC-02972,2024,2,Madhesh,Parsa,Birgunj Adarshanagar,27.011498,84.877177,Highway,Bicycle,Weather,Night,2,6,0,65,Rainy,SDG 11.2,Male,25–44,Cyclist,0
-ACC-02973,2024,11,Madhesh,Parsa,Birgunj Adarshanagar,27.006419,84.884363,Highway,Motorcycle,Overspeeding,Evening,3,0,0,80,Clear,SDG 3.6,Female,45–64,Motorcyclist,0
-ACC-02974,2024,10,Madhesh,Parsa,Birgunj Adarshanagar,27.023785,84.872108,Urban Road,Tempo,Overspeeding,Morning,1,3,0,35,Clear,SDG 3.6,Female,25–44,Driver,0
-ACC-02975,2022,1,Madhesh,Parsa,Birgunj Adarshanagar,27.010137,84.878183,Urban Road,Truck,Drunk Driving,Evening,4,4,0,77,Rainy,SDG 3.6,Female,25–44,Driver,0
-ACC-02976,2023,8,Madhesh,Parsa,Birgunj Adarshanagar,27.013145,84.870035,Hill Road,Bicycle,Road Condition,Evening,3,6,0,39,Rainy,SDG 3.6,Male,15–24,Pedestrian,0
-ACC-02977,2023,1,Madhesh,Parsa,Birgunj Adarshanagar,27.009436,84.86849,Urban Road,Motorcycle,Overspeeding,Morning,1,3,0,78,Clear,SDG 11.2,Female,15–24,Motorcyclist,0
-ACC-02978,2024,12,Madhesh,Parsa,Birgunj Adarshanagar,27.009815,84.877381,Urban Road,Motorcycle,Road Condition,Evening,3,8,0,74,Clear,SDG 11.2,Male,45–64,Driver,0
-ACC-02979,2025,12,Madhesh,Parsa,Birgunj Adarshanagar,27.014613,84.872595,Hill Road,Tempo,Drunk Driving,Morning,4,7,0,43,Rainy,SDG 3.6,Male,25–44,Motorcyclist,0
-ACC-02980,2022,10,Madhesh,Parsa,Birgunj Adarshanagar,26.999433,84.880314,Highway,Bus,Flood,Night,3,1,0,77,Rainy,SDG 11.2,Male,25–44,Passenger,0
-ACC-02981,2022,10,Madhesh,Parsa,Birgunj Ghantaghar,27.00071,84.867985,Highway,Motorcycle,Overspeeding,Morning,3,5,0,28,Clear,SDG 3.6,Male,25–44,Motorcyclist,0
-ACC-02982,2022,8,Madhesh,Parsa,Birgunj Ghantaghar,27.002041,84.859384,Urban Road,Car,Road Condition,Morning,2,1,1,33,Rainy,SDG 3.6,Male,45–64,Driver,1
-ACC-02983,2024,7,Madhesh,Parsa,Birgunj Ghantaghar,26.998671,84.872215,Rural Road,Tempo,Overspeeding,Morning,2,2,0,6,Clear,SDG 3.6,Male,25–44,Motorcyclist,0
-ACC-02984,2025,10,Madhesh,Parsa,Birgunj Ghantaghar,27.008253,84.866337,Hill Road,Bus,Flood,Morning,1,3,0,9,Clear,SDG 11.2,Male,25–44,Cyclist,0
-ACC-02985,2021,9,Madhesh,Parsa,Birgunj Ghantaghar,27.008372,84.871477,Highway,Tempo,Overspeeding,Evening,3,4,0,17,Rainy,SDG 3.6,Female,25–44,Cyclist,0
-ACC-02986,2023,11,Madhesh,Parsa,Birgunj Ghantaghar,27.003948,84.87735,Hill Road,Car,Drunk Driving,Morning,4,7,2,50,Clear,SDG 3.6,Male,45–64,Motorcyclist,2
-ACC-02987,2024,8,Madhesh,Parsa,Birgunj Ghantaghar,27.002932,84.863694,Hill Road,Motorcycle,Flood,Night,1,7,2,12,Clear,SDG 3.6,Male,45–64,Motorcyclist,2
-ACC-02988,2022,11,Madhesh,Parsa,Birgunj Ghantaghar,27.000819,84.872663,Rural Road,Motorcycle,Road Condition,Night,2,4,0,82,Rainy,SDG 3.6,Male,25–44,Driver,0
-ACC-02989,2024,7,Madhesh,Parsa,Birgunj Ghantaghar,27.002611,84.868909,Rural Road,Motorcycle,Drunk Driving,Evening,1,6,0,23,Clear,SDG 11.2,Male,0–14,Cyclist,0
-ACC-02990,2024,4,Madhesh,Parsa,Birgunj Ghantaghar,27.002715,84.873362,Highway,Bicycle,Drunk Driving,Night,2,8,0,74,Foggy,SDG 11.2,Male,25–44,Motorcyclist,0
-ACC-02991,2024,8,Madhesh,Parsa,Birgunj Ghantaghar,26.999862,84.865534,Urban Road,Motorcycle,Human Error,Evening,3,5,3,71,Foggy,SDG 3.6,Female,45–64,Pedestrian,3
-ACC-02992,2023,9,Madhesh,Parsa,Birgunj Ghantaghar,26.997779,84.869858,Rural Road,Motorcycle,Overspeeding,Afternoon,2,0,0,50,Foggy,SDG 11.2,Male,25–44,Motorcyclist,0
-ACC-02993,2025,5,Madhesh,Parsa,Birgunj Ghantaghar,27.002972,84.871364,Highway,Car,Drunk Driving,Morning,3,3,0,71,Rainy,SDG 3.6,Male,45–64,Motorcyclist,0
-ACC-02994,2024,8,Madhesh,Parsa,Birgunj Ghantaghar,26.995069,84.876571,Urban Road,Truck,Landslide,Afternoon,2,2,0,18,Rainy,SDG 11.2,Male,25–44,Passenger,0
-ACC-02995,2021,5,Madhesh,Parsa,Birgunj Ghantaghar,27.004277,84.869885,Highway,Car,Flood,Night,2,4,0,15,Clear,SDG 11.2,Male,25–44,Motorcyclist,0
-ACC-02996,2024,12,Madhesh,Parsa,Birgunj Ghantaghar,27.004954,84.870347,Urban Road,Motorcycle,Overspeeding,Morning,2,6,0,50,Clear,SDG 3.6,Male,15–24,Driver,0
-ACC-02997,2025,12,Madhesh,Parsa,Birgunj Ghantaghar,26.998802,84.87366,Highway,Car,Overspeeding,Afternoon,1,8,0,54,Clear,SDG 3.6,Male,25–44,Passenger,0
-ACC-02998,2023,4,Madhesh,Parsa,Birgunj Ghantaghar,27.007388,84.866291,Hill Road,Tempo,Weather,Evening,3,5,0,53,Clear,SDG 11.2,Male,45–64,Pedestrian,0
-ACC-02999,2021,4,Madhesh,Parsa,Birgunj Ghantaghar,26.996375,84.868296,Urban Road,Motorcycle,Human Error,Afternoon,2,8,0,29,Rainy,SDG 11.2,Male,0–14,Driver,0
-ACC-03000,2024,12,Madhesh,Parsa,Birgunj Ghantaghar,26.993993,84.864307,Urban Road,Motorcycle,Landslide,Evening,3,4,0,57,Clear,SDG 3.6,Male,15–24,Driver,0
-ACC-03001,2023,12,Madhesh,Parsa,Birgunj Ghantaghar,27.008,84.866552,Rural Road,Motorcycle,Road Condition,Night,1,6,0,55,Clear,SDG 11.2,Female,25–44,Motorcyclist,0
-ACC-03002,2021,4,Madhesh,Parsa,Birgunj Ghantaghar,26.989458,84.860099,Hill Road,Motorcycle,Human Error,Night,4,5,2,12,Rainy,SDG 3.6,Male,15–24,Motorcyclist,2
-ACC-03003,2024,1,Madhesh,Parsa,Birgunj Ghantaghar,27.001521,84.865679,Hill Road,Motorcycle,Human Error,Morning,3,1,0,57,Rainy,SDG 11.2,Male,25–44,Passenger,0
-ACC-03004,2022,6,Madhesh,Parsa,Birgunj Ghantaghar,27.00364,84.87281,Rural Road,Motorcycle,Flood,Morning,1,4,1,29,Foggy,SDG 11.2,Male,15–24,Motorcyclist,1
-ACC-03005,2024,3,Madhesh,Parsa,Birgunj Ghantaghar,27.005878,84.869976,Highway,Bus,Overspeeding,Morning,3,1,0,25,Clear,SDG 11.2,Male,25–44,Pedestrian,0
-ACC-03006,2022,6,Madhesh,Parsa,Birgunj Ghantaghar,27.000083,84.868614,Rural Road,Motorcycle,Weather,Afternoon,2,4,0,27,Clear,SDG 11.2,Male,15–24,Motorcyclist,0
-ACC-03007,2023,2,Madhesh,Parsa,Birgunj Ghantaghar,26.99965,84.866362,Rural Road,Car,Human Error,Night,4,5,0,90,Rainy,SDG 3.6,Male,65+,Motorcyclist,0
-ACC-03008,2023,8,Madhesh,Parsa,Birgunj Ghantaghar,26.997422,84.867141,Highway,Bicycle,Weather,Morning,3,8,0,64,Foggy,SDG 11.2,Male,25–44,Cyclist,0
-ACC-03009,2024,4,Madhesh,Parsa,Birgunj Ghantaghar,26.997865,84.873769,Hill Road,Motorcycle,Flood,Night,2,3,0,11,Foggy,SDG 3.6,Female,25–44,Passenger,0
-ACC-03010,2022,10,Madhesh,Parsa,Birgunj Ghantaghar,26.996758,84.866174,Highway,Bicycle,Weather,Night,2,0,2,40,Clear,SDG 3.6,Male,25–44,Driver,2
-ACC-03011,2023,4,Madhesh,Parsa,Birgunj Ghantaghar,26.999479,84.873898,Urban Road,Bicycle,Landslide,Night,1,7,1,79,Rainy,SDG 3.6,Female,15–24,Driver,1
-ACC-03012,2024,4,Madhesh,Parsa,Birgunj Ghantaghar,27.006518,84.858648,Hill Road,Motorcycle,Drunk Driving,Night,2,1,0,33,Rainy,SDG 11.2,Female,25–44,Motorcyclist,0
-ACC-03013,2023,9,Madhesh,Parsa,Birgunj Ghantaghar,26.999213,84.873697,Highway,Bicycle,Human Error,Morning,3,6,3,6,Clear,SDG 11.2,Female,25–44,Passenger,3
-ACC-03014,2025,9,Madhesh,Parsa,Birgunj Ghantaghar,27.00004,84.880703,Highway,Car,Overspeeding,Morning,3,8,0,35,Clear,SDG 3.6,Female,25–44,Motorcyclist,0
-ACC-03015,2024,3,Madhesh,Parsa,Birgunj Ghantaghar,27.001677,84.86587,Highway,Bus,Drunk Driving,Afternoon,1,0,2,48,Rainy,SDG 11.2,Female,15–24,Driver,2
-ACC-03016,2025,1,Madhesh,Parsa,Birgunj Ghantaghar,27.004808,84.868533,Urban Road,Bus,Human Error,Afternoon,3,0,0,29,Rainy,SDG 3.6,Male,25–44,Motorcyclist,0
-ACC-03017,2024,5,Madhesh,Parsa,Birgunj Ghantaghar,26.991102,84.869601,Hill Road,Motorcycle,Drunk Driving,Morning,3,0,1,60,Clear,SDG 11.2,Male,25–44,Driver,1
-ACC-03018,2021,4,Madhesh,Parsa,Birgunj Ghantaghar,27.000331,84.873456,Highway,Motorcycle,Drunk Driving,Evening,4,0,1,8,Foggy,SDG 11.2,Male,45–64,Motorcyclist,1
-ACC-03019,2024,6,Madhesh,Parsa,Birgunj Ghantaghar,26.998933,84.865829,Urban Road,Tempo,Human Error,Evening,1,8,0,73,Clear,SDG 11.2,Female,15–24,Driver,0
-ACC-03020,2023,11,Madhesh,Parsa,Birgunj Ghantaghar,26.993083,84.866273,Rural Road,Car,Road Condition,Afternoon,3,8,0,55,Rainy,SDG 3.6,Female,15–24,Motorcyclist,0
-ACC-03021,2024,3,Madhesh,Parsa,Birgunj Ghantaghar,26.998039,84.86855,Highway,Car,Drunk Driving,Night,3,0,0,78,Clear,SDG 3.6,Male,0–14,Motorcyclist,0
-ACC-03022,2023,5,Madhesh,Parsa,Birgunj Ghantaghar,26.99742,84.872281,Rural Road,Car,Weather,Morning,3,8,3,44,Rainy,SDG 3.6,Female,15–24,Motorcyclist,3
-ACC-03023,2021,9,Madhesh,Parsa,Birgunj Ghantaghar,26.992453,84.870484,Urban Road,Motorcycle,Overspeeding,Night,1,5,0,42,Clear,SDG 3.6,Male,25–44,Motorcyclist,0
-ACC-03024,2025,11,Madhesh,Parsa,Birgunj Ghantaghar,26.998682,84.870702,Urban Road,Motorcycle,Weather,Afternoon,1,8,2,57,Foggy,SDG 3.6,Male,25–44,Passenger,2
-ACC-03025,2023,11,Madhesh,Parsa,Birgunj Ghantaghar,27.00084,84.865475,Highway,Motorcycle,Landslide,Morning,1,0,3,81,Clear,SDG 3.6,Male,25–44,Cyclist,3
-ACC-03026,2022,11,Madhesh,Parsa,Birgunj Ghantaghar,26.996454,84.879339,Rural Road,Bicycle,Overspeeding,Night,2,8,3,41,Rainy,SDG 3.6,Female,25–44,Motorcyclist,3
-ACC-03027,2023,4,Madhesh,Parsa,Birgunj Ghantaghar,27.000017,84.873025,Highway,Car,Overspeeding,Morning,3,3,0,71,Clear,SDG 11.2,Female,0–14,Motorcyclist,0
-ACC-03028,2024,1,Madhesh,Parsa,Birgunj Ghantaghar,26.997618,84.868109,Rural Road,Car,Human Error,Night,1,7,0,65,Rainy,SDG 11.2,Male,25–44,Passenger,0
-ACC-03029,2021,2,Madhesh,Parsa,Birgunj Ghantaghar,26.996374,84.872619,Highway,Bus,Overspeeding,Night,1,4,0,48,Clear,SDG 3.6,Female,25–44,Passenger,0
-ACC-03030,2024,2,Madhesh,Parsa,Birgunj Ghantaghar,27.003703,84.86232,Rural Road,Motorcycle,Weather,Night,2,6,0,18,Rainy,SDG 11.2,Female,25–44,Passenger,0
-ACC-03031,2022,10,Madhesh,Parsa,Birgunj Ghantaghar,27.005717,84.871078,Urban Road,Motorcycle,Human Error,Night,3,8,1,75,Rainy,SDG 11.2,Male,25–44,Motorcyclist,1
-ACC-03032,2023,1,Madhesh,Parsa,Birgunj Ghantaghar,26.99844,84.875428,Hill Road,Bicycle,Overspeeding,Night,2,4,0,14,Rainy,SDG 11.2,Male,25–44,Passenger,0
-ACC-03033,2025,1,Madhesh,Parsa,Birgunj Ghantaghar,27.008044,84.866363,Hill Road,Motorcycle,Weather,Morning,1,5,0,63,Foggy,SDG 3.6,Male,45–64,Passenger,0
-ACC-03034,2024,2,Madhesh,Parsa,Birgunj Ghantaghar,26.99762,84.87157,Highway,Motorcycle,Overspeeding,Morning,4,0,1,42,Clear,SDG 11.2,Female,25–44,Cyclist,1
-ACC-03035,2024,10,Madhesh,Parsa,Birgunj Ghantaghar,27.005339,84.85892,Urban Road,Car,Weather,Morning,3,8,1,43,Clear,SDG 3.6,Female,25–44,Pedestrian,1
-ACC-03036,2024,7,Madhesh,Parsa,Birgunj Ghantaghar,27.00211,84.866084,Rural Road,Car,Overspeeding,Afternoon,2,7,0,6,Rainy,SDG 3.6,Male,25–44,Passenger,0
-ACC-03037,2023,1,Madhesh,Parsa,Birgunj Ghantaghar,27.001491,84.877924,Urban Road,Motorcycle,Overspeeding,Evening,1,6,1,56,Rainy,SDG 11.2,Male,15–24,Passenger,1
-ACC-03038,2023,6,Madhesh,Parsa,Birgunj Ghantaghar,26.998156,84.867575,Urban Road,Tempo,Human Error,Night,3,3,0,46,Clear,SDG 11.2,Female,15–24,Motorcyclist,0
-ACC-03039,2021,3,Madhesh,Parsa,Birgunj Ghantaghar,27.001153,84.869944,Highway,Tempo,Road Condition,Afternoon,3,5,2,53,Foggy,SDG 3.6,Male,25–44,Driver,2
-ACC-03040,2023,2,Madhesh,Parsa,Birgunj Ghantaghar,27.004893,84.872039,Urban Road,Motorcycle,Overspeeding,Evening,1,3,0,75,Foggy,SDG 11.2,Male,25–44,Passenger,0
-ACC-03041,2025,10,Madhesh,Parsa,Birgunj Ghantaghar,27.000212,84.863999,Urban Road,Car,Overspeeding,Evening,4,8,0,5,Foggy,SDG 3.6,Male,15–24,Motorcyclist,0
-ACC-03042,2024,4,Madhesh,Parsa,Birgunj Ghantaghar,27.001003,84.871609,Rural Road,Car,Human Error,Night,4,6,1,26,Rainy,SDG 11.2,Male,25–44,Motorcyclist,1
-ACC-03043,2023,12,Madhesh,Parsa,Birgunj Ghantaghar,26.994374,84.867132,Rural Road,Tempo,Overspeeding,Night,4,0,0,41,Clear,SDG 3.6,Male,25–44,Passenger,0
-ACC-03044,2024,4,Madhesh,Parsa,Birgunj Ghantaghar,27.004404,84.867668,Urban Road,Bus,Weather,Morning,2,1,1,16,Clear,SDG 11.2,Male,25–44,Passenger,1
-ACC-03045,2024,5,Madhesh,Parsa,Birgunj Ghantaghar,26.990531,84.875647,Hill Road,Tempo,Human Error,Night,2,7,1,8,Clear,SDG 3.6,Male,45–64,Motorcyclist,1
-ACC-03046,2021,8,Madhesh,Parsa,Birgunj Ghantaghar,27.000278,84.868922,Highway,Tempo,Weather,Afternoon,2,4,1,47,Clear,SDG 3.6,Female,15–24,Driver,1
-ACC-03047,2023,4,Madhesh,Parsa,Birgunj Ghantaghar,26.999921,84.869366,Highway,Motorcycle,Flood,Afternoon,1,0,1,63,Clear,SDG 11.2,Male,25–44,Driver,1
-ACC-03048,2024,7,Madhesh,Parsa,Birgunj Ghantaghar,26.998581,84.882922,Urban Road,Motorcycle,Human Error,Night,2,1,2,43,Foggy,SDG 11.2,Male,15–24,Motorcyclist,2
-ACC-03049,2023,1,Madhesh,Parsa,Birgunj Ghantaghar,26.994184,84.869193,Urban Road,Bicycle,Human Error,Morning,4,1,0,90,Clear,SDG 3.6,Female,65+,Driver,0
-ACC-03050,2024,1,Madhesh,Parsa,Birgunj Ghantaghar,26.990449,84.865799,Urban Road,Motorcycle,Weather,Evening,2,6,1,55,Clear,SDG 3.6,Male,45–64,Motorcyclist,1
-ACC-03051,2022,12,Madhesh,Parsa,Birgunj Ghantaghar,26.998273,84.860952,Rural Road,Tempo,Overspeeding,Morning,1,8,0,11,Rainy,SDG 3.6,Male,15–24,Motorcyclist,0
-ACC-03052,2023,9,Madhesh,Parsa,Birgunj Ghantaghar,27.004006,84.867038,Rural Road,Car,Drunk Driving,Night,1,2,2,36,Rainy,SDG 11.2,Male,25–44,Passenger,2
-ACC-03053,2024,4,Madhesh,Parsa,Birgunj Ghantaghar,27.005871,84.872215,Highway,Motorcycle,Drunk Driving,Morning,4,3,0,33,Rainy,SDG 3.6,Male,45–64,Passenger,0
-ACC-03054,2024,9,Madhesh,Parsa,Birgunj Ghantaghar,27.004569,84.869655,Hill Road,Motorcycle,Road Condition,Night,4,8,0,84,Clear,SDG 3.6,Male,25–44,Cyclist,0
-ACC-03055,2022,3,Madhesh,Parsa,Birgunj Ghantaghar,26.989161,84.874107,Highway,Car,Landslide,Morning,2,0,1,87,Clear,SDG 3.6,Female,45–64,Passenger,1
-ACC-03056,2024,12,Madhesh,Parsa,Birgunj Ghantaghar,26.990187,84.876341,Rural Road,Truck,Weather,Night,3,3,0,85,Rainy,SDG 11.2,Female,15–24,Passenger,0
-ACC-03057,2024,3,Madhesh,Parsa,Birgunj Ghantaghar,27.001725,84.864894,Urban Road,Motorcycle,Human Error,Night,2,2,2,24,Rainy,SDG 3.6,Male,65+,Pedestrian,2
+ACC-02970,2024,5,Madhesh,Parsa,Birgunj Adarshanagar,27.049504,84.871014,Rural Road,Tempo,Road Condition,Night,2,1,0,78,Clear,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-02971,2022,3,Madhesh,Parsa,Birgunj Adarshanagar,27.034166,84.876493,Rural Road,Motorcycle,Weather,Night,3,0,2,41,Rainy,SDG 11.2,Female,45–64,Cyclist,2
+ACC-02972,2024,2,Madhesh,Parsa,Birgunj Adarshanagar,27.035649,84.876367,Highway,Bicycle,Weather,Night,2,6,0,65,Rainy,SDG 11.2,Male,25–44,Cyclist,0
+ACC-02973,2024,11,Madhesh,Parsa,Birgunj Adarshanagar,27.035463,84.886582,Highway,Motorcycle,Overspeeding,Evening,3,0,0,80,Clear,SDG 3.6,Female,45–64,Motorcyclist,0
+ACC-02974,2024,10,Madhesh,Parsa,Birgunj Adarshanagar,27.055118,84.878129,Urban Road,Tempo,Overspeeding,Morning,1,3,0,35,Clear,SDG 3.6,Female,25–44,Driver,0
+ACC-02975,2022,1,Madhesh,Parsa,Birgunj Adarshanagar,27.039605,84.87559,Urban Road,Truck,Drunk Driving,Evening,4,4,0,77,Rainy,SDG 3.6,Female,25–44,Driver,0
+ACC-02976,2023,8,Madhesh,Parsa,Birgunj Adarshanagar,27.067828,84.880859,Hill Road,Bicycle,Road Condition,Evening,3,6,0,39,Rainy,SDG 3.6,Male,15–24,Pedestrian,0
+ACC-02977,2023,1,Madhesh,Parsa,Birgunj Adarshanagar,27.062326,84.868281,Urban Road,Motorcycle,Overspeeding,Morning,1,3,0,78,Clear,SDG 11.2,Female,15–24,Motorcyclist,0
+ACC-02978,2024,12,Madhesh,Parsa,Birgunj Adarshanagar,27.041751,84.872666,Urban Road,Motorcycle,Road Condition,Evening,3,8,0,74,Clear,SDG 11.2,Male,45–64,Driver,0
+ACC-02979,2025,12,Madhesh,Parsa,Birgunj Adarshanagar,27.049306,84.868595,Hill Road,Tempo,Drunk Driving,Morning,4,7,0,43,Rainy,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-02980,2022,10,Madhesh,Parsa,Birgunj Adarshanagar,27.037288,84.878127,Highway,Bus,Flood,Night,3,1,0,77,Rainy,SDG 11.2,Male,25–44,Passenger,0
+ACC-02981,2022,10,Madhesh,Parsa,Birgunj Ghantaghar,27.060133,84.87085,Highway,Motorcycle,Overspeeding,Morning,3,5,0,28,Clear,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-02982,2022,8,Madhesh,Parsa,Birgunj Ghantaghar,27.073734,84.852316,Urban Road,Car,Road Condition,Morning,2,1,1,33,Rainy,SDG 3.6,Male,45–64,Driver,1
+ACC-02983,2024,7,Madhesh,Parsa,Birgunj Ghantaghar,27.05619,84.870941,Rural Road,Tempo,Overspeeding,Morning,2,2,0,6,Clear,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-02984,2025,10,Madhesh,Parsa,Birgunj Ghantaghar,27.066627,84.860559,Hill Road,Bus,Flood,Morning,1,3,0,9,Clear,SDG 11.2,Male,25–44,Cyclist,0
+ACC-02985,2021,9,Madhesh,Parsa,Birgunj Ghantaghar,27.047875,84.866387,Highway,Tempo,Overspeeding,Evening,3,4,0,17,Rainy,SDG 3.6,Female,25–44,Cyclist,0
+ACC-02986,2023,11,Madhesh,Parsa,Birgunj Ghantaghar,27.047049,84.873115,Hill Road,Car,Drunk Driving,Morning,4,7,2,50,Clear,SDG 3.6,Male,45–64,Motorcyclist,2
+ACC-02987,2024,8,Madhesh,Parsa,Birgunj Ghantaghar,27.067685,84.867193,Hill Road,Motorcycle,Flood,Night,1,7,2,12,Clear,SDG 3.6,Male,45–64,Motorcyclist,2
+ACC-02988,2022,11,Madhesh,Parsa,Birgunj Ghantaghar,27.04928,84.86982,Rural Road,Motorcycle,Road Condition,Night,2,4,0,82,Rainy,SDG 3.6,Male,25–44,Driver,0
+ACC-02989,2024,7,Madhesh,Parsa,Birgunj Ghantaghar,27.061639,84.874124,Rural Road,Motorcycle,Drunk Driving,Evening,1,6,0,23,Clear,SDG 11.2,Male,0–14,Cyclist,0
+ACC-02990,2024,4,Madhesh,Parsa,Birgunj Ghantaghar,27.049507,84.874204,Highway,Bicycle,Drunk Driving,Night,2,8,0,74,Foggy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-02991,2024,8,Madhesh,Parsa,Birgunj Ghantaghar,27.077005,84.859691,Urban Road,Motorcycle,Human Error,Evening,3,5,3,71,Foggy,SDG 3.6,Female,45–64,Pedestrian,3
+ACC-02992,2023,9,Madhesh,Parsa,Birgunj Ghantaghar,27.058696,84.876432,Rural Road,Motorcycle,Overspeeding,Afternoon,2,0,0,50,Foggy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-02993,2025,5,Madhesh,Parsa,Birgunj Ghantaghar,27.054375,84.869195,Highway,Car,Drunk Driving,Morning,3,3,0,71,Rainy,SDG 3.6,Male,45–64,Motorcyclist,0
+ACC-02994,2024,8,Madhesh,Parsa,Birgunj Ghantaghar,27.042614,84.878083,Urban Road,Truck,Landslide,Afternoon,2,2,0,18,Rainy,SDG 11.2,Male,25–44,Passenger,0
+ACC-02995,2021,5,Madhesh,Parsa,Birgunj Ghantaghar,27.064776,84.87142,Highway,Car,Flood,Night,2,4,0,15,Clear,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-02996,2024,12,Madhesh,Parsa,Birgunj Ghantaghar,27.066361,84.872519,Urban Road,Motorcycle,Overspeeding,Morning,2,6,0,50,Clear,SDG 3.6,Male,15–24,Driver,0
+ACC-02997,2025,12,Madhesh,Parsa,Birgunj Ghantaghar,27.056494,84.883408,Highway,Car,Overspeeding,Afternoon,1,8,0,54,Clear,SDG 3.6,Male,25–44,Passenger,0
+ACC-02998,2023,4,Madhesh,Parsa,Birgunj Ghantaghar,27.055169,84.860143,Hill Road,Tempo,Weather,Evening,3,5,0,53,Clear,SDG 11.2,Male,45–64,Pedestrian,0
+ACC-02999,2021,4,Madhesh,Parsa,Birgunj Ghantaghar,27.056524,84.863048,Urban Road,Motorcycle,Human Error,Afternoon,2,8,0,29,Rainy,SDG 11.2,Male,0–14,Driver,0
+ACC-03000,2024,12,Madhesh,Parsa,Birgunj Ghantaghar,27.078482,84.86443,Urban Road,Motorcycle,Landslide,Evening,3,4,0,57,Clear,SDG 3.6,Male,15–24,Driver,0
+ACC-03001,2023,12,Madhesh,Parsa,Birgunj Ghantaghar,27.069624,84.867675,Rural Road,Motorcycle,Road Condition,Night,1,6,0,55,Clear,SDG 11.2,Female,25–44,Motorcyclist,0
+ACC-03002,2021,4,Madhesh,Parsa,Birgunj Ghantaghar,27.076479,84.848182,Hill Road,Motorcycle,Human Error,Night,4,5,2,12,Rainy,SDG 3.6,Male,15–24,Motorcyclist,2
+ACC-03003,2024,1,Madhesh,Parsa,Birgunj Ghantaghar,27.060626,84.860799,Hill Road,Motorcycle,Human Error,Morning,3,1,0,57,Rainy,SDG 11.2,Male,25–44,Passenger,0
+ACC-03004,2022,6,Madhesh,Parsa,Birgunj Ghantaghar,27.043362,84.885176,Rural Road,Motorcycle,Flood,Morning,1,4,1,29,Foggy,SDG 11.2,Male,15–24,Motorcyclist,1
+ACC-03005,2024,3,Madhesh,Parsa,Birgunj Ghantaghar,27.055687,84.864085,Highway,Bus,Overspeeding,Morning,3,1,0,25,Clear,SDG 11.2,Male,25–44,Pedestrian,0
+ACC-03006,2022,6,Madhesh,Parsa,Birgunj Ghantaghar,27.062857,84.868862,Rural Road,Motorcycle,Weather,Afternoon,2,4,0,27,Clear,SDG 11.2,Male,15–24,Motorcyclist,0
+ACC-03007,2023,2,Madhesh,Parsa,Birgunj Ghantaghar,27.060123,84.863952,Rural Road,Car,Human Error,Night,4,5,0,90,Rainy,SDG 3.6,Male,65+,Motorcyclist,0
+ACC-03008,2023,8,Madhesh,Parsa,Birgunj Ghantaghar,27.068965,84.87012,Highway,Bicycle,Weather,Morning,3,8,0,64,Foggy,SDG 11.2,Male,25–44,Cyclist,0
+ACC-03009,2024,4,Madhesh,Parsa,Birgunj Ghantaghar,27.051926,84.875427,Hill Road,Motorcycle,Flood,Night,2,3,0,11,Foggy,SDG 3.6,Female,25–44,Passenger,0
+ACC-03010,2022,10,Madhesh,Parsa,Birgunj Ghantaghar,27.066028,84.855424,Highway,Bicycle,Weather,Night,2,0,2,40,Clear,SDG 3.6,Male,25–44,Driver,2
+ACC-03011,2023,4,Madhesh,Parsa,Birgunj Ghantaghar,27.055878,84.871055,Urban Road,Bicycle,Landslide,Night,1,7,1,79,Rainy,SDG 3.6,Female,15–24,Driver,1
+ACC-03012,2024,4,Madhesh,Parsa,Birgunj Ghantaghar,27.080051,84.856794,Hill Road,Motorcycle,Drunk Driving,Night,2,1,0,33,Rainy,SDG 11.2,Female,25–44,Motorcyclist,0
+ACC-03013,2023,9,Madhesh,Parsa,Birgunj Ghantaghar,27.053266,84.865676,Highway,Bicycle,Human Error,Morning,3,6,3,6,Clear,SDG 11.2,Female,25–44,Passenger,3
+ACC-03014,2025,9,Madhesh,Parsa,Birgunj Ghantaghar,27.044236,84.884454,Highway,Car,Overspeeding,Morning,3,8,0,35,Clear,SDG 3.6,Female,25–44,Motorcyclist,0
+ACC-03015,2024,3,Madhesh,Parsa,Birgunj Ghantaghar,27.058342,84.867826,Highway,Bus,Drunk Driving,Afternoon,1,0,2,48,Rainy,SDG 11.2,Female,15–24,Driver,2
+ACC-03016,2025,1,Madhesh,Parsa,Birgunj Ghantaghar,27.058902,84.867882,Urban Road,Bus,Human Error,Afternoon,3,0,0,29,Rainy,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-03017,2024,5,Madhesh,Parsa,Birgunj Ghantaghar,27.053675,84.869362,Hill Road,Motorcycle,Drunk Driving,Morning,3,0,1,60,Clear,SDG 11.2,Male,25–44,Driver,1
+ACC-03018,2021,4,Madhesh,Parsa,Birgunj Ghantaghar,27.046674,84.872313,Highway,Motorcycle,Drunk Driving,Evening,4,0,1,8,Foggy,SDG 11.2,Male,45–64,Motorcyclist,1
+ACC-03019,2024,6,Madhesh,Parsa,Birgunj Ghantaghar,27.06632,84.867452,Urban Road,Tempo,Human Error,Evening,1,8,0,73,Clear,SDG 11.2,Female,15–24,Driver,0
+ACC-03020,2023,11,Madhesh,Parsa,Birgunj Ghantaghar,27.06366,84.860886,Rural Road,Car,Road Condition,Afternoon,3,8,0,55,Rainy,SDG 3.6,Female,15–24,Motorcyclist,0
+ACC-03021,2024,3,Madhesh,Parsa,Birgunj Ghantaghar,27.05824,84.866901,Highway,Car,Drunk Driving,Night,3,0,0,78,Clear,SDG 3.6,Male,0–14,Motorcyclist,0
+ACC-03022,2023,5,Madhesh,Parsa,Birgunj Ghantaghar,27.043399,84.882455,Rural Road,Car,Weather,Morning,3,8,3,44,Rainy,SDG 3.6,Female,15–24,Motorcyclist,3
+ACC-03023,2021,9,Madhesh,Parsa,Birgunj Ghantaghar,27.059148,84.87403,Urban Road,Motorcycle,Overspeeding,Night,1,5,0,42,Clear,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-03024,2025,11,Madhesh,Parsa,Birgunj Ghantaghar,27.066522,84.865107,Urban Road,Motorcycle,Weather,Afternoon,1,8,2,57,Foggy,SDG 3.6,Male,25–44,Passenger,2
+ACC-03025,2023,11,Madhesh,Parsa,Birgunj Ghantaghar,27.070623,84.874157,Highway,Motorcycle,Landslide,Morning,1,0,3,81,Clear,SDG 3.6,Male,25–44,Cyclist,3
+ACC-03026,2022,11,Madhesh,Parsa,Birgunj Ghantaghar,27.049281,84.877396,Rural Road,Bicycle,Overspeeding,Night,2,8,3,41,Rainy,SDG 3.6,Female,25–44,Motorcyclist,3
+ACC-03027,2023,4,Madhesh,Parsa,Birgunj Ghantaghar,27.055759,84.86775,Highway,Car,Overspeeding,Morning,3,3,0,71,Clear,SDG 11.2,Female,0–14,Motorcyclist,0
+ACC-03028,2024,1,Madhesh,Parsa,Birgunj Ghantaghar,27.058178,84.864167,Rural Road,Car,Human Error,Night,1,7,0,65,Rainy,SDG 11.2,Male,25–44,Passenger,0
+ACC-03029,2021,2,Madhesh,Parsa,Birgunj Ghantaghar,27.053537,84.873767,Highway,Bus,Overspeeding,Night,1,4,0,48,Clear,SDG 3.6,Female,25–44,Passenger,0
+ACC-03030,2024,2,Madhesh,Parsa,Birgunj Ghantaghar,27.076903,84.867452,Rural Road,Motorcycle,Weather,Night,2,6,0,18,Rainy,SDG 11.2,Female,25–44,Passenger,0
+ACC-03031,2022,10,Madhesh,Parsa,Birgunj Ghantaghar,27.057067,84.878668,Urban Road,Motorcycle,Human Error,Night,3,8,1,75,Rainy,SDG 11.2,Male,25–44,Motorcyclist,1
+ACC-03032,2023,1,Madhesh,Parsa,Birgunj Ghantaghar,27.046228,84.87472,Hill Road,Bicycle,Overspeeding,Night,2,4,0,14,Rainy,SDG 11.2,Male,25–44,Passenger,0
+ACC-03033,2025,1,Madhesh,Parsa,Birgunj Ghantaghar,27.057117,84.865034,Hill Road,Motorcycle,Weather,Morning,1,5,0,63,Foggy,SDG 3.6,Male,45–64,Passenger,0
+ACC-03034,2024,2,Madhesh,Parsa,Birgunj Ghantaghar,27.063351,84.867338,Highway,Motorcycle,Overspeeding,Morning,4,0,1,42,Clear,SDG 11.2,Female,25–44,Cyclist,1
+ACC-03035,2024,10,Madhesh,Parsa,Birgunj Ghantaghar,27.080101,84.862466,Urban Road,Car,Weather,Morning,3,8,1,43,Clear,SDG 3.6,Female,25–44,Pedestrian,1
+ACC-03036,2024,7,Madhesh,Parsa,Birgunj Ghantaghar,27.062698,84.864097,Rural Road,Car,Overspeeding,Afternoon,2,7,0,6,Rainy,SDG 3.6,Male,25–44,Passenger,0
+ACC-03037,2023,1,Madhesh,Parsa,Birgunj Ghantaghar,27.039405,84.880373,Urban Road,Motorcycle,Overspeeding,Evening,1,6,1,56,Rainy,SDG 11.2,Male,15–24,Passenger,1
+ACC-03038,2023,6,Madhesh,Parsa,Birgunj Ghantaghar,27.065752,84.873021,Urban Road,Tempo,Human Error,Night,3,3,0,46,Clear,SDG 11.2,Female,15–24,Motorcyclist,0
+ACC-03039,2021,3,Madhesh,Parsa,Birgunj Ghantaghar,27.05618,84.867396,Highway,Tempo,Road Condition,Afternoon,3,5,2,53,Foggy,SDG 3.6,Male,25–44,Driver,2
+ACC-03040,2023,2,Madhesh,Parsa,Birgunj Ghantaghar,27.048673,84.876798,Urban Road,Motorcycle,Overspeeding,Evening,1,3,0,75,Foggy,SDG 11.2,Male,25–44,Passenger,0
+ACC-03041,2025,10,Madhesh,Parsa,Birgunj Ghantaghar,27.07507,84.86375,Urban Road,Car,Overspeeding,Evening,4,8,0,5,Foggy,SDG 3.6,Male,15–24,Motorcyclist,0
+ACC-03042,2024,4,Madhesh,Parsa,Birgunj Ghantaghar,27.059759,84.87475,Rural Road,Car,Human Error,Night,4,6,1,26,Rainy,SDG 11.2,Male,25–44,Motorcyclist,1
+ACC-03043,2023,12,Madhesh,Parsa,Birgunj Ghantaghar,27.068255,84.870772,Rural Road,Tempo,Overspeeding,Night,4,0,0,41,Clear,SDG 3.6,Male,25–44,Passenger,0
+ACC-03044,2024,4,Madhesh,Parsa,Birgunj Ghantaghar,27.057095,84.863251,Urban Road,Bus,Weather,Morning,2,1,1,16,Clear,SDG 11.2,Male,25–44,Passenger,1
+ACC-03045,2024,5,Madhesh,Parsa,Birgunj Ghantaghar,27.053166,84.874295,Hill Road,Tempo,Human Error,Night,2,7,1,8,Clear,SDG 3.6,Male,45–64,Motorcyclist,1
+ACC-03046,2021,8,Madhesh,Parsa,Birgunj Ghantaghar,27.053912,84.866247,Highway,Tempo,Weather,Afternoon,2,4,1,47,Clear,SDG 3.6,Female,15–24,Driver,1
+ACC-03047,2023,4,Madhesh,Parsa,Birgunj Ghantaghar,27.069205,84.865404,Highway,Motorcycle,Flood,Afternoon,1,0,1,63,Clear,SDG 11.2,Male,25–44,Driver,1
+ACC-03048,2024,7,Madhesh,Parsa,Birgunj Ghantaghar,27.038253,84.882634,Urban Road,Motorcycle,Human Error,Night,2,1,2,43,Foggy,SDG 11.2,Male,15–24,Motorcyclist,2
+ACC-03049,2023,1,Madhesh,Parsa,Birgunj Ghantaghar,27.064267,84.868939,Urban Road,Bicycle,Human Error,Morning,4,1,0,90,Clear,SDG 3.6,Female,65+,Driver,0
+ACC-03050,2024,1,Madhesh,Parsa,Birgunj Ghantaghar,27.060038,84.867882,Urban Road,Motorcycle,Weather,Evening,2,6,1,55,Clear,SDG 3.6,Male,45–64,Motorcyclist,1
+ACC-03051,2022,12,Madhesh,Parsa,Birgunj Ghantaghar,27.077595,84.856061,Rural Road,Tempo,Overspeeding,Morning,1,8,0,11,Rainy,SDG 3.6,Male,15–24,Motorcyclist,0
+ACC-03052,2023,9,Madhesh,Parsa,Birgunj Ghantaghar,27.060034,84.861509,Rural Road,Car,Drunk Driving,Night,1,2,2,36,Rainy,SDG 11.2,Male,25–44,Passenger,2
+ACC-03053,2024,4,Madhesh,Parsa,Birgunj Ghantaghar,27.052822,84.863893,Highway,Motorcycle,Drunk Driving,Morning,4,3,0,33,Rainy,SDG 3.6,Male,45–64,Passenger,0
+ACC-03054,2024,9,Madhesh,Parsa,Birgunj Ghantaghar,27.058699,84.870603,Hill Road,Motorcycle,Road Condition,Night,4,8,0,84,Clear,SDG 3.6,Male,25–44,Cyclist,0
+ACC-03055,2022,3,Madhesh,Parsa,Birgunj Ghantaghar,27.060173,84.875489,Highway,Car,Landslide,Morning,2,0,1,87,Clear,SDG 3.6,Female,45–64,Passenger,1
+ACC-03056,2024,12,Madhesh,Parsa,Birgunj Ghantaghar,27.046641,84.874713,Rural Road,Truck,Weather,Night,3,3,0,85,Rainy,SDG 11.2,Female,15–24,Passenger,0
+ACC-03057,2024,3,Madhesh,Parsa,Birgunj Ghantaghar,27.068952,84.863726,Urban Road,Motorcycle,Human Error,Night,2,2,2,24,Rainy,SDG 3.6,Male,65+,Pedestrian,2
 ACC-03058,2023,6,Madhesh,Parsa,Birgunj Highway North,27.075062,84.868008,Highway,Motorcycle,Weather,Evening,3,8,0,77,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
 ACC-03059,2022,2,Madhesh,Parsa,Birgunj Highway North,27.08556,84.866557,Highway,Motorcycle,Human Error,Morning,2,1,0,62,Foggy,SDG 3.6,Male,45–64,Driver,0
 ACC-03060,2023,7,Madhesh,Parsa,Birgunj Highway North,27.087944,84.862401,Highway,Motorcycle,Overspeeding,Morning,2,8,2,42,Rainy,SDG 11.2,Male,65+,Motorcyclist,2
@@ -3367,73 +3367,73 @@ ACC-03365,2025,3,Madhesh,Dhanusha,Janakpur Highway,26.760932,85.970062,Highway,T
 ACC-03366,2024,8,Madhesh,Dhanusha,Janakpur Highway,26.748652,85.971217,Highway,Car,Human Error,Evening,3,4,1,40,Rainy,SDG 3.6,Male,45–64,Motorcyclist,1
 ACC-03367,2022,10,Madhesh,Dhanusha,Janakpur Highway,26.741118,85.965098,Highway,Motorcycle,Road Condition,Morning,4,7,0,66,Clear,SDG 3.6,Male,25–44,Motorcyclist,0
 ACC-03368,2023,8,Madhesh,Dhanusha,Janakpur Highway,26.747242,85.972681,Highway,Motorcycle,Overspeeding,Night,2,8,0,10,Rainy,SDG 3.6,Male,25–44,Motorcyclist,0
-ACC-03369,2023,10,Madhesh,Mahottari,Jaleshwor Road,26.64036,85.783216,Hill Road,Motorcycle,Landslide,Afternoon,4,3,0,10,Rainy,SDG 3.6,Male,45–64,Cyclist,0
-ACC-03370,2025,3,Madhesh,Mahottari,Jaleshwor Road,26.645647,85.790012,Hill Road,Truck,Drunk Driving,Morning,3,6,0,79,Foggy,SDG 11.2,Male,15–24,Motorcyclist,0
-ACC-03371,2021,9,Madhesh,Mahottari,Jaleshwor Road,26.649514,85.787361,Urban Road,Truck,Overspeeding,Night,3,3,0,57,Clear,SDG 3.6,Male,25–44,Passenger,0
+ACC-03369,2023,10,Madhesh,Mahottari,Jaleshwor Road,26.686987,85.791116,Hill Road,Motorcycle,Landslide,Afternoon,4,3,0,10,Rainy,SDG 3.6,Male,45–64,Cyclist,0
+ACC-03370,2025,3,Madhesh,Mahottari,Jaleshwor Road,26.682496,85.788372,Hill Road,Truck,Drunk Driving,Morning,3,6,0,79,Foggy,SDG 11.2,Male,15–24,Motorcyclist,0
+ACC-03371,2021,9,Madhesh,Mahottari,Jaleshwor Road,26.692549,85.790818,Urban Road,Truck,Overspeeding,Night,3,3,0,57,Clear,SDG 3.6,Male,25–44,Passenger,0
 ACC-03372,2021,8,Madhesh,Mahottari,Jaleshwor Road,26.65457,85.785136,Urban Road,Motorcycle,Road Condition,Night,3,3,1,7,Rainy,SDG 11.2,Male,0–14,Passenger,1
 ACC-03373,2021,5,Madhesh,Mahottari,Jaleshwor Road,26.653191,85.787023,Rural Road,Motorcycle,Landslide,Night,1,6,0,11,Clear,SDG 11.2,Female,15–24,Driver,0
 ACC-03374,2024,3,Madhesh,Mahottari,Jaleshwor Road,26.653393,85.799361,Rural Road,Motorcycle,Drunk Driving,Afternoon,3,7,0,61,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
 ACC-03375,2024,10,Madhesh,Mahottari,Jaleshwor Road,26.655172,85.788383,Hill Road,Motorcycle,Road Condition,Afternoon,4,8,0,90,Foggy,SDG 3.6,Male,15–24,Pedestrian,0
-ACC-03376,2024,3,Madhesh,Mahottari,Jaleshwor Road,26.643535,85.789461,Urban Road,Motorcycle,Overspeeding,Afternoon,2,0,0,43,Rainy,SDG 3.6,Female,45–64,Passenger,0
+ACC-03376,2024,3,Madhesh,Mahottari,Jaleshwor Road,26.67288,85.784001,Urban Road,Motorcycle,Overspeeding,Afternoon,2,0,0,43,Rainy,SDG 3.6,Female,45–64,Passenger,0
 ACC-03377,2023,5,Madhesh,Mahottari,Jaleshwor Road,26.653122,85.790007,Rural Road,Car,Drunk Driving,Morning,3,2,2,55,Foggy,SDG 3.6,Female,15–24,Motorcyclist,2
 ACC-03378,2022,5,Madhesh,Mahottari,Jaleshwor Road,26.654,85.787377,Rural Road,Bus,Overspeeding,Afternoon,1,7,1,35,Rainy,SDG 11.2,Female,15–24,Passenger,1
 ACC-03379,2024,3,Madhesh,Mahottari,Jaleshwor Road,26.652526,85.788116,Hill Road,Truck,Human Error,Morning,2,3,0,79,Foggy,SDG 3.6,Male,15–24,Driver,0
-ACC-03380,2022,3,Madhesh,Mahottari,Jaleshwor Road,26.64742,85.789273,Highway,Bus,Overspeeding,Afternoon,3,0,1,30,Clear,SDG 3.6,Male,15–24,Motorcyclist,1
+ACC-03380,2022,3,Madhesh,Mahottari,Jaleshwor Road,26.688083,85.794597,Highway,Bus,Overspeeding,Afternoon,3,0,1,30,Clear,SDG 3.6,Male,15–24,Motorcyclist,1
 ACC-03381,2024,6,Madhesh,Mahottari,Jaleshwor Road,26.654049,85.773918,Highway,Bicycle,Drunk Driving,Morning,1,5,2,61,Clear,SDG 3.6,Male,25–44,Motorcyclist,2
-ACC-03382,2022,11,Madhesh,Mahottari,Jaleshwor Road,26.64527,85.79124,Urban Road,Motorcycle,Overspeeding,Evening,4,5,2,20,Clear,SDG 3.6,Female,45–64,Passenger,2
-ACC-03383,2023,5,Madhesh,Mahottari,Jaleshwor Road,26.648001,85.789017,Urban Road,Motorcycle,Human Error,Night,2,0,0,70,Clear,SDG 3.6,Female,15–24,Motorcyclist,0
+ACC-03382,2022,11,Madhesh,Mahottari,Jaleshwor Road,26.673694,85.790519,Urban Road,Motorcycle,Overspeeding,Evening,4,5,2,20,Clear,SDG 3.6,Female,45–64,Passenger,2
+ACC-03383,2023,5,Madhesh,Mahottari,Jaleshwor Road,26.676436,85.79153,Urban Road,Motorcycle,Human Error,Night,2,0,0,70,Clear,SDG 3.6,Female,15–24,Motorcyclist,0
 ACC-03384,2022,6,Madhesh,Mahottari,Jaleshwor Road,26.658856,85.790209,Highway,Truck,Human Error,Morning,4,2,1,16,Clear,SDG 11.2,Male,45–64,Motorcyclist,1
 ACC-03385,2024,11,Madhesh,Mahottari,Jaleshwor Road,26.659132,85.794659,Rural Road,Motorcycle,Weather,Evening,4,4,0,58,Foggy,SDG 3.6,Female,25–44,Motorcyclist,0
 ACC-03386,2024,2,Madhesh,Mahottari,Jaleshwor Road,26.655311,85.794425,Highway,Tempo,Landslide,Night,2,0,0,14,Clear,SDG 11.2,Male,65+,Passenger,0
-ACC-03387,2023,5,Madhesh,Mahottari,Jaleshwor Road,26.645539,85.790673,Rural Road,Truck,Human Error,Evening,4,1,1,32,Rainy,SDG 11.2,Male,25–44,Motorcyclist,1
+ACC-03387,2023,5,Madhesh,Mahottari,Jaleshwor Road,26.678132,85.786901,Rural Road,Truck,Human Error,Evening,4,1,1,32,Rainy,SDG 11.2,Male,25–44,Motorcyclist,1
 ACC-03388,2021,5,Madhesh,Mahottari,Jaleshwor Road,26.659172,85.792284,Urban Road,Motorcycle,Road Condition,Night,4,5,0,56,Clear,SDG 3.6,Male,0–14,Motorcyclist,0
 ACC-03389,2025,12,Madhesh,Mahottari,Jaleshwor Road,26.651497,85.792593,Highway,Motorcycle,Drunk Driving,Afternoon,4,3,2,36,Clear,SDG 3.6,Female,25–44,Motorcyclist,2
 ACC-03390,2022,7,Madhesh,Mahottari,Jaleshwor Road,26.65231,85.779151,Hill Road,Motorcycle,Human Error,Evening,1,5,0,63,Clear,SDG 11.2,Male,0–14,Driver,0
 ACC-03391,2025,1,Madhesh,Mahottari,Jaleshwor Road,26.658745,85.788409,Urban Road,Bicycle,Landslide,Evening,1,0,3,43,Rainy,SDG 11.2,Male,25–44,Driver,3
-ACC-03392,2024,3,Madhesh,Mahottari,Jaleshwor Road,26.648265,85.791317,Hill Road,Bicycle,Weather,Morning,4,6,0,48,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
-ACC-03393,2021,10,Madhesh,Mahottari,Jaleshwor Road,26.645665,85.787501,Urban Road,Car,Overspeeding,Evening,3,1,0,67,Clear,SDG 3.6,Male,15–24,Motorcyclist,0
+ACC-03392,2024,3,Madhesh,Mahottari,Jaleshwor Road,26.693645,85.799869,Hill Road,Bicycle,Weather,Morning,4,6,0,48,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-03393,2021,10,Madhesh,Mahottari,Jaleshwor Road,26.669042,85.789272,Urban Road,Car,Overspeeding,Evening,3,1,0,67,Clear,SDG 3.6,Male,15–24,Motorcyclist,0
 ACC-03394,2022,3,Madhesh,Mahottari,Jaleshwor Road,26.653065,85.79117,Urban Road,Car,Human Error,Evening,4,6,3,42,Clear,SDG 3.6,Male,25–44,Motorcyclist,3
-ACC-03395,2023,6,Madhesh,Mahottari,Jaleshwor Road,26.646894,85.785565,Highway,Car,Road Condition,Afternoon,4,1,0,88,Clear,SDG 3.6,Male,25–44,Driver,0
+ACC-03395,2023,6,Madhesh,Mahottari,Jaleshwor Road,26.680951,85.789,Highway,Car,Road Condition,Afternoon,4,1,0,88,Clear,SDG 3.6,Male,25–44,Driver,0
 ACC-03396,2023,3,Madhesh,Mahottari,Jaleshwor Road,26.650797,85.784238,Urban Road,Bus,Overspeeding,Evening,3,0,0,87,Rainy,SDG 3.6,Female,15–24,Driver,0
-ACC-03397,2021,6,Madhesh,Mahottari,Jaleshwor Road,26.638003,85.778776,Rural Road,Motorcycle,Overspeeding,Night,4,1,0,22,Foggy,SDG 11.2,Male,25–44,Pedestrian,0
+ACC-03397,2021,6,Madhesh,Mahottari,Jaleshwor Road,26.681387,85.7792,Rural Road,Motorcycle,Overspeeding,Night,4,1,0,22,Foggy,SDG 11.2,Male,25–44,Pedestrian,0
 ACC-03398,2024,3,Madhesh,Mahottari,Jaleshwor Road,26.65541,85.791809,Hill Road,Motorcycle,Human Error,Evening,1,4,2,18,Rainy,SDG 3.6,Male,45–64,Motorcyclist,2
 ACC-03399,2021,8,Madhesh,Mahottari,Jaleshwor Road,26.656166,85.791632,Urban Road,Motorcycle,Flood,Night,1,7,0,60,Rainy,SDG 3.6,Male,45–64,Driver,0
-ACC-03400,2024,7,Madhesh,Mahottari,Jaleshwor Road,26.647422,85.789784,Rural Road,Bus,Overspeeding,Night,1,7,1,78,Rainy,SDG 3.6,Male,25–44,Pedestrian,1
-ACC-03401,2025,8,Madhesh,Mahottari,Jaleshwor Road,26.642797,85.786048,Hill Road,Car,Road Condition,Night,3,7,0,89,Rainy,SDG 11.2,Female,25–44,Driver,0
-ACC-03402,2023,8,Madhesh,Mahottari,Jaleshwor Road,26.64674,85.788973,Hill Road,Motorcycle,Drunk Driving,Afternoon,2,1,0,71,Rainy,SDG 3.6,Male,25–44,Motorcyclist,0
-ACC-03403,2025,10,Madhesh,Mahottari,Jaleshwor Road,26.642176,85.786157,Rural Road,Tempo,Overspeeding,Morning,4,4,0,9,Foggy,SDG 3.6,Female,25–44,Motorcyclist,0
-ACC-03404,2024,4,Madhesh,Saptari,Rajbiraj Road,26.58,86.755896,Rural Road,Car,Drunk Driving,Afternoon,3,3,2,24,Foggy,SDG 3.6,Male,25–44,Driver,2
-ACC-03405,2024,8,Madhesh,Saptari,Rajbiraj Road,26.58,86.753032,Urban Road,Motorcycle,Overspeeding,Night,1,2,1,51,Foggy,SDG 3.6,Male,25–44,Cyclist,1
-ACC-03406,2025,6,Madhesh,Saptari,Rajbiraj Road,26.58,86.752743,Urban Road,Tempo,Human Error,Evening,2,3,0,81,Rainy,SDG 3.6,Female,25–44,Passenger,0
-ACC-03407,2025,12,Madhesh,Saptari,Rajbiraj Road,26.58,86.755996,Highway,Bus,Overspeeding,Evening,4,5,1,77,Clear,SDG 3.6,Male,0–14,Driver,1
-ACC-03408,2025,4,Madhesh,Saptari,Rajbiraj Road,26.58,86.753493,Urban Road,Motorcycle,Flood,Night,3,3,0,55,Clear,SDG 3.6,Female,45–64,Driver,0
-ACC-03409,2025,6,Madhesh,Saptari,Rajbiraj Road,26.58,86.752554,Urban Road,Tempo,Road Condition,Evening,2,5,0,58,Clear,SDG 3.6,Female,25–44,Pedestrian,0
-ACC-03410,2022,9,Madhesh,Saptari,Rajbiraj Road,26.58,86.749647,Urban Road,Tempo,Drunk Driving,Evening,2,5,2,38,Rainy,SDG 3.6,Male,25–44,Motorcyclist,2
-ACC-03411,2024,3,Madhesh,Saptari,Rajbiraj Road,26.58,86.754588,Urban Road,Motorcycle,Landslide,Evening,4,2,0,15,Rainy,SDG 11.2,Male,25–44,Driver,0
-ACC-03412,2024,2,Madhesh,Saptari,Rajbiraj Road,26.58,86.752181,Urban Road,Truck,Road Condition,Evening,3,0,0,78,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
-ACC-03413,2023,3,Madhesh,Saptari,Rajbiraj Road,26.58,86.74175,Hill Road,Bus,Human Error,Night,2,7,2,21,Clear,SDG 3.6,Female,25–44,Motorcyclist,2
-ACC-03414,2022,9,Madhesh,Saptari,Rajbiraj Road,26.58,86.757339,Urban Road,Car,Human Error,Night,1,7,0,69,Rainy,SDG 3.6,Male,25–44,Passenger,0
-ACC-03415,2023,1,Madhesh,Saptari,Rajbiraj Road,26.58,86.747971,Highway,Motorcycle,Human Error,Afternoon,4,0,0,51,Clear,SDG 11.2,Female,25–44,Motorcyclist,0
-ACC-03416,2024,5,Madhesh,Saptari,Rajbiraj Road,26.58,86.743827,Urban Road,Truck,Overspeeding,Evening,2,3,3,52,Foggy,SDG 11.2,Male,25–44,Motorcyclist,3
-ACC-03417,2022,4,Madhesh,Saptari,Rajbiraj Road,26.58,86.75022,Urban Road,Bus,Human Error,Morning,3,4,1,31,Rainy,SDG 3.6,Male,25–44,Passenger,1
-ACC-03418,2022,10,Madhesh,Saptari,Rajbiraj Road,26.58,86.74709,Highway,Car,Human Error,Afternoon,2,0,1,75,Rainy,SDG 11.2,Male,25–44,Motorcyclist,1
-ACC-03419,2024,8,Madhesh,Saptari,Rajbiraj Road,26.58,86.747197,Urban Road,Motorcycle,Flood,Night,2,6,1,69,Rainy,SDG 11.2,Male,15–24,Passenger,1
-ACC-03420,2021,3,Madhesh,Saptari,Rajbiraj Road,26.58,86.76118,Urban Road,Motorcycle,Road Condition,Evening,2,8,0,15,Clear,SDG 11.2,Male,25–44,Motorcyclist,0
-ACC-03421,2024,10,Madhesh,Saptari,Rajbiraj Road,26.58,86.742656,Urban Road,Tempo,Overspeeding,Morning,1,6,0,33,Rainy,SDG 11.2,Male,15–24,Motorcyclist,0
-ACC-03422,2023,10,Madhesh,Saptari,Rajbiraj Road,26.58,86.759361,Urban Road,Car,Drunk Driving,Evening,4,0,0,66,Clear,SDG 3.6,Male,0–14,Motorcyclist,0
-ACC-03423,2025,8,Madhesh,Saptari,Rajbiraj Road,26.58,86.755343,Hill Road,Car,Overspeeding,Afternoon,3,5,1,53,Clear,SDG 11.2,Male,25–44,Motorcyclist,1
-ACC-03424,2023,6,Madhesh,Saptari,Rajbiraj Road,26.58,86.761594,Highway,Motorcycle,Weather,Evening,4,5,2,22,Clear,SDG 11.2,Male,45–64,Motorcyclist,2
-ACC-03425,2023,12,Madhesh,Saptari,Rajbiraj Road,26.58,86.761795,Highway,Car,Human Error,Evening,2,7,0,44,Foggy,SDG 3.6,Male,25–44,Motorcyclist,0
-ACC-03426,2021,12,Madhesh,Saptari,Rajbiraj Road,26.58,86.762933,Highway,Motorcycle,Overspeeding,Evening,3,2,0,54,Clear,SDG 3.6,Female,45–64,Driver,0
-ACC-03427,2025,10,Madhesh,Saptari,Rajbiraj Road,26.58,86.761091,Highway,Motorcycle,Human Error,Afternoon,3,8,0,43,Rainy,SDG 3.6,Male,45–64,Motorcyclist,0
-ACC-03428,2021,4,Madhesh,Saptari,Rajbiraj Road,26.58,86.75449,Hill Road,Car,Human Error,Morning,1,1,0,81,Clear,SDG 11.2,Male,45–64,Driver,0
-ACC-03429,2025,1,Madhesh,Saptari,Rajbiraj Road,26.58,86.748806,Highway,Truck,Flood,Night,4,8,3,50,Clear,SDG 3.6,Male,25–44,Passenger,3
-ACC-03430,2022,7,Madhesh,Saptari,Rajbiraj Road,26.58,86.758417,Urban Road,Bus,Human Error,Evening,3,7,0,7,Clear,SDG 3.6,Male,25–44,Motorcyclist,0
-ACC-03431,2023,9,Madhesh,Saptari,Rajbiraj Road,26.58,86.756546,Hill Road,Motorcycle,Weather,Night,4,3,0,54,Foggy,SDG 11.2,Male,15–24,Motorcyclist,0
-ACC-03432,2023,7,Madhesh,Saptari,Rajbiraj Road,26.58,86.75922,Highway,Motorcycle,Weather,Afternoon,1,0,0,65,Rainy,SDG 11.2,Male,65+,Motorcyclist,0
-ACC-03433,2021,10,Madhesh,Saptari,Rajbiraj Road,26.58,86.758807,Rural Road,Truck,Human Error,Night,1,7,0,36,Clear,SDG 11.2,Male,45–64,Driver,0
-ACC-03434,2022,5,Madhesh,Saptari,Rajbiraj Road,26.58,86.753106,Urban Road,Motorcycle,Weather,Evening,1,4,0,40,Clear,SDG 3.6,Male,25–44,Pedestrian,0
-ACC-03435,2024,3,Madhesh,Saptari,Rajbiraj Road,26.58,86.764501,Highway,Truck,Weather,Night,1,5,0,62,Clear,SDG 3.6,Male,25–44,Passenger,0
+ACC-03400,2024,7,Madhesh,Mahottari,Jaleshwor Road,26.682836,85.783625,Rural Road,Bus,Overspeeding,Night,1,7,1,78,Rainy,SDG 3.6,Male,25–44,Pedestrian,1
+ACC-03401,2025,8,Madhesh,Mahottari,Jaleshwor Road,26.672413,85.773774,Hill Road,Car,Road Condition,Night,3,7,0,89,Rainy,SDG 11.2,Female,25–44,Driver,0
+ACC-03402,2023,8,Madhesh,Mahottari,Jaleshwor Road,26.671851,85.781803,Hill Road,Motorcycle,Drunk Driving,Afternoon,2,1,0,71,Rainy,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-03403,2025,10,Madhesh,Mahottari,Jaleshwor Road,26.675751,85.791001,Rural Road,Tempo,Overspeeding,Morning,4,4,0,9,Foggy,SDG 3.6,Female,25–44,Motorcyclist,0
+ACC-03404,2024,4,Madhesh,Saptari,Rajbiraj Road,26.626127,86.753395,Rural Road,Car,Drunk Driving,Afternoon,3,3,2,24,Foggy,SDG 3.6,Male,25–44,Driver,2
+ACC-03405,2024,8,Madhesh,Saptari,Rajbiraj Road,26.627924,86.755495,Urban Road,Motorcycle,Overspeeding,Night,1,2,1,51,Foggy,SDG 3.6,Male,25–44,Cyclist,1
+ACC-03406,2025,6,Madhesh,Saptari,Rajbiraj Road,26.639677,86.757995,Urban Road,Tempo,Human Error,Evening,2,3,0,81,Rainy,SDG 3.6,Female,25–44,Passenger,0
+ACC-03407,2025,12,Madhesh,Saptari,Rajbiraj Road,26.633912,86.746605,Highway,Bus,Overspeeding,Evening,4,5,1,77,Clear,SDG 3.6,Male,0–14,Driver,1
+ACC-03408,2025,4,Madhesh,Saptari,Rajbiraj Road,26.628185,86.752354,Urban Road,Motorcycle,Flood,Night,3,3,0,55,Clear,SDG 3.6,Female,45–64,Driver,0
+ACC-03409,2025,6,Madhesh,Saptari,Rajbiraj Road,26.63191,86.759282,Urban Road,Tempo,Road Condition,Evening,2,5,0,58,Clear,SDG 3.6,Female,25–44,Pedestrian,0
+ACC-03410,2022,9,Madhesh,Saptari,Rajbiraj Road,26.62403,86.744684,Urban Road,Tempo,Drunk Driving,Evening,2,5,2,38,Rainy,SDG 3.6,Male,25–44,Motorcyclist,2
+ACC-03411,2024,3,Madhesh,Saptari,Rajbiraj Road,26.619265,86.749642,Urban Road,Motorcycle,Landslide,Evening,4,2,0,15,Rainy,SDG 11.2,Male,25–44,Driver,0
+ACC-03412,2024,2,Madhesh,Saptari,Rajbiraj Road,26.630898,86.751514,Urban Road,Truck,Road Condition,Evening,3,0,0,78,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-03413,2023,3,Madhesh,Saptari,Rajbiraj Road,26.630535,86.738524,Hill Road,Bus,Human Error,Night,2,7,2,21,Clear,SDG 3.6,Female,25–44,Motorcyclist,2
+ACC-03414,2022,9,Madhesh,Saptari,Rajbiraj Road,26.631191,86.757004,Urban Road,Car,Human Error,Night,1,7,0,69,Rainy,SDG 3.6,Male,25–44,Passenger,0
+ACC-03415,2023,1,Madhesh,Saptari,Rajbiraj Road,26.631057,86.755596,Highway,Motorcycle,Human Error,Afternoon,4,0,0,51,Clear,SDG 11.2,Female,25–44,Motorcyclist,0
+ACC-03416,2024,5,Madhesh,Saptari,Rajbiraj Road,26.629048,86.739168,Urban Road,Truck,Overspeeding,Evening,2,3,3,52,Foggy,SDG 11.2,Male,25–44,Motorcyclist,3
+ACC-03417,2022,4,Madhesh,Saptari,Rajbiraj Road,26.626387,86.756584,Urban Road,Bus,Human Error,Morning,3,4,1,31,Rainy,SDG 3.6,Male,25–44,Passenger,1
+ACC-03418,2022,10,Madhesh,Saptari,Rajbiraj Road,26.630685,86.749402,Highway,Car,Human Error,Afternoon,2,0,1,75,Rainy,SDG 11.2,Male,25–44,Motorcyclist,1
+ACC-03419,2024,8,Madhesh,Saptari,Rajbiraj Road,26.630511,86.746999,Urban Road,Motorcycle,Flood,Night,2,6,1,69,Rainy,SDG 11.2,Male,15–24,Passenger,1
+ACC-03420,2021,3,Madhesh,Saptari,Rajbiraj Road,26.631803,86.768111,Urban Road,Motorcycle,Road Condition,Evening,2,8,0,15,Clear,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-03421,2024,10,Madhesh,Saptari,Rajbiraj Road,26.623603,86.745127,Urban Road,Tempo,Overspeeding,Morning,1,6,0,33,Rainy,SDG 11.2,Male,15–24,Motorcyclist,0
+ACC-03422,2023,10,Madhesh,Saptari,Rajbiraj Road,26.627574,86.755631,Urban Road,Car,Drunk Driving,Evening,4,0,0,66,Clear,SDG 3.6,Male,0–14,Motorcyclist,0
+ACC-03423,2025,8,Madhesh,Saptari,Rajbiraj Road,26.626446,86.76061,Hill Road,Car,Overspeeding,Afternoon,3,5,1,53,Clear,SDG 11.2,Male,25–44,Motorcyclist,1
+ACC-03424,2023,6,Madhesh,Saptari,Rajbiraj Road,26.631833,86.767567,Highway,Motorcycle,Weather,Evening,4,5,2,22,Clear,SDG 11.2,Male,45–64,Motorcyclist,2
+ACC-03425,2023,12,Madhesh,Saptari,Rajbiraj Road,26.630876,86.763534,Highway,Car,Human Error,Evening,2,7,0,44,Foggy,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-03426,2021,12,Madhesh,Saptari,Rajbiraj Road,26.634823,86.761704,Highway,Motorcycle,Overspeeding,Evening,3,2,0,54,Clear,SDG 3.6,Female,45–64,Driver,0
+ACC-03427,2025,10,Madhesh,Saptari,Rajbiraj Road,26.630631,86.765088,Highway,Motorcycle,Human Error,Afternoon,3,8,0,43,Rainy,SDG 3.6,Male,45–64,Motorcyclist,0
+ACC-03428,2021,4,Madhesh,Saptari,Rajbiraj Road,26.61925,86.75614,Hill Road,Car,Human Error,Morning,1,1,0,81,Clear,SDG 11.2,Male,45–64,Driver,0
+ACC-03429,2025,1,Madhesh,Saptari,Rajbiraj Road,26.62193,86.747452,Highway,Truck,Flood,Night,4,8,3,50,Clear,SDG 3.6,Male,25–44,Passenger,3
+ACC-03430,2022,7,Madhesh,Saptari,Rajbiraj Road,26.621929,86.760196,Urban Road,Bus,Human Error,Evening,3,7,0,7,Clear,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-03431,2023,9,Madhesh,Saptari,Rajbiraj Road,26.640835,86.749884,Hill Road,Motorcycle,Weather,Night,4,3,0,54,Foggy,SDG 11.2,Male,15–24,Motorcyclist,0
+ACC-03432,2023,7,Madhesh,Saptari,Rajbiraj Road,26.634827,86.754028,Highway,Motorcycle,Weather,Afternoon,1,0,0,65,Rainy,SDG 11.2,Male,65+,Motorcyclist,0
+ACC-03433,2021,10,Madhesh,Saptari,Rajbiraj Road,26.625612,86.757524,Rural Road,Truck,Human Error,Night,1,7,0,36,Clear,SDG 11.2,Male,45–64,Driver,0
+ACC-03434,2022,5,Madhesh,Saptari,Rajbiraj Road,26.626237,86.752237,Urban Road,Motorcycle,Weather,Evening,1,4,0,40,Clear,SDG 3.6,Male,25–44,Pedestrian,0
+ACC-03435,2024,3,Madhesh,Saptari,Rajbiraj Road,26.625743,86.767577,Highway,Truck,Weather,Night,1,5,0,62,Clear,SDG 3.6,Male,25–44,Passenger,0
 ACC-03436,2024,3,Koshi,Morang,Biratnagar City,26.454063,87.26606,Urban Road,Motorcycle,Flood,Night,4,7,0,22,Clear,SDG 3.6,Male,25–44,Pedestrian,0
 ACC-03437,2021,6,Koshi,Morang,Biratnagar City,26.461871,87.273763,Urban Road,Car,Weather,Night,4,2,0,76,Rainy,SDG 11.2,Male,45–64,Driver,0
 ACC-03438,2025,11,Koshi,Morang,Biratnagar City,26.460979,87.276909,Highway,Car,Drunk Driving,Morning,3,3,0,21,Clear,SDG 3.6,Male,25–44,Cyclist,0
@@ -3876,7 +3876,7 @@ ACC-03874,2022,4,Koshi,Jhapa,Birtamod,26.646786,87.983855,Urban Road,Bicycle,Ove
 ACC-03875,2022,2,Koshi,Jhapa,Birtamod,26.64785,87.998306,Highway,Car,Weather,Night,2,2,1,58,Foggy,SDG 11.2,Male,25–44,Motorcyclist,1
 ACC-03876,2024,11,Koshi,Jhapa,Birtamod,26.646262,87.997864,Highway,Motorcycle,Human Error,Evening,1,0,3,80,Rainy,SDG 3.6,Female,15–24,Motorcyclist,3
 ACC-03877,2024,10,Koshi,Jhapa,Birtamod,26.64904,88.000357,Highway,Car,Human Error,Night,1,4,0,25,Rainy,SDG 3.6,Female,25–44,Driver,0
-ACC-03878,2022,7,Koshi,Jhapa,Birtamod,26.631811,87.992618,Highway,Motorcycle,Road Condition,Night,2,8,0,51,Clear,SDG 3.6,Male,15–24,Driver,0
+ACC-03878,2022,7,Koshi,Jhapa,Birtamod,26.672459,87.991091,Highway,Motorcycle,Road Condition,Night,2,8,0,51,Clear,SDG 3.6,Male,15–24,Driver,0
 ACC-03879,2022,4,Koshi,Jhapa,Birtamod,26.646594,87.991461,Hill Road,Bicycle,Human Error,Night,1,7,3,13,Rainy,SDG 11.2,Female,25–44,Motorcyclist,3
 ACC-03880,2025,11,Koshi,Jhapa,Birtamod,26.649734,87.986971,Highway,Car,Drunk Driving,Night,3,3,0,70,Clear,SDG 11.2,Male,25–44,Driver,0
 ACC-03881,2023,2,Koshi,Jhapa,Birtamod,26.652026,87.984939,Urban Road,Car,Overspeeding,Morning,3,2,0,38,Clear,SDG 11.2,Male,15–24,Pedestrian,0
@@ -3899,7 +3899,7 @@ ACC-03897,2023,7,Koshi,Jhapa,Birtamod,26.657279,87.992081,Hill Road,Motorcycle,W
 ACC-03898,2023,11,Koshi,Jhapa,Birtamod,26.652143,87.999977,Highway,Motorcycle,Overspeeding,Morning,3,7,0,63,Foggy,SDG 3.6,Female,25–44,Motorcyclist,0
 ACC-03899,2025,10,Koshi,Jhapa,Birtamod,26.644052,87.993125,Rural Road,Car,Overspeeding,Evening,3,3,2,50,Rainy,SDG 11.2,Female,0–14,Motorcyclist,2
 ACC-03900,2025,9,Koshi,Jhapa,Birtamod,26.641448,87.993067,Highway,Motorcycle,Human Error,Night,1,7,0,17,Clear,SDG 3.6,Male,25–44,Motorcyclist,0
-ACC-03901,2024,3,Koshi,Jhapa,Birtamod,26.632726,87.995986,Urban Road,Motorcycle,Drunk Driving,Evening,2,8,0,43,Foggy,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-03901,2024,3,Koshi,Jhapa,Birtamod,26.664454,87.994575,Urban Road,Motorcycle,Drunk Driving,Evening,2,8,0,43,Foggy,SDG 3.6,Male,25–44,Motorcyclist,0
 ACC-03902,2025,7,Koshi,Jhapa,Birtamod,26.64659,88.00383,Urban Road,Motorcycle,Drunk Driving,Morning,3,5,1,29,Foggy,SDG 3.6,Male,25–44,Passenger,1
 ACC-03903,2021,2,Koshi,Jhapa,Birtamod,26.64555,87.989334,Urban Road,Truck,Human Error,Morning,4,1,1,9,Rainy,SDG 3.6,Male,0–14,Motorcyclist,1
 ACC-03904,2022,12,Koshi,Jhapa,Birtamod,26.644272,87.988721,Urban Road,Motorcycle,Overspeeding,Night,2,4,0,35,Clear,SDG 11.2,Male,25–44,Cyclist,0
@@ -3915,80 +3915,80 @@ ACC-03913,2025,12,Koshi,Jhapa,Birtamod,26.654703,87.983367,Rural Road,Motorcycle
 ACC-03914,2022,1,Koshi,Jhapa,Birtamod,26.650868,87.994011,Highway,Truck,Landslide,Afternoon,2,0,0,77,Foggy,SDG 11.2,Male,25–44,Driver,0
 ACC-03915,2024,12,Koshi,Jhapa,Birtamod,26.641642,87.993495,Highway,Motorcycle,Human Error,Afternoon,4,4,2,30,Clear,SDG 11.2,Male,15–24,Passenger,2
 ACC-03916,2025,10,Koshi,Jhapa,Birtamod,26.657347,87.997863,Highway,Car,Flood,Night,1,6,0,23,Foggy,SDG 3.6,Male,25–44,Driver,0
-ACC-03917,2025,5,Koshi,Jhapa,Mechinagar Border,26.639008,88.059924,Highway,Motorcycle,Human Error,Night,2,4,0,57,Rainy,SDG 11.2,Female,65+,Passenger,0
+ACC-03917,2025,5,Koshi,Jhapa,Mechinagar Border,26.670008,88.061337,Highway,Motorcycle,Human Error,Night,2,4,0,57,Rainy,SDG 11.2,Female,65+,Passenger,0
 ACC-03918,2021,10,Koshi,Jhapa,Mechinagar Border,26.641837,88.063507,Urban Road,Motorcycle,Overspeeding,Morning,2,2,0,7,Clear,SDG 11.2,Female,45–64,Motorcyclist,0
-ACC-03919,2021,1,Koshi,Jhapa,Mechinagar Border,26.639369,88.052013,Rural Road,Motorcycle,Human Error,Night,2,8,2,75,Rainy,SDG 11.2,Male,0–14,Passenger,2
-ACC-03920,2024,4,Koshi,Jhapa,Mechinagar Border,26.63,88.060633,Urban Road,Motorcycle,Human Error,Afternoon,4,0,0,69,Foggy,SDG 11.2,Male,25–44,Motorcyclist,0
-ACC-03921,2022,9,Koshi,Jhapa,Mechinagar Border,26.630035,88.054439,Rural Road,Tempo,Weather,Afternoon,4,4,0,49,Foggy,SDG 3.6,Male,0–14,Passenger,0
-ACC-03922,2025,5,Koshi,Jhapa,Mechinagar Border,26.63,88.051326,Urban Road,Motorcycle,Road Condition,Night,1,2,0,17,Foggy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-03919,2021,1,Koshi,Jhapa,Mechinagar Border,26.658156,88.046989,Rural Road,Motorcycle,Human Error,Night,2,8,2,75,Rainy,SDG 11.2,Male,0–14,Passenger,2
+ACC-03920,2024,4,Koshi,Jhapa,Mechinagar Border,26.674133,88.061371,Urban Road,Motorcycle,Human Error,Afternoon,4,0,0,69,Foggy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-03921,2022,9,Koshi,Jhapa,Mechinagar Border,26.666746,88.061986,Rural Road,Tempo,Weather,Afternoon,4,4,0,49,Foggy,SDG 3.6,Male,0–14,Passenger,0
+ACC-03922,2025,5,Koshi,Jhapa,Mechinagar Border,26.672598,88.051222,Urban Road,Motorcycle,Road Condition,Night,1,2,0,17,Foggy,SDG 11.2,Male,25–44,Motorcyclist,0
 ACC-03923,2024,3,Koshi,Jhapa,Mechinagar Border,26.64129,88.059145,Urban Road,Truck,Drunk Driving,Morning,1,2,0,78,Clear,SDG 11.2,Male,25–44,Driver,0
 ACC-03924,2024,2,Koshi,Jhapa,Mechinagar Border,26.64354,88.055918,Highway,Motorcycle,Overspeeding,Night,1,6,0,79,Clear,SDG 3.6,Female,25–44,Pedestrian,0
 ACC-03925,2021,11,Koshi,Jhapa,Mechinagar Border,26.642644,88.0643,Hill Road,Motorcycle,Human Error,Evening,2,7,0,80,Clear,SDG 3.6,Male,45–64,Motorcyclist,0
-ACC-03926,2023,4,Koshi,Jhapa,Mechinagar Border,26.632048,88.062755,Urban Road,Motorcycle,Human Error,Evening,4,1,0,29,Clear,SDG 3.6,Male,25–44,Driver,0
-ACC-03927,2024,4,Koshi,Jhapa,Mechinagar Border,26.635949,88.058135,Highway,Bus,Weather,Evening,4,5,1,20,Foggy,SDG 3.6,Female,45–64,Motorcyclist,1
-ACC-03928,2024,3,Koshi,Jhapa,Mechinagar Border,26.63,88.040881,Highway,Motorcycle,Human Error,Evening,3,5,0,25,Rainy,SDG 3.6,Female,15–24,Motorcyclist,0
-ACC-03929,2022,6,Koshi,Jhapa,Mechinagar Border,26.63121,88.050455,Urban Road,Motorcycle,Drunk Driving,Night,2,6,0,20,Foggy,SDG 3.6,Male,25–44,Driver,0
-ACC-03930,2024,7,Koshi,Jhapa,Mechinagar Border,26.633206,88.062602,Rural Road,Car,Drunk Driving,Night,3,0,2,38,Rainy,SDG 3.6,Female,25–44,Passenger,2
+ACC-03926,2023,4,Koshi,Jhapa,Mechinagar Border,26.672025,88.060448,Urban Road,Motorcycle,Human Error,Evening,4,1,0,29,Clear,SDG 3.6,Male,25–44,Driver,0
+ACC-03927,2024,4,Koshi,Jhapa,Mechinagar Border,26.667271,88.062079,Highway,Bus,Weather,Evening,4,5,1,20,Foggy,SDG 3.6,Female,45–64,Motorcyclist,1
+ACC-03928,2024,3,Koshi,Jhapa,Mechinagar Border,26.672225,88.036429,Highway,Motorcycle,Human Error,Evening,3,5,0,25,Rainy,SDG 3.6,Female,15–24,Motorcyclist,0
+ACC-03929,2022,6,Koshi,Jhapa,Mechinagar Border,26.669643,88.047229,Urban Road,Motorcycle,Drunk Driving,Night,2,6,0,20,Foggy,SDG 3.6,Male,25–44,Driver,0
+ACC-03930,2024,7,Koshi,Jhapa,Mechinagar Border,26.678253,88.063897,Rural Road,Car,Drunk Driving,Night,3,0,2,38,Rainy,SDG 3.6,Female,25–44,Passenger,2
 ACC-03931,2023,5,Koshi,Jhapa,Mechinagar Border,26.64023,88.052072,Highway,Car,Drunk Driving,Night,4,7,1,64,Clear,SDG 3.6,Male,45–64,Motorcyclist,1
-ACC-03932,2021,4,Koshi,Jhapa,Mechinagar Border,26.63,88.063392,Highway,Motorcycle,Human Error,Night,1,6,3,67,Rainy,SDG 11.2,Female,25–44,Motorcyclist,3
-ACC-03933,2021,1,Koshi,Jhapa,Mechinagar Border,26.638516,88.044669,Rural Road,Car,Overspeeding,Afternoon,2,0,0,82,Clear,SDG 11.2,Female,0–14,Motorcyclist,0
+ACC-03932,2021,4,Koshi,Jhapa,Mechinagar Border,26.662348,88.066362,Highway,Motorcycle,Human Error,Night,1,6,3,67,Rainy,SDG 11.2,Female,25–44,Motorcyclist,3
+ACC-03933,2021,1,Koshi,Jhapa,Mechinagar Border,26.671476,88.046231,Rural Road,Car,Overspeeding,Afternoon,2,0,0,82,Clear,SDG 11.2,Female,0–14,Motorcyclist,0
 ACC-03934,2023,1,Koshi,Jhapa,Mechinagar Border,26.641958,88.051984,Hill Road,Bicycle,Human Error,Morning,2,7,0,79,Foggy,SDG 11.2,Female,45–64,Motorcyclist,0
 ACC-03935,2021,1,Koshi,Jhapa,Mechinagar Border,26.645358,88.061574,Highway,Motorcycle,Human Error,Evening,4,2,0,7,Rainy,SDG 3.6,Male,45–64,Driver,0
-ACC-03936,2022,8,Koshi,Jhapa,Mechinagar Border,26.630266,88.072538,Rural Road,Motorcycle,Human Error,Morning,3,4,0,34,Clear,SDG 11.2,Male,15–24,Motorcyclist,0
-ACC-03937,2024,6,Koshi,Jhapa,Mechinagar Border,26.63,88.057427,Hill Road,Motorcycle,Overspeeding,Night,3,4,0,30,Foggy,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-03936,2022,8,Koshi,Jhapa,Mechinagar Border,26.66598,88.075517,Rural Road,Motorcycle,Human Error,Morning,3,4,0,34,Clear,SDG 11.2,Male,15–24,Motorcyclist,0
+ACC-03937,2024,6,Koshi,Jhapa,Mechinagar Border,26.667992,88.052336,Hill Road,Motorcycle,Overspeeding,Night,3,4,0,30,Foggy,SDG 3.6,Male,25–44,Motorcyclist,0
 ACC-03938,2024,7,Koshi,Jhapa,Mechinagar Border,26.644812,88.052286,Hill Road,Bicycle,Overspeeding,Night,3,8,0,17,Clear,SDG 3.6,Female,25–44,Passenger,0
-ACC-03939,2024,9,Koshi,Jhapa,Mechinagar Border,26.637098,88.051798,Urban Road,Car,Overspeeding,Evening,2,0,0,41,Clear,SDG 11.2,Male,45–64,Pedestrian,0
+ACC-03939,2024,9,Koshi,Jhapa,Mechinagar Border,26.666767,88.051762,Urban Road,Car,Overspeeding,Evening,2,0,0,41,Clear,SDG 11.2,Male,45–64,Pedestrian,0
 ACC-03940,2021,11,Koshi,Jhapa,Mechinagar Border,26.649886,88.057935,Urban Road,Motorcycle,Overspeeding,Night,3,6,1,78,Foggy,SDG 3.6,Male,15–24,Motorcyclist,1
-ACC-03941,2023,1,Koshi,Jhapa,Mechinagar Border,26.63619,88.063032,Hill Road,Motorcycle,Weather,Morning,4,0,3,31,Rainy,SDG 11.2,Male,25–44,Motorcyclist,3
+ACC-03941,2023,1,Koshi,Jhapa,Mechinagar Border,26.661945,88.065678,Hill Road,Motorcycle,Weather,Morning,4,0,3,31,Rainy,SDG 11.2,Male,25–44,Motorcyclist,3
 ACC-03942,2023,3,Koshi,Jhapa,Mechinagar Border,26.641177,88.054747,Highway,Motorcycle,Human Error,Evening,1,2,0,9,Clear,SDG 11.2,Male,15–24,Cyclist,0
-ACC-03943,2025,3,Koshi,Jhapa,Mechinagar Border,26.635784,88.054686,Highway,Motorcycle,Human Error,Afternoon,1,4,2,31,Rainy,SDG 3.6,Male,45–64,Motorcyclist,2
-ACC-03944,2025,12,Koshi,Jhapa,Mechinagar Border,26.631924,88.053461,Urban Road,Bicycle,Human Error,Morning,3,6,3,64,Clear,SDG 11.2,Male,25–44,Motorcyclist,3
+ACC-03943,2025,3,Koshi,Jhapa,Mechinagar Border,26.666358,88.059956,Highway,Motorcycle,Human Error,Afternoon,1,4,2,31,Rainy,SDG 3.6,Male,45–64,Motorcyclist,2
+ACC-03944,2025,12,Koshi,Jhapa,Mechinagar Border,26.667561,88.048543,Urban Road,Bicycle,Human Error,Morning,3,6,3,64,Clear,SDG 11.2,Male,25–44,Motorcyclist,3
 ACC-03945,2025,8,Koshi,Jhapa,Mechinagar Border,26.646689,88.065412,Urban Road,Bus,Road Condition,Evening,3,8,1,33,Clear,SDG 3.6,Male,65+,Motorcyclist,1
-ACC-03946,2021,10,Koshi,Jhapa,Mechinagar Border,26.634957,88.069436,Highway,Bus,Road Condition,Morning,1,1,0,49,Rainy,SDG 11.2,Male,45–64,Motorcyclist,0
-ACC-03947,2024,10,Koshi,Jhapa,Mechinagar Border,26.636327,88.070879,Urban Road,Car,Human Error,Morning,4,3,0,75,Clear,SDG 3.6,Male,15–24,Motorcyclist,0
-ACC-03948,2025,9,Koshi,Jhapa,Mechinagar Border,26.632616,88.054014,Highway,Motorcycle,Road Condition,Morning,2,8,0,88,Rainy,SDG 3.6,Male,25–44,Pedestrian,0
-ACC-03949,2021,1,Koshi,Jhapa,Mechinagar Border,26.63,88.057854,Urban Road,Truck,Overspeeding,Morning,3,5,1,75,Clear,SDG 3.6,Male,25–44,Cyclist,1
-ACC-03950,2025,9,Koshi,Jhapa,Mechinagar Border,26.634628,88.06763,Urban Road,Car,Weather,Night,4,0,2,83,Foggy,SDG 11.2,Male,15–24,Motorcyclist,2
+ACC-03946,2021,10,Koshi,Jhapa,Mechinagar Border,26.66672,88.074689,Highway,Bus,Road Condition,Morning,1,1,0,49,Rainy,SDG 11.2,Male,45–64,Motorcyclist,0
+ACC-03947,2024,10,Koshi,Jhapa,Mechinagar Border,26.661006,88.071392,Urban Road,Car,Human Error,Morning,4,3,0,75,Clear,SDG 3.6,Male,15–24,Motorcyclist,0
+ACC-03948,2025,9,Koshi,Jhapa,Mechinagar Border,26.667996,88.053881,Highway,Motorcycle,Road Condition,Morning,2,8,0,88,Rainy,SDG 3.6,Male,25–44,Pedestrian,0
+ACC-03949,2021,1,Koshi,Jhapa,Mechinagar Border,26.669603,88.055968,Urban Road,Truck,Overspeeding,Morning,3,5,1,75,Clear,SDG 3.6,Male,25–44,Cyclist,1
+ACC-03950,2025,9,Koshi,Jhapa,Mechinagar Border,26.686545,88.07228,Urban Road,Car,Weather,Night,4,0,2,83,Foggy,SDG 11.2,Male,15–24,Motorcyclist,2
 ACC-03951,2023,2,Koshi,Jhapa,Mechinagar Border,26.642989,88.060768,Rural Road,Motorcycle,Human Error,Night,1,6,0,13,Rainy,SDG 3.6,Female,25–44,Pedestrian,0
-ACC-03952,2021,12,Koshi,Jhapa,Mechinagar Border,26.63,88.058457,Urban Road,Bicycle,Human Error,Night,3,6,1,87,Clear,SDG 3.6,Male,25–44,Motorcyclist,1
-ACC-03953,2021,12,Koshi,Jhapa,Mechinagar Border,26.639513,88.064663,Urban Road,Car,Overspeeding,Evening,1,5,0,85,Rainy,SDG 3.6,Male,45–64,Passenger,0
-ACC-03954,2022,6,Koshi,Jhapa,Mechinagar Border,26.635467,88.045746,Hill Road,Motorcycle,Human Error,Evening,2,8,0,82,Rainy,SDG 3.6,Male,45–64,Passenger,0
-ACC-03955,2025,9,Koshi,Jhapa,Mechinagar Border,26.63,88.058526,Hill Road,Tempo,Weather,Evening,1,1,0,19,Rainy,SDG 3.6,Female,15–24,Motorcyclist,0
-ACC-03956,2022,12,Koshi,Jhapa,Mechinagar Border,26.63,88.064404,Urban Road,Tempo,Human Error,Night,2,4,0,48,Rainy,SDG 3.6,Female,25–44,Passenger,0
-ACC-03957,2021,12,Koshi,Jhapa,Mechinagar Border,26.634243,88.056764,Urban Road,Motorcycle,Weather,Evening,1,5,0,39,Clear,SDG 3.6,Male,25–44,Driver,0
-ACC-03958,2025,3,Koshi,Jhapa,Mechinagar Border,26.63,88.058788,Hill Road,Bicycle,Landslide,Morning,4,8,1,69,Rainy,SDG 11.2,Female,65+,Motorcyclist,1
-ACC-03959,2024,10,Koshi,Jhapa,Bhadrapur,26.537771,88.085555,Highway,Truck,Weather,Night,4,4,0,14,Rainy,SDG 3.6,Female,65+,Driver,0
-ACC-03960,2023,10,Koshi,Jhapa,Bhadrapur,26.544509,88.082015,Highway,Motorcycle,Human Error,Night,3,8,0,90,Foggy,SDG 3.6,Male,25–44,Passenger,0
-ACC-03961,2022,6,Koshi,Jhapa,Bhadrapur,26.540205,88.083607,Highway,Car,Human Error,Morning,2,6,3,82,Clear,SDG 3.6,Male,15–24,Motorcyclist,3
-ACC-03962,2023,6,Koshi,Jhapa,Bhadrapur,26.539598,88.081454,Hill Road,Motorcycle,Weather,Night,1,5,3,74,Clear,SDG 3.6,Male,15–24,Motorcyclist,3
-ACC-03963,2025,10,Koshi,Jhapa,Bhadrapur,26.545798,88.080734,Hill Road,Motorcycle,Overspeeding,Morning,1,5,0,55,Rainy,SDG 3.6,Female,45–64,Pedestrian,0
-ACC-03964,2023,12,Koshi,Jhapa,Bhadrapur,26.542328,88.076918,Hill Road,Truck,Weather,Afternoon,1,0,0,86,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
-ACC-03965,2023,1,Koshi,Jhapa,Bhadrapur,26.544448,88.091714,Urban Road,Bus,Human Error,Evening,2,8,2,84,Foggy,SDG 11.2,Male,25–44,Passenger,2
-ACC-03966,2022,10,Koshi,Jhapa,Bhadrapur,26.536452,88.096584,Hill Road,Tempo,Drunk Driving,Evening,3,6,1,38,Rainy,SDG 11.2,Male,15–24,Motorcyclist,1
-ACC-03967,2022,1,Koshi,Jhapa,Bhadrapur,26.54425,88.065004,Hill Road,Bus,Road Condition,Evening,2,8,0,30,Clear,SDG 11.2,Male,25–44,Motorcyclist,0
-ACC-03968,2021,4,Koshi,Jhapa,Bhadrapur,26.545398,88.081375,Highway,Motorcycle,Overspeeding,Evening,2,6,0,40,Clear,SDG 11.2,Male,45–64,Pedestrian,0
-ACC-03969,2024,11,Koshi,Jhapa,Bhadrapur,26.541746,88.091255,Hill Road,Motorcycle,Weather,Evening,1,1,0,68,Clear,SDG 11.2,Male,25–44,Motorcyclist,0
-ACC-03970,2022,9,Koshi,Jhapa,Bhadrapur,26.552851,88.081938,Rural Road,Motorcycle,Human Error,Evening,4,7,0,47,Clear,SDG 3.6,Male,15–24,Motorcyclist,0
-ACC-03971,2024,10,Koshi,Jhapa,Bhadrapur,26.54512,88.071871,Hill Road,Motorcycle,Human Error,Morning,2,4,0,13,Foggy,SDG 3.6,Male,25–44,Driver,0
-ACC-03972,2023,4,Koshi,Jhapa,Bhadrapur,26.532943,88.075878,Highway,Truck,Weather,Afternoon,1,8,1,66,Clear,SDG 3.6,Male,15–24,Passenger,1
-ACC-03973,2024,9,Koshi,Jhapa,Bhadrapur,26.531171,88.0913,Urban Road,Tempo,Human Error,Afternoon,1,2,2,26,Clear,SDG 3.6,Male,15–24,Motorcyclist,2
-ACC-03974,2022,6,Koshi,Jhapa,Bhadrapur,26.550911,88.090097,Urban Road,Motorcycle,Human Error,Night,3,4,0,43,Clear,SDG 3.6,Male,45–64,Cyclist,0
-ACC-03975,2024,12,Koshi,Jhapa,Bhadrapur,26.547984,88.080602,Highway,Motorcycle,Overspeeding,Night,2,2,0,22,Clear,SDG 11.2,Female,15–24,Cyclist,0
-ACC-03976,2024,2,Koshi,Jhapa,Bhadrapur,26.533456,88.072224,Highway,Motorcycle,Human Error,Afternoon,3,0,1,86,Foggy,SDG 3.6,Male,25–44,Motorcyclist,1
-ACC-03977,2025,4,Koshi,Jhapa,Bhadrapur,26.533748,88.08316,Hill Road,Motorcycle,Drunk Driving,Evening,2,8,1,15,Foggy,SDG 3.6,Male,25–44,Passenger,1
-ACC-03978,2024,5,Koshi,Jhapa,Bhadrapur,26.545071,88.086037,Hill Road,Motorcycle,Overspeeding,Afternoon,3,7,1,26,Clear,SDG 11.2,Male,25–44,Motorcyclist,1
-ACC-03979,2024,12,Koshi,Jhapa,Bhadrapur,26.541721,88.084902,Highway,Bus,Landslide,Evening,1,6,1,5,Rainy,SDG 3.6,Male,15–24,Motorcyclist,1
-ACC-03980,2022,5,Koshi,Jhapa,Bhadrapur,26.541888,88.079447,Highway,Motorcycle,Overspeeding,Evening,2,0,0,61,Clear,SDG 11.2,Female,25–44,Pedestrian,0
-ACC-03981,2025,8,Koshi,Jhapa,Bhadrapur,26.535338,88.084446,Highway,Bus,Human Error,Evening,1,0,1,27,Foggy,SDG 11.2,Male,45–64,Passenger,1
-ACC-03982,2025,4,Koshi,Jhapa,Bhadrapur,26.539849,88.07181,Highway,Bicycle,Flood,Night,3,0,0,81,Clear,SDG 3.6,Male,15–24,Passenger,0
-ACC-03983,2024,6,Koshi,Jhapa,Bhadrapur,26.535649,88.073383,Highway,Bicycle,Human Error,Night,4,2,0,15,Rainy,SDG 11.2,Male,25–44,Driver,0
-ACC-03984,2024,1,Koshi,Jhapa,Bhadrapur,26.527054,88.07165,Highway,Motorcycle,Drunk Driving,Evening,2,8,1,20,Rainy,SDG 3.6,Male,15–24,Driver,1
-ACC-03985,2023,4,Koshi,Jhapa,Bhadrapur,26.538164,88.088529,Hill Road,Car,Human Error,Afternoon,1,8,0,63,Clear,SDG 11.2,Male,45–64,Motorcyclist,0
-ACC-03986,2021,4,Koshi,Jhapa,Bhadrapur,26.533629,88.07764,Hill Road,Car,Weather,Night,2,2,1,71,Rainy,SDG 3.6,Female,25–44,Motorcyclist,1
-ACC-03987,2024,2,Koshi,Jhapa,Bhadrapur,26.551759,88.074631,Hill Road,Motorcycle,Human Error,Morning,4,8,1,27,Clear,SDG 11.2,Male,25–44,Motorcyclist,1
-ACC-03988,2025,10,Koshi,Jhapa,Bhadrapur,26.54782,88.088712,Highway,Tempo,Overspeeding,Morning,4,4,1,9,Rainy,SDG 3.6,Male,45–64,Passenger,1
-ACC-03989,2024,9,Koshi,Jhapa,Bhadrapur,26.545421,88.089602,Urban Road,Bus,Human Error,Afternoon,2,6,0,23,Foggy,SDG 3.6,Male,45–64,Driver,0
-ACC-03990,2024,8,Koshi,Jhapa,Bhadrapur,26.54087,88.083309,Highway,Motorcycle,Overspeeding,Morning,3,2,3,68,Clear,SDG 11.2,Female,25–44,Motorcyclist,3
+ACC-03952,2021,12,Koshi,Jhapa,Mechinagar Border,26.670781,88.054216,Urban Road,Bicycle,Human Error,Night,3,6,1,87,Clear,SDG 3.6,Male,25–44,Motorcyclist,1
+ACC-03953,2021,12,Koshi,Jhapa,Mechinagar Border,26.661635,88.071244,Urban Road,Car,Overspeeding,Evening,1,5,0,85,Rainy,SDG 3.6,Male,45–64,Passenger,0
+ACC-03954,2022,6,Koshi,Jhapa,Mechinagar Border,26.675486,88.040707,Hill Road,Motorcycle,Human Error,Evening,2,8,0,82,Rainy,SDG 3.6,Male,45–64,Passenger,0
+ACC-03955,2025,9,Koshi,Jhapa,Mechinagar Border,26.680777,88.053435,Hill Road,Tempo,Weather,Evening,1,1,0,19,Rainy,SDG 3.6,Female,15–24,Motorcyclist,0
+ACC-03956,2022,12,Koshi,Jhapa,Mechinagar Border,26.665016,88.062226,Urban Road,Tempo,Human Error,Night,2,4,0,48,Rainy,SDG 3.6,Female,25–44,Passenger,0
+ACC-03957,2021,12,Koshi,Jhapa,Mechinagar Border,26.666508,88.052356,Urban Road,Motorcycle,Weather,Evening,1,5,0,39,Clear,SDG 3.6,Male,25–44,Driver,0
+ACC-03958,2025,3,Koshi,Jhapa,Mechinagar Border,26.677409,88.052748,Hill Road,Bicycle,Landslide,Morning,4,8,1,69,Rainy,SDG 11.2,Female,65+,Motorcyclist,1
+ACC-03959,2024,10,Koshi,Jhapa,Bhadrapur,26.676397,88.087926,Highway,Truck,Weather,Night,4,4,0,14,Rainy,SDG 3.6,Female,65+,Driver,0
+ACC-03960,2023,10,Koshi,Jhapa,Bhadrapur,26.672441,88.081739,Highway,Motorcycle,Human Error,Night,3,8,0,90,Foggy,SDG 3.6,Male,25–44,Passenger,0
+ACC-03961,2022,6,Koshi,Jhapa,Bhadrapur,26.672589,88.075466,Highway,Car,Human Error,Morning,2,6,3,82,Clear,SDG 3.6,Male,15–24,Motorcyclist,3
+ACC-03962,2023,6,Koshi,Jhapa,Bhadrapur,26.677678,88.092455,Hill Road,Motorcycle,Weather,Night,1,5,3,74,Clear,SDG 3.6,Male,15–24,Motorcyclist,3
+ACC-03963,2025,10,Koshi,Jhapa,Bhadrapur,26.665349,88.086608,Hill Road,Motorcycle,Overspeeding,Morning,1,5,0,55,Rainy,SDG 3.6,Female,45–64,Pedestrian,0
+ACC-03964,2023,12,Koshi,Jhapa,Bhadrapur,26.672017,88.097439,Hill Road,Truck,Weather,Afternoon,1,0,0,86,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-03965,2023,1,Koshi,Jhapa,Bhadrapur,26.667796,88.09174,Urban Road,Bus,Human Error,Evening,2,8,2,84,Foggy,SDG 11.2,Male,25–44,Passenger,2
+ACC-03966,2022,10,Koshi,Jhapa,Bhadrapur,26.671098,88.07875,Hill Road,Tempo,Drunk Driving,Evening,3,6,1,38,Rainy,SDG 11.2,Male,15–24,Motorcyclist,1
+ACC-03967,2022,1,Koshi,Jhapa,Bhadrapur,26.670971,88.080267,Hill Road,Bus,Road Condition,Evening,2,8,0,30,Clear,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-03968,2021,4,Koshi,Jhapa,Bhadrapur,26.678888,88.075482,Highway,Motorcycle,Overspeeding,Evening,2,6,0,40,Clear,SDG 11.2,Male,45–64,Pedestrian,0
+ACC-03969,2024,11,Koshi,Jhapa,Bhadrapur,26.674762,88.080211,Hill Road,Motorcycle,Weather,Evening,1,1,0,68,Clear,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-03970,2022,9,Koshi,Jhapa,Bhadrapur,26.663346,88.087987,Rural Road,Motorcycle,Human Error,Evening,4,7,0,47,Clear,SDG 3.6,Male,15–24,Motorcyclist,0
+ACC-03971,2024,10,Koshi,Jhapa,Bhadrapur,26.67645,88.080852,Hill Road,Motorcycle,Human Error,Morning,2,4,0,13,Foggy,SDG 3.6,Male,25–44,Driver,0
+ACC-03972,2023,4,Koshi,Jhapa,Bhadrapur,26.678877,88.082791,Highway,Truck,Weather,Afternoon,1,8,1,66,Clear,SDG 3.6,Male,15–24,Passenger,1
+ACC-03973,2024,9,Koshi,Jhapa,Bhadrapur,26.667532,88.078899,Urban Road,Tempo,Human Error,Afternoon,1,2,2,26,Clear,SDG 3.6,Male,15–24,Motorcyclist,2
+ACC-03974,2022,6,Koshi,Jhapa,Bhadrapur,26.656619,88.084535,Urban Road,Motorcycle,Human Error,Night,3,4,0,43,Clear,SDG 3.6,Male,45–64,Cyclist,0
+ACC-03975,2024,12,Koshi,Jhapa,Bhadrapur,26.669199,88.081892,Highway,Motorcycle,Overspeeding,Night,2,2,0,22,Clear,SDG 11.2,Female,15–24,Cyclist,0
+ACC-03976,2024,2,Koshi,Jhapa,Bhadrapur,26.673598,88.085952,Highway,Motorcycle,Human Error,Afternoon,3,0,1,86,Foggy,SDG 3.6,Male,25–44,Motorcyclist,1
+ACC-03977,2025,4,Koshi,Jhapa,Bhadrapur,26.666323,88.090471,Hill Road,Motorcycle,Drunk Driving,Evening,2,8,1,15,Foggy,SDG 3.6,Male,25–44,Passenger,1
+ACC-03978,2024,5,Koshi,Jhapa,Bhadrapur,26.671789,88.096692,Hill Road,Motorcycle,Overspeeding,Afternoon,3,7,1,26,Clear,SDG 11.2,Male,25–44,Motorcyclist,1
+ACC-03979,2024,12,Koshi,Jhapa,Bhadrapur,26.671192,88.085771,Highway,Bus,Landslide,Evening,1,6,1,5,Rainy,SDG 3.6,Male,15–24,Motorcyclist,1
+ACC-03980,2022,5,Koshi,Jhapa,Bhadrapur,26.667003,88.093519,Highway,Motorcycle,Overspeeding,Evening,2,0,0,61,Clear,SDG 11.2,Female,25–44,Pedestrian,0
+ACC-03981,2025,8,Koshi,Jhapa,Bhadrapur,26.681347,88.088788,Highway,Bus,Human Error,Evening,1,0,1,27,Foggy,SDG 11.2,Male,45–64,Passenger,1
+ACC-03982,2025,4,Koshi,Jhapa,Bhadrapur,26.667534,88.08352,Highway,Bicycle,Flood,Night,3,0,0,81,Clear,SDG 3.6,Male,15–24,Passenger,0
+ACC-03983,2024,6,Koshi,Jhapa,Bhadrapur,26.67204,88.083768,Highway,Bicycle,Human Error,Night,4,2,0,15,Rainy,SDG 11.2,Male,25–44,Driver,0
+ACC-03984,2024,1,Koshi,Jhapa,Bhadrapur,26.666355,88.067144,Highway,Motorcycle,Drunk Driving,Evening,2,8,1,20,Rainy,SDG 3.6,Male,15–24,Driver,1
+ACC-03985,2023,4,Koshi,Jhapa,Bhadrapur,26.674031,88.087055,Hill Road,Car,Human Error,Afternoon,1,8,0,63,Clear,SDG 11.2,Male,45–64,Motorcyclist,0
+ACC-03986,2021,4,Koshi,Jhapa,Bhadrapur,26.671161,88.077594,Hill Road,Car,Weather,Night,2,2,1,71,Rainy,SDG 3.6,Female,25–44,Motorcyclist,1
+ACC-03987,2024,2,Koshi,Jhapa,Bhadrapur,26.677002,88.068197,Hill Road,Motorcycle,Human Error,Morning,4,8,1,27,Clear,SDG 11.2,Male,25–44,Motorcyclist,1
+ACC-03988,2025,10,Koshi,Jhapa,Bhadrapur,26.670664,88.090079,Highway,Tempo,Overspeeding,Morning,4,4,1,9,Rainy,SDG 3.6,Male,45–64,Passenger,1
+ACC-03989,2024,9,Koshi,Jhapa,Bhadrapur,26.669832,88.085397,Urban Road,Bus,Human Error,Afternoon,2,6,0,23,Foggy,SDG 3.6,Male,45–64,Driver,0
+ACC-03990,2024,8,Koshi,Jhapa,Bhadrapur,26.667655,88.086034,Highway,Motorcycle,Overspeeding,Morning,3,2,3,68,Clear,SDG 11.2,Female,25–44,Motorcyclist,3
 ACC-03991,2022,9,Koshi,Khotang,Diktel Road,27.207961,86.779965,Highway,Motorcycle,Overspeeding,Morning,2,8,0,61,Clear,SDG 3.6,Female,25–44,Motorcyclist,0
 ACC-03992,2024,1,Koshi,Khotang,Diktel Road,27.222336,86.798601,Urban Road,Car,Human Error,Night,1,6,1,25,Clear,SDG 11.2,Female,65+,Motorcyclist,1
 ACC-03993,2022,7,Koshi,Khotang,Diktel Road,27.212582,86.777627,Urban Road,Tempo,Drunk Driving,Night,2,1,0,75,Clear,SDG 3.6,Male,15–24,Motorcyclist,0
@@ -4729,40 +4729,40 @@ ACC-04727,2025,1,Lumbini,Rupandehi,Mahendra Hwy West,27.669885,83.171758,Highway
 ACC-04728,2024,1,Lumbini,Rupandehi,Mahendra Hwy West,27.651406,83.153067,Highway,Bicycle,Human Error,Night,3,0,0,88,Clear,SDG 11.2,Male,25–44,Cyclist,0
 ACC-04729,2024,1,Lumbini,Rupandehi,Mahendra Hwy West,27.657341,83.147629,Highway,Truck,Overspeeding,Morning,2,6,1,53,Clear,SDG 3.6,Male,15–24,Passenger,1
 ACC-04730,2021,2,Madhesh,Rautahat,Mahendra Hwy Central,26.929312,85.107033,Highway,Motorcycle,Human Error,Morning,2,7,2,11,Foggy,SDG 3.6,Male,15–24,Pedestrian,2
-ACC-04731,2022,3,Madhesh,Rautahat,Mahendra Hwy Central,26.903279,85.088009,Highway,Bus,Weather,Night,3,8,1,76,Rainy,SDG 3.6,Female,0–14,Motorcyclist,1
-ACC-04732,2025,1,Madhesh,Rautahat,Mahendra Hwy Central,26.897799,85.100435,Highway,Motorcycle,Overspeeding,Night,1,2,2,23,Rainy,SDG 3.6,Male,45–64,Driver,2
+ACC-04731,2022,3,Madhesh,Rautahat,Mahendra Hwy Central,26.931214,85.100409,Highway,Bus,Weather,Night,3,8,1,76,Rainy,SDG 3.6,Female,0–14,Motorcyclist,1
+ACC-04732,2025,1,Madhesh,Rautahat,Mahendra Hwy Central,26.930365,85.101791,Highway,Motorcycle,Overspeeding,Night,1,2,2,23,Rainy,SDG 3.6,Male,45–64,Driver,2
 ACC-04733,2023,11,Madhesh,Rautahat,Mahendra Hwy Central,26.907076,85.112448,Highway,Bus,Drunk Driving,Night,2,5,0,41,Clear,SDG 3.6,Male,45–64,Pedestrian,0
-ACC-04734,2025,9,Madhesh,Rautahat,Mahendra Hwy Central,26.885961,85.092763,Highway,Motorcycle,Overspeeding,Afternoon,1,0,1,34,Foggy,SDG 3.6,Male,15–24,Driver,1
-ACC-04735,2022,10,Madhesh,Rautahat,Mahendra Hwy Central,26.891941,85.097101,Highway,Tempo,Road Condition,Afternoon,4,8,3,10,Rainy,SDG 3.6,Male,45–64,Motorcyclist,3
-ACC-04736,2021,8,Madhesh,Rautahat,Mahendra Hwy Central,26.880112,85.125772,Highway,Motorcycle,Road Condition,Evening,4,5,0,42,Clear,SDG 3.6,Male,65+,Motorcyclist,0
+ACC-04734,2025,9,Madhesh,Rautahat,Mahendra Hwy Central,26.934096,85.096188,Highway,Motorcycle,Overspeeding,Afternoon,1,0,1,34,Foggy,SDG 3.6,Male,15–24,Driver,1
+ACC-04735,2022,10,Madhesh,Rautahat,Mahendra Hwy Central,26.928436,85.090621,Highway,Tempo,Road Condition,Afternoon,4,8,3,10,Rainy,SDG 3.6,Male,45–64,Motorcyclist,3
+ACC-04736,2021,8,Madhesh,Rautahat,Mahendra Hwy Central,26.915856,85.125964,Highway,Motorcycle,Road Condition,Evening,4,5,0,42,Clear,SDG 3.6,Male,65+,Motorcyclist,0
 ACC-04737,2021,7,Madhesh,Rautahat,Mahendra Hwy Central,26.917817,85.077283,Highway,Motorcycle,Human Error,Morning,2,7,0,18,Clear,SDG 11.2,Male,15–24,Motorcyclist,0
-ACC-04738,2023,8,Madhesh,Rautahat,Mahendra Hwy Central,26.894498,85.091336,Highway,Truck,Overspeeding,Evening,4,5,0,37,Clear,SDG 3.6,Male,65+,Passenger,0
+ACC-04738,2023,8,Madhesh,Rautahat,Mahendra Hwy Central,26.929122,85.09445,Highway,Truck,Overspeeding,Evening,4,5,0,37,Clear,SDG 3.6,Male,65+,Passenger,0
 ACC-04739,2021,1,Madhesh,Rautahat,Mahendra Hwy Central,26.899557,85.105678,Highway,Car,Road Condition,Morning,2,7,0,82,Clear,SDG 3.6,Male,25–44,Pedestrian,0
-ACC-04740,2025,1,Madhesh,Rautahat,Mahendra Hwy Central,26.893758,85.095124,Highway,Motorcycle,Flood,Evening,4,6,2,62,Rainy,SDG 11.2,Female,25–44,Driver,2
-ACC-04741,2021,11,Madhesh,Rautahat,Mahendra Hwy Central,26.895796,85.093837,Highway,Motorcycle,Road Condition,Evening,3,2,0,46,Foggy,SDG 3.6,Male,45–64,Passenger,0
-ACC-04742,2023,4,Madhesh,Rautahat,Mahendra Hwy Central,26.896466,85.063746,Highway,Motorcycle,Landslide,Night,4,4,0,51,Rainy,SDG 3.6,Female,45–64,Passenger,0
-ACC-04743,2025,3,Madhesh,Rautahat,Mahendra Hwy Central,26.889255,85.103446,Highway,Car,Drunk Driving,Night,2,1,0,86,Clear,SDG 11.2,Male,25–44,Pedestrian,0
+ACC-04740,2025,1,Madhesh,Rautahat,Mahendra Hwy Central,26.93269,85.094961,Highway,Motorcycle,Flood,Evening,4,6,2,62,Rainy,SDG 11.2,Female,25–44,Driver,2
+ACC-04741,2021,11,Madhesh,Rautahat,Mahendra Hwy Central,26.921938,85.102555,Highway,Motorcycle,Road Condition,Evening,3,2,0,46,Foggy,SDG 3.6,Male,45–64,Passenger,0
+ACC-04742,2023,4,Madhesh,Rautahat,Mahendra Hwy Central,26.956707,85.06267,Highway,Motorcycle,Landslide,Night,4,4,0,51,Rainy,SDG 3.6,Female,45–64,Passenger,0
+ACC-04743,2025,3,Madhesh,Rautahat,Mahendra Hwy Central,26.928443,85.105342,Highway,Car,Drunk Driving,Night,2,1,0,86,Clear,SDG 11.2,Male,25–44,Pedestrian,0
 ACC-04744,2022,8,Madhesh,Rautahat,Mahendra Hwy Central,26.905539,85.115822,Highway,Car,Flood,Night,3,4,0,85,Clear,SDG 11.2,Male,25–44,Motorcyclist,0
 ACC-04745,2024,9,Madhesh,Rautahat,Mahendra Hwy Central,26.918277,85.117975,Highway,Motorcycle,Road Condition,Evening,4,8,0,84,Rainy,SDG 3.6,Male,45–64,Motorcyclist,0
-ACC-04746,2024,1,Madhesh,Rautahat,Mahendra Hwy Central,26.88291,85.092374,Highway,Bus,Overspeeding,Night,4,2,0,18,Foggy,SDG 11.2,Male,25–44,Passenger,0
-ACC-04747,2025,9,Madhesh,Rautahat,Mahendra Hwy Central,26.889704,85.103076,Highway,Bus,Road Condition,Night,2,8,0,22,Clear,SDG 3.6,Female,25–44,Pedestrian,0
-ACC-04748,2022,11,Madhesh,Rautahat,Mahendra Hwy Central,26.900197,85.092306,Highway,Tempo,Human Error,Morning,2,3,0,64,Rainy,SDG 3.6,Male,45–64,Driver,0
-ACC-04749,2023,12,Madhesh,Rautahat,Mahendra Hwy Central,26.887535,85.093726,Highway,Motorcycle,Human Error,Afternoon,2,3,0,69,Clear,SDG 3.6,Male,25–44,Motorcyclist,0
-ACC-04750,2023,11,Madhesh,Rautahat,Mahendra Hwy Central,26.910394,85.083164,Highway,Motorcycle,Landslide,Evening,2,5,0,12,Clear,SDG 11.2,Male,65+,Passenger,0
-ACC-04751,2023,1,Madhesh,Rautahat,Mahendra Hwy Central,26.89062,85.110153,Highway,Motorcycle,Human Error,Night,1,1,2,54,Rainy,SDG 3.6,Female,15–24,Passenger,2
+ACC-04746,2024,1,Madhesh,Rautahat,Mahendra Hwy Central,26.935943,85.087679,Highway,Bus,Overspeeding,Night,4,2,0,18,Foggy,SDG 11.2,Male,25–44,Passenger,0
+ACC-04747,2025,9,Madhesh,Rautahat,Mahendra Hwy Central,26.926388,85.105488,Highway,Bus,Road Condition,Night,2,8,0,22,Clear,SDG 3.6,Female,25–44,Pedestrian,0
+ACC-04748,2022,11,Madhesh,Rautahat,Mahendra Hwy Central,26.933292,85.093205,Highway,Tempo,Human Error,Morning,2,3,0,64,Rainy,SDG 3.6,Male,45–64,Driver,0
+ACC-04749,2023,12,Madhesh,Rautahat,Mahendra Hwy Central,26.939695,85.089355,Highway,Motorcycle,Human Error,Afternoon,2,3,0,69,Clear,SDG 3.6,Male,25–44,Motorcyclist,0
+ACC-04750,2023,11,Madhesh,Rautahat,Mahendra Hwy Central,26.949895,85.084284,Highway,Motorcycle,Landslide,Evening,2,5,0,12,Clear,SDG 11.2,Male,65+,Passenger,0
+ACC-04751,2023,1,Madhesh,Rautahat,Mahendra Hwy Central,26.914745,85.108265,Highway,Motorcycle,Human Error,Night,1,1,2,54,Rainy,SDG 3.6,Female,15–24,Passenger,2
 ACC-04752,2024,12,Madhesh,Rautahat,Mahendra Hwy Central,26.901534,85.122385,Highway,Bus,Human Error,Night,1,4,0,28,Clear,SDG 3.6,Male,25–44,Passenger,0
 ACC-04753,2025,5,Madhesh,Rautahat,Mahendra Hwy Central,26.901388,85.132557,Highway,Motorcycle,Drunk Driving,Night,3,4,1,86,Clear,SDG 3.6,Female,25–44,Motorcyclist,1
-ACC-04754,2024,6,Madhesh,Rautahat,Mahendra Hwy Central,26.896791,85.093546,Highway,Motorcycle,Weather,Evening,3,2,1,10,Rainy,SDG 3.6,Male,15–24,Motorcyclist,1
-ACC-04755,2021,3,Madhesh,Rautahat,Mahendra Hwy Central,26.897315,85.09796,Highway,Bus,Drunk Driving,Evening,4,3,1,43,Rainy,SDG 3.6,Male,15–24,Pedestrian,1
-ACC-04756,2023,12,Madhesh,Rautahat,Mahendra Hwy Central,26.887865,85.098659,Highway,Motorcycle,Weather,Evening,3,5,3,12,Rainy,SDG 3.6,Female,25–44,Motorcyclist,3
-ACC-04757,2022,5,Madhesh,Rautahat,Mahendra Hwy Central,26.898453,85.098217,Highway,Motorcycle,Overspeeding,Afternoon,2,6,1,28,Clear,SDG 3.6,Male,65+,Passenger,1
-ACC-04758,2023,2,Madhesh,Rautahat,Mahendra Hwy Central,26.899312,85.098032,Highway,Motorcycle,Road Condition,Morning,4,7,0,51,Clear,SDG 3.6,Female,65+,Pedestrian,0
-ACC-04759,2024,5,Madhesh,Rautahat,Mahendra Hwy Central,26.898656,85.089993,Highway,Motorcycle,Road Condition,Morning,2,5,1,45,Clear,SDG 3.6,Male,15–24,Driver,1
-ACC-04760,2024,11,Madhesh,Rautahat,Mahendra Hwy Central,26.886905,85.104603,Highway,Motorcycle,Human Error,Afternoon,3,3,1,19,Rainy,SDG 11.2,Female,0–14,Driver,1
-ACC-04761,2023,5,Madhesh,Rautahat,Mahendra Hwy Central,26.910902,85.080805,Highway,Bus,Human Error,Evening,1,6,2,44,Foggy,SDG 11.2,Female,25–44,Motorcyclist,2
-ACC-04762,2025,5,Madhesh,Rautahat,Mahendra Hwy Central,26.888897,85.098431,Highway,Tempo,Overspeeding,Afternoon,1,2,0,38,Clear,SDG 3.6,Male,45–64,Motorcyclist,0
+ACC-04754,2024,6,Madhesh,Rautahat,Mahendra Hwy Central,26.92534,85.09267,Highway,Motorcycle,Weather,Evening,3,2,1,10,Rainy,SDG 3.6,Male,15–24,Motorcyclist,1
+ACC-04755,2021,3,Madhesh,Rautahat,Mahendra Hwy Central,26.929736,85.096367,Highway,Bus,Drunk Driving,Evening,4,3,1,43,Rainy,SDG 3.6,Male,15–24,Pedestrian,1
+ACC-04756,2023,12,Madhesh,Rautahat,Mahendra Hwy Central,26.933893,85.101069,Highway,Motorcycle,Weather,Evening,3,5,3,12,Rainy,SDG 3.6,Female,25–44,Motorcyclist,3
+ACC-04757,2022,5,Madhesh,Rautahat,Mahendra Hwy Central,26.938361,85.101924,Highway,Motorcycle,Overspeeding,Afternoon,2,6,1,28,Clear,SDG 3.6,Male,65+,Passenger,1
+ACC-04758,2023,2,Madhesh,Rautahat,Mahendra Hwy Central,26.941963,85.10579,Highway,Motorcycle,Road Condition,Morning,4,7,0,51,Clear,SDG 3.6,Female,65+,Pedestrian,0
+ACC-04759,2024,5,Madhesh,Rautahat,Mahendra Hwy Central,26.930763,85.088413,Highway,Motorcycle,Road Condition,Morning,2,5,1,45,Clear,SDG 3.6,Male,15–24,Driver,1
+ACC-04760,2024,11,Madhesh,Rautahat,Mahendra Hwy Central,26.934887,85.105779,Highway,Motorcycle,Human Error,Afternoon,3,3,1,19,Rainy,SDG 11.2,Female,0–14,Driver,1
+ACC-04761,2023,5,Madhesh,Rautahat,Mahendra Hwy Central,26.948042,85.082098,Highway,Bus,Human Error,Evening,1,6,2,44,Foggy,SDG 11.2,Female,25–44,Motorcyclist,2
+ACC-04762,2025,5,Madhesh,Rautahat,Mahendra Hwy Central,26.934553,85.101641,Highway,Tempo,Overspeeding,Afternoon,1,2,0,38,Clear,SDG 3.6,Male,45–64,Motorcyclist,0
 ACC-04763,2025,10,Madhesh,Rautahat,Mahendra Hwy Central,26.909538,85.111062,Highway,Truck,Overspeeding,Afternoon,4,8,2,76,Clear,SDG 3.6,Female,45–64,Motorcyclist,2
-ACC-04764,2022,11,Madhesh,Rautahat,Mahendra Hwy Central,26.88,85.104225,Highway,Motorcycle,Road Condition,Morning,4,6,0,34,Clear,SDG 11.2,Female,15–24,Motorcyclist,0
+ACC-04764,2022,11,Madhesh,Rautahat,Mahendra Hwy Central,26.923663,85.102815,Highway,Motorcycle,Road Condition,Morning,4,6,0,34,Clear,SDG 11.2,Female,15–24,Motorcyclist,0
 ACC-04765,2022,11,Koshi,Sunsari,Mahendra Hwy East,26.708453,87.041711,Highway,Car,Overspeeding,Evening,4,3,1,54,Rainy,SDG 3.6,Male,45–64,Motorcyclist,1
 ACC-04766,2022,11,Koshi,Sunsari,Mahendra Hwy East,26.706688,87.03907,Highway,Bicycle,Human Error,Morning,1,2,0,64,Foggy,SDG 11.2,Male,15–24,Cyclist,0
 ACC-04767,2022,6,Koshi,Sunsari,Mahendra Hwy East,26.695095,87.056189,Highway,Motorcycle,Human Error,Morning,4,0,0,60,Foggy,SDG 3.6,Male,15–24,Driver,0
@@ -4798,38 +4798,38 @@ ACC-04796,2021,11,Koshi,Sunsari,Mahendra Hwy East,26.709415,87.050472,Highway,Mo
 ACC-04797,2025,1,Koshi,Sunsari,Mahendra Hwy East,26.712409,87.060765,Highway,Truck,Human Error,Evening,2,5,2,79,Rainy,SDG 11.2,Male,45–64,Passenger,2
 ACC-04798,2023,10,Koshi,Sunsari,Mahendra Hwy East,26.726898,87.032338,Highway,Tempo,Road Condition,Evening,1,8,3,79,Rainy,SDG 11.2,Female,45–64,Cyclist,3
 ACC-04799,2023,5,Koshi,Sunsari,Mahendra Hwy East,26.694925,87.058307,Highway,Motorcycle,Human Error,Morning,3,5,2,60,Rainy,SDG 11.2,Female,25–44,Cyclist,2
-ACC-04800,2023,7,Lumbini,Dang,Mahendra Hwy Dang,27.915513,82.500206,Highway,Bus,Overspeeding,Evening,2,8,3,18,Clear,SDG 11.2,Male,0–14,Driver,3
-ACC-04801,2024,7,Lumbini,Dang,Mahendra Hwy Dang,27.901994,82.507938,Highway,Car,Flood,Morning,3,6,0,87,Foggy,SDG 11.2,Male,25–44,Passenger,0
-ACC-04802,2024,7,Lumbini,Dang,Mahendra Hwy Dang,27.897487,82.511743,Highway,Motorcycle,Drunk Driving,Morning,2,6,1,48,Rainy,SDG 11.2,Male,45–64,Cyclist,1
-ACC-04803,2025,11,Lumbini,Dang,Mahendra Hwy Dang,27.912212,82.514715,Highway,Truck,Overspeeding,Morning,1,5,2,25,Rainy,SDG 3.6,Male,25–44,Pedestrian,2
-ACC-04804,2025,5,Lumbini,Dang,Mahendra Hwy Dang,27.90606,82.493051,Highway,Motorcycle,Weather,Night,1,7,0,33,Clear,SDG 3.6,Male,15–24,Passenger,0
-ACC-04805,2023,8,Lumbini,Dang,Mahendra Hwy Dang,27.883807,82.50688,Highway,Motorcycle,Weather,Night,1,4,1,52,Foggy,SDG 3.6,Male,15–24,Driver,1
-ACC-04806,2023,4,Lumbini,Dang,Mahendra Hwy Dang,27.91017,82.504002,Highway,Motorcycle,Human Error,Afternoon,1,2,0,26,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
-ACC-04807,2024,11,Lumbini,Dang,Mahendra Hwy Dang,27.881841,82.482484,Highway,Motorcycle,Weather,Morning,1,3,0,14,Rainy,SDG 3.6,Male,45–64,Motorcyclist,0
-ACC-04808,2023,10,Lumbini,Dang,Mahendra Hwy Dang,27.91759,82.497429,Highway,Motorcycle,Drunk Driving,Night,4,8,0,43,Foggy,SDG 11.2,Male,15–24,Motorcyclist,0
-ACC-04809,2024,2,Lumbini,Dang,Mahendra Hwy Dang,27.909193,82.483925,Highway,Motorcycle,Flood,Morning,1,0,0,53,Rainy,SDG 11.2,Female,45–64,Passenger,0
-ACC-04810,2024,7,Lumbini,Dang,Mahendra Hwy Dang,27.908196,82.499799,Highway,Motorcycle,Human Error,Morning,3,6,0,29,Clear,SDG 3.6,Male,25–44,Cyclist,0
-ACC-04811,2023,6,Lumbini,Dang,Mahendra Hwy Dang,27.89374,82.47499,Highway,Motorcycle,Drunk Driving,Night,1,0,3,41,Rainy,SDG 3.6,Male,25–44,Passenger,3
-ACC-04812,2025,11,Lumbini,Dang,Mahendra Hwy Dang,27.891312,82.488182,Highway,Motorcycle,Human Error,Afternoon,1,1,0,16,Rainy,SDG 3.6,Male,45–64,Motorcyclist,0
-ACC-04813,2025,5,Lumbini,Dang,Mahendra Hwy Dang,27.896725,82.492394,Highway,Car,Landslide,Morning,2,5,0,58,Rainy,SDG 11.2,Female,45–64,Passenger,0
-ACC-04814,2025,3,Lumbini,Dang,Mahendra Hwy Dang,27.897489,82.507556,Highway,Truck,Road Condition,Morning,2,4,0,43,Clear,SDG 11.2,Male,45–64,Motorcyclist,0
-ACC-04815,2023,10,Lumbini,Dang,Mahendra Hwy Dang,27.906354,82.51359,Highway,Motorcycle,Human Error,Afternoon,2,2,0,5,Clear,SDG 3.6,Female,25–44,Motorcyclist,0
-ACC-04816,2024,8,Lumbini,Dang,Mahendra Hwy Dang,27.905745,82.502193,Highway,Motorcycle,Landslide,Morning,3,5,1,38,Foggy,SDG 3.6,Male,25–44,Motorcyclist,1
-ACC-04817,2024,7,Lumbini,Dang,Mahendra Hwy Dang,27.892215,82.511509,Highway,Motorcycle,Human Error,Morning,2,8,3,80,Clear,SDG 11.2,Male,25–44,Motorcyclist,3
-ACC-04818,2023,12,Lumbini,Dang,Mahendra Hwy Dang,27.900021,82.512575,Highway,Car,Landslide,Night,1,7,3,90,Foggy,SDG 11.2,Male,15–24,Passenger,3
-ACC-04819,2023,12,Lumbini,Dang,Mahendra Hwy Dang,27.913648,82.509218,Highway,Car,Weather,Evening,2,5,0,10,Clear,SDG 11.2,Female,15–24,Motorcyclist,0
-ACC-04820,2024,3,Lumbini,Dang,Mahendra Hwy Dang,27.896446,82.506033,Highway,Motorcycle,Weather,Night,2,2,2,67,Clear,SDG 11.2,Male,25–44,Cyclist,2
-ACC-04821,2025,4,Lumbini,Dang,Mahendra Hwy Dang,27.893316,82.487797,Highway,Motorcycle,Overspeeding,Night,2,3,1,55,Rainy,SDG 3.6,Male,15–24,Passenger,1
-ACC-04822,2025,4,Lumbini,Dang,Mahendra Hwy Dang,27.87,82.50285,Highway,Car,Drunk Driving,Night,3,1,0,73,Rainy,SDG 3.6,Female,15–24,Passenger,0
-ACC-04823,2022,9,Lumbini,Dang,Mahendra Hwy Dang,27.901272,82.520399,Highway,Motorcycle,Road Condition,Evening,3,6,3,62,Clear,SDG 3.6,Female,25–44,Driver,3
-ACC-04824,2022,6,Lumbini,Dang,Mahendra Hwy Dang,27.888321,82.488385,Highway,Motorcycle,Human Error,Evening,3,3,1,63,Clear,SDG 3.6,Male,15–24,Driver,1
-ACC-04825,2023,12,Lumbini,Dang,Mahendra Hwy Dang,27.893179,82.51075,Highway,Bus,Human Error,Night,1,3,1,10,Rainy,SDG 11.2,Male,25–44,Passenger,1
-ACC-04826,2022,5,Lumbini,Dang,Mahendra Hwy Dang,27.902244,82.506132,Highway,Bus,Human Error,Afternoon,3,8,0,21,Rainy,SDG 11.2,Female,25–44,Passenger,0
-ACC-04827,2024,3,Lumbini,Dang,Mahendra Hwy Dang,27.892119,82.492134,Highway,Motorcycle,Landslide,Night,3,4,0,20,Rainy,SDG 3.6,Female,25–44,Motorcyclist,0
-ACC-04828,2023,3,Lumbini,Dang,Mahendra Hwy Dang,27.898766,82.485965,Highway,Motorcycle,Overspeeding,Night,2,8,0,24,Clear,SDG 11.2,Male,15–24,Motorcyclist,0
-ACC-04829,2021,9,Lumbini,Dang,Mahendra Hwy Dang,27.898669,82.511404,Highway,Motorcycle,Road Condition,Morning,1,0,2,90,Rainy,SDG 11.2,Female,25–44,Passenger,2
-ACC-04830,2023,10,Lumbini,Dang,Mahendra Hwy Dang,27.889445,82.49154,Highway,Motorcycle,Road Condition,Night,2,4,0,88,Rainy,SDG 3.6,Male,65+,Driver,0
-ACC-04831,2025,1,Lumbini,Dang,Mahendra Hwy Dang,27.906694,82.484177,Highway,Motorcycle,Overspeeding,Night,1,4,1,43,Foggy,SDG 3.6,Male,0–14,Motorcyclist,1
+ACC-04800,2023,7,Lumbini,Dang,Mahendra Hwy Dang,27.987790128289877,82.500206,Highway,Bus,Overspeeding,Evening,2,8,3,18,Clear,SDG 11.2,Male,0–14,Driver,3
+ACC-04801,2024,7,Lumbini,Dang,Mahendra Hwy Dang,27.983737724783293,82.507938,Highway,Car,Flood,Morning,3,6,0,87,Foggy,SDG 11.2,Male,25–44,Passenger,0
+ACC-04802,2024,7,Lumbini,Dang,Mahendra Hwy Dang,27.991160893828788,82.511743,Highway,Motorcycle,Drunk Driving,Morning,2,6,1,48,Rainy,SDG 11.2,Male,45–64,Cyclist,1
+ACC-04803,2025,11,Lumbini,Dang,Mahendra Hwy Dang,27.973691820527776,82.514715,Highway,Truck,Overspeeding,Morning,1,5,2,25,Rainy,SDG 3.6,Male,25–44,Pedestrian,2
+ACC-04804,2025,5,Lumbini,Dang,Mahendra Hwy Dang,27.990777099194027,82.493051,Highway,Motorcycle,Weather,Night,1,7,0,33,Clear,SDG 3.6,Male,15–24,Passenger,0
+ACC-04805,2023,8,Lumbini,Dang,Mahendra Hwy Dang,27.98544358323143,82.50078,Highway,Motorcycle,Weather,Night,1,4,1,52,Foggy,SDG 3.6,Male,15–24,Driver,1
+ACC-04806,2023,4,Lumbini,Dang,Mahendra Hwy Dang,27.979547694971487,82.504002,Highway,Motorcycle,Human Error,Afternoon,1,2,0,26,Rainy,SDG 11.2,Male,25–44,Motorcyclist,0
+ACC-04807,2024,11,Lumbini,Dang,Mahendra Hwy Dang,27.974027305851152,82.479597,Highway,Motorcycle,Weather,Morning,1,3,0,14,Rainy,SDG 3.6,Male,45–64,Motorcyclist,0
+ACC-04808,2023,10,Lumbini,Dang,Mahendra Hwy Dang,27.994793802788358,82.497429,Highway,Motorcycle,Drunk Driving,Night,4,8,0,43,Foggy,SDG 11.2,Male,15–24,Motorcyclist,0
+ACC-04809,2024,2,Lumbini,Dang,Mahendra Hwy Dang,27.97315016612696,82.483925,Highway,Motorcycle,Flood,Morning,1,0,0,53,Rainy,SDG 11.2,Female,45–64,Passenger,0
+ACC-04810,2024,7,Lumbini,Dang,Mahendra Hwy Dang,27.989935446620176,82.499799,Highway,Motorcycle,Human Error,Morning,3,6,0,29,Clear,SDG 3.6,Male,25–44,Cyclist,0
+ACC-04811,2023,6,Lumbini,Dang,Mahendra Hwy Dang,27.989428876221872,82.470381,Highway,Motorcycle,Drunk Driving,Night,1,0,3,41,Rainy,SDG 3.6,Male,25–44,Passenger,3
+ACC-04812,2025,11,Lumbini,Dang,Mahendra Hwy Dang,27.98130365659937,82.485678,Highway,Motorcycle,Human Error,Afternoon,1,1,0,16,Rainy,SDG 3.6,Male,45–64,Motorcyclist,0
+ACC-04813,2025,5,Lumbini,Dang,Mahendra Hwy Dang,27.9838712439493,82.494142,Highway,Car,Landslide,Morning,2,5,0,58,Rainy,SDG 11.2,Female,45–64,Passenger,0
+ACC-04814,2025,3,Lumbini,Dang,Mahendra Hwy Dang,27.9934368646261,82.507556,Highway,Truck,Road Condition,Morning,2,4,0,43,Clear,SDG 11.2,Male,45–64,Motorcyclist,0
+ACC-04815,2023,10,Lumbini,Dang,Mahendra Hwy Dang,27.981699988975606,82.51359,Highway,Motorcycle,Human Error,Afternoon,2,2,0,5,Clear,SDG 3.6,Female,25–44,Motorcyclist,0
+ACC-04816,2024,8,Lumbini,Dang,Mahendra Hwy Dang,27.994427038530237,82.502193,Highway,Motorcycle,Landslide,Morning,3,5,1,38,Foggy,SDG 3.6,Male,25–44,Motorcyclist,1
+ACC-04817,2024,7,Lumbini,Dang,Mahendra Hwy Dang,27.984537123738253,82.519202,Highway,Motorcycle,Human Error,Morning,2,8,3,80,Clear,SDG 11.2,Male,25–44,Motorcyclist,3
+ACC-04818,2023,12,Lumbini,Dang,Mahendra Hwy Dang,27.97505948805255,82.512575,Highway,Car,Landslide,Night,1,7,3,90,Foggy,SDG 11.2,Male,15–24,Passenger,3
+ACC-04819,2023,12,Lumbini,Dang,Mahendra Hwy Dang,27.990892785081204,82.509218,Highway,Car,Weather,Evening,2,5,0,10,Clear,SDG 11.2,Female,15–24,Motorcyclist,0
+ACC-04820,2024,3,Lumbini,Dang,Mahendra Hwy Dang,27.977657109282966,82.506033,Highway,Motorcycle,Weather,Night,2,2,2,67,Clear,SDG 11.2,Male,25–44,Cyclist,2
+ACC-04821,2025,4,Lumbini,Dang,Mahendra Hwy Dang,27.985195607260994,82.492683,Highway,Motorcycle,Overspeeding,Night,2,3,1,55,Rainy,SDG 3.6,Male,15–24,Passenger,1
+ACC-04822,2025,4,Lumbini,Dang,Mahendra Hwy Dang,27.9794299205511,82.495524,Highway,Car,Drunk Driving,Night,3,1,0,73,Rainy,SDG 3.6,Female,15–24,Passenger,0
+ACC-04823,2022,9,Lumbini,Dang,Mahendra Hwy Dang,27.990955131919716,82.520399,Highway,Motorcycle,Road Condition,Evening,3,6,3,62,Clear,SDG 3.6,Female,25–44,Driver,3
+ACC-04824,2022,6,Lumbini,Dang,Mahendra Hwy Dang,27.99121693645655,82.486929,Highway,Motorcycle,Human Error,Evening,3,3,1,63,Clear,SDG 3.6,Male,15–24,Driver,1
+ACC-04825,2023,12,Lumbini,Dang,Mahendra Hwy Dang,27.97787470217805,82.51075,Highway,Bus,Human Error,Night,1,3,1,10,Rainy,SDG 11.2,Male,25–44,Passenger,1
+ACC-04826,2022,5,Lumbini,Dang,Mahendra Hwy Dang,27.98718636343527,82.506132,Highway,Bus,Human Error,Afternoon,3,8,0,21,Rainy,SDG 11.2,Female,25–44,Passenger,0
+ACC-04827,2024,3,Lumbini,Dang,Mahendra Hwy Dang,27.975093995682535,82.494504,Highway,Motorcycle,Landslide,Night,3,4,0,20,Rainy,SDG 3.6,Female,25–44,Motorcyclist,0
+ACC-04828,2023,3,Lumbini,Dang,Mahendra Hwy Dang,27.982056591254544,82.483374,Highway,Motorcycle,Overspeeding,Night,2,8,0,24,Clear,SDG 11.2,Male,15–24,Motorcyclist,0
+ACC-04829,2021,9,Lumbini,Dang,Mahendra Hwy Dang,27.97513103574778,82.511404,Highway,Motorcycle,Road Condition,Morning,1,0,2,90,Rainy,SDG 11.2,Female,25–44,Passenger,2
+ACC-04830,2023,10,Lumbini,Dang,Mahendra Hwy Dang,27.97616824197597,82.485922,Highway,Motorcycle,Road Condition,Night,2,4,0,88,Rainy,SDG 3.6,Male,65+,Driver,0
+ACC-04831,2025,1,Lumbini,Dang,Mahendra Hwy Dang,27.977668315856942,82.484177,Highway,Motorcycle,Overspeeding,Night,1,4,1,43,Foggy,SDG 3.6,Male,0–14,Motorcyclist,1
 ACC-04832,2025,12,Bagmati,Dhading,Prithvi Hwy Malekhu,27.880646,84.801244,Highway,Truck,Road Condition,Night,2,8,3,52,Clear,SDG 3.6,Female,25–44,Motorcyclist,3
 ACC-04833,2025,10,Bagmati,Dhading,Prithvi Hwy Malekhu,27.865902,84.801603,Highway,Motorcycle,Road Condition,Morning,3,3,0,43,Foggy,SDG 3.6,Male,25–44,Driver,0
 ACC-04834,2025,8,Bagmati,Dhading,Prithvi Hwy Malekhu,27.895708,84.809972,Highway,Tempo,Drunk Driving,Morning,4,2,0,71,Foggy,SDG 11.2,Male,25–44,Passenger,0
